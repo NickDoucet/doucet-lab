@@ -1,8 +1,5 @@
 ---
-layout: home
-title: "The Doucet Lab – Structural Biology, Protein Engineering & Biomolecular Characterization"
 ---
-
 # The Doucet Lab – Structural Biology, Protein Engineering & Biomolecular Characterization
 
 Welcome to the **Doucet Lab** at the INRS – Armand-Frappier Health & Biotechnology Research Centre (Laval, Canada).  
