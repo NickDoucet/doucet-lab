@@ -6,6 +6,9 @@ header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
+url: "https://nickdoucet.github.io"
+baseurl: "/ndoucet.github.io"
+
 # site social media and other links
 links:
   email: nicolas.doucet@inrs.ca
