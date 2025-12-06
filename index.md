@@ -202,7 +202,7 @@ Trainees benefit from:
 
 {% capture text %}
 
-The lab is embedded within the **INRS – Armand-Frappier Health & Biotechnology Research Centre**, a graduate-level research institute dedicated exclusively to advanced training and high-impact science. :contentReference[oaicite:12]{index=12}  
+The lab is embedded within the **INRS – Armand-Frappier Health & Biotechnology Research Centre**, a graduate-level research institute dedicated exclusively to advanced training and high-impact science. 
 
 Our trainees benefit from:
 
