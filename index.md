@@ -1,18 +1,19 @@
 ---
 layout: home
-title: "Doucet Lab – Structural Biochemistry & Enzyme Engineering"
+title: "Doucet Lab – Structural Biochemistry, Enzyme Engineering & Biomolecular Characterization"
 ---
 
-# Doucet Lab – Structural Biochemistry & Enzyme Engineering
+# Doucet Lab – Structural Biochemistry, Enzyme Engineering & Biomolecular Characterization
 
-Welcome to the **Doucet Lab** at the INRS – Armand-Frappier Health & Biotechnology Research Centre, Université du Québec (Laval, Canada).  
-We study **protein dynamics and enzyme engineering**, with a particular focus on how conformational motions shape catalysis and can be harnessed to design better biocatalysts.
+Welcome to the **Doucet Lab** at the INRS – Armand-Frappier Health & Biotechnology Research Centre (Laval, Canada).  
+We investigate **protein structure, dynamics, and function**, and we develop innovative biochemical, biophysical, and AI-driven tools to engineer enzymes and characterize complex biological systems.
 
-Our research combines:
+Our core expertise spans:
 
-- **NMR spectroscopy** and **X-ray crystallography** for high-resolution structural and dynamic insights  
-- **Directed evolution** and **rational mutagenesis** to reprogram enzyme activity and specificity :contentReference[oaicite:5]{index=5}  
-- **Biochemical and biophysical characterization** (enzyme kinetics, molecular biology, molecular modeling) to connect structure, flexibility, and function  
+- **NMR spectroscopy** & **X-ray crystallography** for high-resolution structural and dynamic analysis  
+- **Protein engineering**, **nanobody development**, and **enzyme redesign**  
+- **Artificial intelligence-guided protein design**, including our in-house platform **SPASE**  
+- **Biomolecular fingerprinting of food matrices** using NMR, Fast-GC, IR spectroscopy & chemometrics  
 
 {%
   include button.html
@@ -31,56 +32,155 @@ Our research combines:
 
 ## Equity, Diversity & Inclusion
 
-Our lab **values and actively promotes diversity**, welcoming students and researchers from all backgrounds, identities, and experiences.  
-We are committed to fostering an inclusive, respectful, and collaborative environment where everyone—regardless of gender, race, ethnicity, sexual orientation, disability, or socioeconomic background—can thrive.  
-We strongly support the participation of women, LGBTQ+ individuals, and other underrepresented groups in science, and we encourage all motivated trainees to join us in advancing discovery. :contentReference[oaicite:6]{index=6}  
+Our group values and actively promotes diversity. We welcome trainees from all backgrounds and are committed to maintaining an inclusive and collaborative environment where every team member can thrive.  
+We strongly support the participation of women, LGBTQ+ individuals, and other underrepresented groups in science, and encourage all motivated trainees to join our research programs.
 
 {% include section.html %}
 
-## Selected media highlights
+## Media Highlights
 
-- **“Ancestral ribonucleases back in motion for evolutionary-dynamics guided protein design”** – spotlight article in *Trends in Biochemical Sciences* (August 2024) :contentReference[oaicite:7]{index=7}  
-- Radio-Canada science segments on COVID-19, protein structure, and viral transmissibility (*Les années lumière* and *Moteur de recherche*, 2020–2021) :contentReference[oaicite:8]{index=8}  
-- Coverage of our collaborative work on conserved protein dynamics in enzyme superfamilies and on SH3 domain specificity in major journals and news outlets :contentReference[oaicite:9]{index=9}  
+- **“Ancestral ribonucleases back in motion for evolutionary-dynamics guided protein design”** – spotlight article in *Trends in Biochemical Sciences* (2024)  
+- Radio-Canada science segments on COVID-19, viral structure, and protein behavior (*Les années lumière*, *Moteur de recherche*)  
+- Coverage of our work on conserved protein dynamics, SH3 specificity, and molecular engineering across several scientific news outlets  
 
 {% include section.html %}
 
-## Research highlights
+# Research Highlights
+
+## Protein Dynamics & Catalysis (Core Theme)
 
 {% capture text %}
 
-Despite remarkable progress in protein engineering and design, creating new and efficient enzymatic activities often remains laborious and time-consuming. Our work asks a central question:
+A central question drives much of our work:
 
-> **Can enzyme engineering benefit from the controlled modulation of protein motions?** :contentReference[oaicite:10]{index=10}  
+> **Can enzyme engineering benefit from the controlled modulation of protein motions?**
 
-By integrating NMR relaxation dispersion, mutagenesis, and evolutionary design, we probe long-range dynamic networks in enzymes and explore how tuning these motions can reshape catalysis.
+Using NMR relaxation dispersion, mutagenesis, and evolutionary design, we examine how dynamic networks shape catalysis and how they can be reprogrammed to generate new functional properties.
+
+Our studies show that related enzymes often retain **conserved dynamic signatures**, even when their sequences diverge—suggesting that flexibility encodes evolutionary information that can guide enzyme redesign.
 
 {%
   include button.html
   link="research"
-  text="Explore our research philosophy"
+  text="Explore our structural biochemistry program"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
 {% endcapture %}
-
 {%
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Protein dynamics & catalysis"
+  title="Protein Dynamics & Enzyme Engineering"
   text=text
 %}
 
+---
+
+## SPASE – AI-Driven Protein Design Platform
+
 {% capture text %}
 
-Using several enzyme systems (including ribonucleases and other model enzymes), we investigate:
+**SPASE (Soluble Protein Analog Selection Engine)** is our in-house AI-assisted protein engineering pipeline.  
+Developed in the Doucet Lab, SPASE integrates:
 
-- how conserved residues and local structural environments define motional and functional properties,  
-- how related enzymes retain similar dynamic signatures within a shared fold,  
-- and how this **structure–function** and **flexibility–function** information can be translated into the design of new molecular biocatalysts. :contentReference[oaicite:11]{index=11}  
+- **ProteinMPNN** for sequence design  
+- **Protein-Sol & Aggrescan3D** for solubility and aggregation prediction  
+- **ESMFold** for rapid structure prediction  
+- A customizable scoring framework for stability, expressibility, mutational tolerance & dynamic signatures  
+
+SPASE enables the **rapid in silico generation of protein variants**, accelerating experimental screening and guiding downstream biophysical characterization.  
+It is now applied across several projects, including nanobody optimization, enzyme redesign, and comparative modeling of human ribonucleases.
+
+{%
+  include button.html
+  link="projects"
+  text="Discover SPASE applications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="SPASE – AI-Guided Protein Engineering"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+---
+
+## Biomolecular & Food Systems Characterization
+
+{% capture text %}
+
+Beyond classical structural biology, our lab leads a growing research program in **food chemistry, biomolecular fingerprinting, and chemometric classification**.  
+In collaboration with partners across Québec, we develop molecular and microbiological tools to characterize:
+
+- **maple syrup chemical composition** (NMR, Fast-GC, MIR/IR spectroscopy)  
+- **terroir signatures and regional markers**  
+- **defect detection and early quality indicators**  
+- **microbial and environmental drivers of product variability**  
+
+Using high-resolution spectroscopy and multivariate statistics, we generate **molecular fingerprints** of food matrices and build predictive models to classify origin, detect adulteration, and understand biochemical pathways underlying flavor development.
+
+This program integrates structural biochemistry, analytical chemistry, microbiome analysis, and AI-based pattern recognition.
+
+{%
+  include button.html
+  link="projects"
+  text="Learn more about biomolecular characterization"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="Biomolecular & Food Matrix Characterization"
+  text=text
+%}
+
+---
+
+## Our Training Environment
+
+{% capture text %}
+
+The Doucet Lab is part of the **INRS – Armand-Frappier Health & Biotechnology Research Centre**, a graduate-only research institute dedicated to high-impact science.  
+Trainees benefit from:
+
+- state-of-the-art NMR, crystallography & biophysics platforms  
+- access to advanced analytical facilities (GC, IR, mass spectrometry, chemometrics)  
+- interdisciplinary collaboration across structural biology, microbiology, AI, and food biotechnology  
+- opportunities for industrial partnerships and cutting-edge applied research  
+
+{%
+  include button.html
+  link="team"
+  text="Meet the team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Environment & Training Philosophy"
+  text=text
+%}
 
 {%
   include button.html
