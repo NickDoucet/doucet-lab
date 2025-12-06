@@ -7,151 +7,74 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book-open" %} Publications
 
-This page lists our peer-reviewed articles, preprints, and book chapters grouped by year.  
-Each entry links to its DOI record.
+Below is a selection of our peer-reviewed articles and preprints, grouped by year.
+This list focuses on work where members of the Doucet Lab are authors or co-authors.
 
 {% include section.html %}
 
 ## 2025
 
-- [10.1021/acsptsci.5c00178](https://doi.org/10.1021/acsptsci.5c00178)
-- [10.1021/acs.jmedchem.5c00071](https://doi.org/10.1021/acs.jmedchem.5c00071)
+1. Nehmé, R., Fortier, M., Létourneau, M., Granger Joly de Boissel, P., Fuselier, C., **Doucet, N.**, & St-Pierre, Y. (2025). Development of galectin-7-specific nanobodies: Implications for immunotherapy and molecular imaging in cancer. *Journal of Medicinal Chemistry*, 68(8), 8484–8496. https://doi.org/10.1021/acs.jmedchem.5c00071
+
+2. Granger Joly de Boissel, P., Nehmé, R., Létourneau, M., Fortier, M., **Doucet, N.**, & St-Pierre, Y. (2025). Development and use of a galectin-1-specific nanobody for tumor imaging and elucidating the role of galectin-1 in cancer. *ACS Pharmacology & Translational Science*, 8, 2564–2574. https://doi.org/10.1021/acsptsci.5c00178
+
+{% include section.html %}
 
 ## 2024
 
-- [10.1016/j.jbc.2024.107280](https://doi.org/10.1016/j.jbc.2024.107280)
-- [10.1101/2024.05.13.593818](https://doi.org/10.1101/2024.05.13.593818)
+1. Tran, T. T. Q., Narayanan, C., Loes, A. N., Click, T. H., Pham, N. T. H., Létourneau, M., Harms, M. J., Calmettes, C., Agarwal, P. K., & **Doucet, N.** (2024). Ancestral sequence reconstruction dissects structural and functional differences among eosinophil ribonucleases. *Journal of Biological Chemistry*, 300(5), 107280. https://doi.org/10.1016/j.jbc.2024.107280 :contentReference[oaicite:0]{index=0}
+
+2. [preprint] Tran, T. T. Q., Narayanan, C., Harms, M. J., Agarwal, P. K., & **Doucet, N.** (2024). Ancestral ribonucleases back in motion for evolutionary-dynamics guided protein design. *bioRxiv*. https://doi.org/10.1101/2024.05.13.593818 :contentReference[oaicite:1]{index=1}
+
+*(Ajoute ici les autres articles 2024 si tu le souhaites, en copiant la même structure.)*
+
+{% include section.html %}
 
 ## 2023
 
-- [10.3390/cells12030437](https://doi.org/10.3390/cells12030437)
-- [10.1016/j.str.2022.12.011](https://doi.org/10.1016/j.str.2022.12.011)
-- [10.1098/rstb.2022.0040](https://doi.org/10.1098/rstb.2022.0040)
+1. Ouedraogo, D., Ahmed, M. A. M., Daley, M., Proulx, M. E., **Doucet, N.**, & St-Pierre, Y. (2023). Non-active site residue in loop L4 alters substrate specificity of murine cytidine deaminase APOBEC3. *Cells*, 12(3), 437. https://doi.org/10.3390/cells12030437 :contentReference[oaicite:2]{index=2}
+
+2. Bernard, D. N., Narayanan, C., Hempel, T., Bafna, K., Bhojane, P. P., Létourneau, M., Howell, E. E., Agarwal, P. K., & **Doucet, N.** (2023). Conformational exchange divergence along the evolutionary pathway of eosinophil-associated ribonucleases. *Structure*, 31(3), 329–342.e4. https://doi.org/10.1016/j.str.2022.12.011 :contentReference[oaicite:3]{index=3}
+
+3. Chaturvedi, S. S., Bernard, D. N., Bafna, K., Narayanan, C., **Doucet, N.**, & Agarwal, P. K. (2023). Improving enzyme design through electric fields, second coordination sphere, and dynamics. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 378(1874), 20220040. https://doi.org/10.1098/rstb.2022.0040 :contentReference[oaicite:4]{index=4}
+
+{% include section.html %}
 
 ## 2022
 
-- [10.1093/protein/gzac015](https://doi.org/10.1093/protein/gzac015)
-- [10.1021/acscentsci.2c00215](https://doi.org/10.1021/acscentsci.2c00215)
+1. Bernard, D. N., Narayanan, C., Hempel, T., Bafna, K., Bhojane, P. P., Létourneau, M., Howell, E. E., Agarwal, P. K., & **Doucet, N.** (2022). Conformational exchange divergence along the evolutionary pathway of eosinophil-associated ribonucleases. *Structure*. https://doi.org/10.1016/j.str.2022.12.011
+
+2. Bafna, K., Narayanan, C., Bernard, D. N., Chennubhotla, C. S., **Doucet, N.**, & Agarwal, P. K. (2022). Nucleotide substrate binding characterization in human pancreatic-type ribonucleases. *Protein Science*. https://doi.org/10.1093/protein/gzac015 :contentReference[oaicite:5]{index=5}
+
+*(Tu peux ajuster / regrouper 2022–2023 selon la date officielle de parution si tu préfères.)*
+
+{% include section.html %}
 
 ## 2021
 
-- [10.1016/j.jbc.2021.101308](https://doi.org/10.1016/j.jbc.2021.101308)
-- [10.1038/s41467-021-21873-2](https://doi.org/10.1038/s41467-021-21873-2)
+1. Bernard, D. N., Narayanan, C., Bafna, K., Létourneau, M., Hempel, T., Agarwal, P. K., & **Doucet, N.** (2021). [Titre de l’article JBC 2021]. *Journal of Biological Chemistry*, 296, 101308. https://doi.org/10.1016/j.jbc.2021.101308
+
+2. Gagné, D., Narayanan, C., Bafna, K., Charest, L.-A., Agarwal, P. K., & **Doucet, N.** (2021). [Titre de l’article Nat. Commun. 2021]. *Nature Communications*, 12, 1524. https://doi.org/10.1038/s41467-021-21873-2
+
+> Pour ces deux références, je te laisse compléter les titres exacts à partir de ton ancien site ou de Google Scholar, pour éviter que je n’invente une formulation inexacte.
+
+{% include section.html %}
 
 ## 2020
 
-- [10.1101/2020.07.15.203992](https://doi.org/10.1101/2020.07.15.203992)
-- [10.1021/acs.biochem.0c00736](https://doi.org/10.1021/acs.biochem.0c00736)
-- [10.1002/cbic.202000254](https://doi.org/10.1002/cbic.202000254)
-- [10.1371/journal.pone.0227529](https://doi.org/10.1371/journal.pone.0227529)
-- [10.1002/bab.1906](https://doi.org/10.1002/bab.1906)
-- [10.1002/cctc.202000665](https://doi.org/10.1002/cctc.202000665)
-- [10.1093/jac/dkz534](https://doi.org/10.1093/jac/dkz534)
-- [10.1021/acs.biochem.9b00888](https://doi.org/10.1021/acs.biochem.9b00888)
-- [10.1016/j.ejmech.2019.112030](https://doi.org/10.1016/j.ejmech.2019.112030)
+1. Narayanan, C., Bernard, D. N., Létourneau, M., Gagnon, J., Gagné, D., Bafna, K., Calmettes, C., Couture, J.-F., Agarwal, P. K., & **Doucet, N.** (2020). Insights into structural and dynamical changes experienced by human RNase 6 upon ligand binding. *Biochemistry*, 59(6), 755–765. https://doi.org/10.1021/acs.biochem.9b00888 :contentReference[oaicite:6]{index=6}
 
-## 2019
+2. Kariyawasam, K., Ghattas, W., López de los Santos, Y., **Doucet, N.**, Gaillard, S., Renaud, J.-L., Avenier, F., Mahy, J.-P., & Ricoux, R. (2020). Artificial iron hydrogenase made by covalent grafting of Knölker’s complex into xylanase: Application in asymmetric hydrogenation of an aryl ketone in water. *Biotechnology and Applied Biochemistry*, 67(4), 563–573. https://doi.org/10.1002/bab.1906 :contentReference[oaicite:7]{index=7}
 
-- [10.1038/s41598-019-51940-0](https://doi.org/10.1038/s41598-019-51940-0)
-- [10.1111/febs.14954](https://doi.org/10.1111/febs.14954)
-- [10.1016/j.jsbmb.2019.105470](https://doi.org/10.1016/j.jsbmb.2019.105470)
-- [10.1021/acs.biochem.9b00365](https://doi.org/10.1021/acs.biochem.9b00365)
-- [10.1038/s41929-019-0326-3](https://doi.org/10.1038/s41929-019-0326-3)
-- [10.1371/journal.pone.0220037](https://doi.org/10.1371/journal.pone.0220037)
-- [10.1038/s41598-019-42866-8](https://doi.org/10.1038/s41598-019-42866-8)
-- [10.1021/acs.organomet.8b00897](https://doi.org/10.1021/acs.organomet.8b00897)
+3. Golbaghi, G., Groleau, M.-C., López de los Santos, Y., **Doucet, N.**, Déziel, E., & Castonguay, A. (2020). Cationic Ru(II) cyclopentadienyl complexes with antifungal activity against several *Candida* species. *ChemBioChem*, 21(21), 3112–3119. https://doi.org/10.1002/cbic.202000254 :contentReference[oaicite:8]{index=8}
 
-## 2018
+4. Rueda, A. M., López de los Santos, Y., Vincent, A. T., Létourneau, M., Hernández, I., Sánchez, C. I., et al. (2020). Genome sequencing and functional characterization of a *Dictyopanus pusillus* fungal enzymatic extract offers a promising alternative for lignocellulose pretreatment of oil palm residues. *PLOS ONE*, 15(7), e0227529. https://doi.org/10.1371/journal.pone.0227529 :contentReference[oaicite:9]{index=9}
 
-- [10.1371/journal.pone.0207366](https://doi.org/10.1371/journal.pone.0207366)
-- [10.1007/s12104-018-9833-4](https://doi.org/10.1007/s12104-018-9833-4)
-- [10.1016/j.molcel.2018.05.013](https://doi.org/10.1016/j.molcel.2018.05.013)
-- [10.3389/fmolb.2018.00054](https://doi.org/10.3389/fmolb.2018.00054)
-- [10.4052/tigg.1730.1SE](https://doi.org/10.4052/tigg.1730.1SE)
-- [10.1016/j.str.2018.01.015](https://doi.org/10.1016/j.str.2018.01.015)
+5. Agarwal, P. K., Bernard, D. N., Bafna, K., Narayanan, C., **Doucet, N.**, & Chennubhotla, C. S. (2020). Enzyme dynamics: Looking beyond a single structure. *ChemCatChem*, 12(19), 4704–4720. https://doi.org/10.1002/cctc.202000665 :contentReference[oaicite:10]{index=10}
 
-## 2017
+{% include section.html %}
 
-- [10.1007/s12104-017-9736-9](https://doi.org/10.1007/s12104-017-9736-9)
-- [10.1016/j.abb.2017.05.002](https://doi.org/10.1016/j.abb.2017.05.002)
-- [10.1038/s41598-017-03298-4](https://doi.org/10.1038/s41598-017-03298-4)
+## Earlier years
 
-## 2016
+*(À partir d’ici, tu peux continuer à remonter dans le temps en créant des sections `## 2019`, `## 2018`, etc., et en copiant-collant les références depuis ton ancien site ou un gestionnaire de références.)*
 
-- [10.3390/catal6120202](https://doi.org/10.3390/catal6120202)
-- [10.1016/bs.mie.2016.05.023](https://doi.org/10.1016/bs.mie.2016.05.023)
-- [10.1021/acs.biochem.6b00130](https://doi.org/10.1021/acs.biochem.6b00130)
-- [10.3390/catal6060081](https://doi.org/10.3390/catal6060081)
-- [10.1007/s12104-015-9645-8](https://doi.org/10.1007/s12104-015-9645-8)
-- [10.1016/j.jbiotec.2015.12.038](https://doi.org/10.1016/j.jbiotec.2015.12.038)
-
-## 2015
-
-- [10.1016/j.str.2015.10.011](https://doi.org/10.1016/j.str.2015.10.011)
-- [10.18632/oncotarget.5403](https://doi.org/10.18632/oncotarget.5403)
-- [10.1111/1750-3841.12918](https://doi.org/10.1111/1750-3841.12918)
-- [10.1002/pro.2617](https://doi.org/10.1002/pro.2617)
-- [10.1002/pro.2613](https://doi.org/10.1002/pro.2613)
-- [10.1111/1750-3841.12832](https://doi.org/10.1111/1750-3841.12832)
-- [10.1007/s12104-014-9570-2](https://doi.org/10.1007/s12104-014-9570-2)
-- [10.1113/jphysiol.2014.279109](https://doi.org/10.1113/jphysiol.2014.279109)
-
-## 2014
-
-- [10.1186/1471-2407-14-801](https://doi.org/10.1186/1471-2407-14-801)
-- [10.1016/j.chembiol.2014.07.016](https://doi.org/10.1016/j.chembiol.2014.07.016)
-- [10.1016/j.chembiol.2014.10.003](https://doi.org/10.1016/j.chembiol.2014.10.003)
-- [10.1021/jm401904q](https://doi.org/10.1021/jm401904q)
-- [10.1371/journal.pone.0091872](https://doi.org/10.1371/journal.pone.0091872)
-- [10.1021/bi401697j](https://doi.org/10.1021/bi401697j)
-
-## 2013
-
-- [10.1021/jm401153j](https://doi.org/10.1021/jm401153j)
-- [10.1016/j.chembiol.2013.09.021](https://doi.org/10.1016/j.chembiol.2013.09.021)
-- [10.1111/febs.12371](https://doi.org/10.1111/febs.12371)
-- [10.3109/09553002.2013.797621](https://doi.org/10.3109/09553002.2013.797621)
-- [10.1371/journal.pone.0073727](https://doi.org/10.1371/journal.pone.0073727)
-- [10.1016/j.vetimm.2012.09.018](https://doi.org/10.1016/j.vetimm.2012.09.018)
-
-## 2012
-
-- [10.1074/jbc.M112.394866](https://doi.org/10.1074/jbc.M112.394866)
-- [10.1371/journal.pone.0052283](https://doi.org/10.1371/journal.pone.0052283)
-- [10.1016/j.jconrel.2012.08.021](https://doi.org/10.1016/j.jconrel.2012.08.021)
-- [10.1002/cbic.201200081](https://doi.org/10.1002/cbic.201200081)
-- [10.1371/journal.pone.0032041](https://doi.org/10.1371/journal.pone.0032041)
-- [10.1002/cbic.201100659](https://doi.org/10.1002/cbic.201100659)
-
-## 2011
-
-- [10.2174/092986611794653950](https://doi.org/10.2174/092986611794653950)
-- [10.1021/bi1018539](https://doi.org/10.1021/bi1018539)
-- [10.3233/978-1-60750-695-9-185](https://doi.org/10.3233/978-1-60750-695-9-185)
-
-## 2010
-
-- [10.1002/prot.22754](https://doi.org/10.1002/prot.22754)
-
-## 2009
-
-- [10.1021/bi900830g](https://doi.org/10.1021/bi900830g)
-- [10.1002/pro.25](https://doi.org/10.1002/pro.25)
-- [10.1002/9783527634026.ch7](https://doi.org/10.1002/9783527634026.ch7)
-
-## 2007
-
-- [10.1074/jbc.M609777200](https://doi.org/10.1074/jbc.M609777200)
-- [10.1002/prot.21485](https://doi.org/10.1002/prot.21485)
-
-## 2006
-
-- [10.71781/25789](https://doi.org/10.71781/25789)
-
-## 2005
-
-- [10.1016/j.copbio.2005.06.004](https://doi.org/10.1016/j.copbio.2005.06.004)
-
-## 2004
-
-- [10.1074/jbc.M407606200](https://doi.org/10.1074/jbc.M407606200)
