@@ -200,27 +200,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -236,30 +220,1255 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1021/acsptsci.5c00178
+  title: Development and Use of a Galectin-1-Specific Nanobody for Tumor Imaging and
+    Elucidating the Role of Galectin-1 in Cancer
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Philippine Granger Joly de Boissel
+  - "Rita Nehm\xE9"
+  - "Marl\xE8ne Fortier"
+  - "Myriam L\xE9tourneau"
+  - "Brigitte Gu\xE9rin"
+  - "V\xE9ronique Dumulon-Perreault"
+  - Samia Ait-Mohand
+  - Otman Sarrhini
+  - Camille Fuselier
+  - Alyssa Dumoulin
+  - David Chatenet
+  - Nicolas Doucet
+  - Yves St-Pierre
+  publisher: ACS Pharmacology &amp; Translational Science
+  date: '2025-07-08'
+  link: https://doi.org/hbds35
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1021/acs.jmedchem.5c00071
+  title: 'Development of Galectin-7-Specific Nanobodies: Implications for Immunotherapy
+    and Molecular Imaging in Cancer'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
+  - "Rita Nehm\xE9"
+  - "Marl\xE8ne Fortier"
+  - "Myriam L\xE9tourneau"
+  - Camille Fuselier
+  - Philippine Granger Joly de Boissel
+  - Alyssa Dumoulin
+  - "Brigitte Gu\xE9rin"
+  - "V\xE9ronique Dumulon-Perreault"
+  - Samia Ait-Mohand
+  - Otman Sarrhini
+  - Sacha T. Larda
+  - Yarileny Castellanos Villamizar
+  - Mighel Bernier
+  - "Natalia Por\u0119bska"
+  - "\u0141ukasz Opali\u0144ski"
+  - David Chatenet
+  - Nicolas Doucet
+  - Yves St-Pierre
+  publisher: Journal of Medicinal Chemistry
+  date: '2025-04-10'
+  link: https://doi.org/hbds36
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbc.2024.107280
+  title: Ancestral sequence reconstruction dissects structural and functional differences
+    among eosinophil ribonucleases
+  authors:
+  - Thi Thanh Quynh Tran
+  - Chitra Narayanan
+  - Andrea N. Loes
+  - Timothy H. Click
+  - N.T.Hang Pham
+  - "Myriam L\xE9tourneau"
+  - Michael J. Harms
+  - Charles Calmettes
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Journal of Biological Chemistry
+  date: '2024-05-01'
+  link: https://doi.org/hbds37
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.05.13.593818
+  title: Temperature-responsive control of<i>Pseudomonas aeruginosa</i>virulence determinants
+    through the stabilization of quorum sensing transcriptional regulator RhlR
+  authors:
+  - Thays de Oliveira Pereira
+  - Marie-Christine Groleau
+  - Nicolas Doucet
+  - "Eric D\xE9ziel"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-13'
+  link: https://doi.org/hbds38
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/cells12030437
+  title: 'Placental Galectins in Cancer: Why We Should Pay More Attention'
+  authors:
+  - Camille Fuselier
+  - Alyssa Dumoulin
+  - "Alex Par\xE9"
+  - "Rita Nehm\xE9"
+  - Samy Ajarrag
+  - Philippine Granger Joly de Boissel
+  - David Chatenet
+  - Nicolas Doucet
+  - Yves St-Pierre
+  publisher: Cells
+  date: '2023-01-29'
+  link: https://doi.org/hbds39
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.str.2022.12.011
+  title: Conformational exchange divergence along the evolutionary pathway of eosinophil-associated
+    ribonucleases
+  authors:
+  - David N. Bernard
+  - Chitra Narayanan
+  - Tim Hempel
+  - Khushboo Bafna
+  - Purva Prashant Bhojane
+  - "Myriam L\xE9tourneau"
+  - Elizabeth E. Howell
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Structure
+  date: '2023-03-01'
+  link: https://doi.org/gr7pk9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rstb.2022.0040
+  title: A conserved SH3-like fold in diverse putative proteins tetramerizes into
+    an oxidoreductase providing an antimicrobial resistance phenotype
+  authors:
+  - "Claud\xE8le Lemay-St-Denis"
+  - Lorea Alejaldre
+  - Zakaria Jemouai
+  - Kiana Lafontaine
+  - Maxime St-Aubin
+  - Katia Hitache
+  - Donya Valikhani
+  - Nuwani W. Weerasinghe
+  - "Myriam L\xE9tourneau"
+  - Christopher J. Thibodeaux
+  - Nicolas Doucet
+  - Christian Baron
+  - Janine N. Copp
+  - Joelle N. Pelletier
+  publisher: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
+  date: '2023-01-11'
+  link: https://doi.org/hbds4b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/protein/gzac015
+  title: Integrating dynamics into enzyme engineering
+  authors:
+  - "Claud\xE8le Lemay-St-Denis"
+  - Nicolas Doucet
+  - Joelle N Pelletier
+  publisher: Protein Engineering, Design and Selection
+  date: '2022-01-01'
+  link: https://doi.org/hbds4c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acscentsci.2c00215
+  title: Quantifying Biomolecular Interactions Using Slow Mixing Mode (SLOMO) Nanoflow
+    ESI-MS
+  authors:
+  - Duong T. Bui
+  - Zhixiong Li
+  - Pavel I. Kitov
+  - Ling Han
+  - Elena N. Kitova
+  - "Marl\xE8ne Fortier"
+  - Camille Fuselier
+  - Philippine Granger Joly de Boissel
+  - David Chatenet
+  - Nicolas Doucet
+  - Stephen M. Tompkins
+  - Yves St-Pierre
+  - Lara K. Mahal
+  - John S. Klassen
+  publisher: ACS Central Science
+  date: '2022-07-06'
+  link: https://doi.org/hbds4d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbc.2021.101308
+  title: Perturbing dimer interactions and allosteric communication modulates the
+    immunosuppressive activity of human galectin-7
+  authors:
+  - N. T. Hang Pham
+  - "Myriam L\xE9tourneau"
+  - "Marl\xE8ne Fortier"
+  - "Gabriel B\xE9gin"
+  - M. Sameer Al-Abdul-Wahid
+  - Fabrizio Pucci
+  - Benjamin Folch
+  - Marianne Rooman
+  - David Chatenet
+  - Yves St-Pierre
+  - "Patrick Lag\xFCe"
+  - Charles Calmettes
+  - Nicolas Doucet
+  publisher: Journal of Biological Chemistry
+  date: '2021-11-01'
+  link: https://doi.org/hbds4f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-021-21873-2
+  title: Protein context shapes the specificity of SH3 domain-mediated interactions
+    in vivo
+  authors:
+  - Ugo Dionne
+  - "\xC9milie Bourgault"
+  - "Alexandre K. Dub\xE9"
+  - David Bradley
+  - "Fran\xE7ois J. M. Chartier"
+  - Rohan Dandage
+  - Soham Dibyachintan
+  - "Philippe C. Despr\xE9s"
+  - Gerald D. Gish
+  - N. T. Hang Pham
+  - "Myriam L\xE9tourneau"
+  - Jean-Philippe Lambert
+  - Nicolas Doucet
+  - Nicolas Bisson
+  - Christian R. Landry
+  publisher: Nature Communications
+  date: '2021-03-12'
+  link: https://doi.org/hbds4g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2020.07.15.203992
+  title: An experimentally evolved variant of RsmA confirms its central role in the
+    control of<i>Pseudomonas aeruginosa</i>social motility
+  authors:
+  - Sophie Robitaille
+  - "Yossef L\xF3pez de los Santos"
+  - Marie-Christine Groleau
+  - Fabrice Jean-Pierre
+  - Nicolas Doucet
+  - Jonathan Perreault
+  - "Eric D\xE9ziel"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-07-15'
+  link: https://doi.org/gszqn4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.biochem.0c00736
+  title: Binding of a Soluble <i>meso</i>-Tetraarylporphyrin to Human Galectin-7 Induces
+    Oligomerization and Modulates Its Pro-Apoptotic Activity
+  authors:
+  - "Yossef L\xF3pez de los Santos"
+  - David N. Bernard
+  - Philippe Egesborg
+  - "Myriam L\xE9tourneau"
+  - Clara Lafortune
+  - Matthew J. Cuneo
+  - Agathe Urvoas
+  - David Chatenet
+  - Jean-Pierre Mahy
+  - Yves St-Pierre
+  - "R\xE9my Ricoux"
+  - Nicolas Doucet
+  publisher: Biochemistry
+  date: '2020-11-24'
+  link: https://doi.org/hbds4h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cbic.202000254
+  title: Cationic Ru<sup>II</sup> Cyclopentadienyl Complexes with Antifungal Activity
+    against Several <i>Candida</i> Species
+  authors:
+  - Golara Golbaghi
+  - "Marie\u2010Christine Groleau"
+  - "Yossef L\xF3pez de los Santos"
+  - Nicolas Doucet
+  - "Eric D\xE9ziel"
+  - Annie Castonguay
+  publisher: ChemBioChem
+  date: '2020-08-12'
+  link: https://doi.org/hbds4j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0227529
+  title: Genome sequencing and functional characterization of a Dictyopanus pusillus
+    fungal enzymatic extract offers a promising alternative for lignocellulose pretreatment
+    of oil palm residues
+  authors:
+  - "Andr\xE9s M. Rueda"
+  - "Yossef L\xF3pez de los Santos"
+  - Antony T. Vincent
+  - "Myriam L\xE9tourneau"
+  - "In\xE9s Hern\xE1ndez"
+  - "Clara I. S\xE1nchez"
+  - Daniel Molina V.
+  - Sonia A. Ospina
+  - "Fr\xE9d\xE9ric J. Veyrier"
+  - Nicolas Doucet
+  publisher: PLOS ONE
+  date: '2020-07-30'
+  link: https://doi.org/hbds4k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/bab.1906
+  title: "Artificial iron hydrogenase made by covalent grafting of Kn\xF6lker's complex\
+    \ into xylanase: Application in asymmetric hydrogenation of an aryl ketone in\
+    \ water"
+  authors:
+  - Kalani Kariyawasam
+  - Wadih Ghattas
+  - "Yossef L\xF3pez De Los Santos"
+  - Nicolas Doucet
+  - Sylvain Gaillard
+  - "Jean\u2010Luc Renaud"
+  - "Fr\xE9d\xE9ric Avenier"
+  - "Jean\u2010Pierre Mahy"
+  - "R\xE9my Ricoux"
+  publisher: Biotechnology and Applied Biochemistry
+  date: '2020-05-23'
+  link: https://doi.org/hbds4m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cctc.202000665
+  title: 'Enzyme Dynamics: Looking Beyond a Single Structure'
+  authors:
+  - Pratul K. Agarwal
+  - David N. Bernard
+  - Khushboo Bafna
+  - Nicolas Doucet
+  publisher: ChemCatChem
+  date: '2020-08-21'
+  link: https://doi.org/hbds4n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/jac/dkz534
+  title: Prevalence and mechanisms of azole resistance in clinical isolates of Aspergillus
+    section Fumigati species in a Canadian tertiary care centre, 2000 to 2013
+  authors:
+  - Maxime Parent-Michaud
+  - Philippe J Dufresne
+  - Eric Fournier
+  - Benjamin Folch
+  - Christine Martineau
+  - Sandrine Moreira
+  - Nicolas Doucet
+  - Louis De Repentigny
+  - Simon F Dufresne
+  publisher: Journal of Antimicrobial Chemotherapy
+  date: '2019-12-31'
+  link: https://doi.org/gg7wq6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.biochem.9b00888
+  title: Insights into Structural and Dynamical Changes Experienced by Human RNase
+    6 upon Ligand Binding
+  authors:
+  - Chitra Narayanan
+  - David N. Bernard
+  - "Myriam L\xE9tourneau"
+  - Jacinthe Gagnon
+  - "Donald Gagn\xE9"
+  - Khushboo Bafna
+  - Charles Calmettes
+  - "Jean-Fran\xE7ois Couture"
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Biochemistry
+  date: '2020-01-07'
+  link: https://doi.org/hbds4p
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ejmech.2019.112030
+  title: Synthesis and biological assessment of a ruthenium(II) cyclopentadienyl complex
+    in breast cancer cells and on the development of zebrafish embryos
+  authors:
+  - Golara Golbaghi
+  - "Ir\xE8ne Pitard"
+  - Matthieu Lucas
+  - Mohammad Mehdi Haghdoost
+  - "Yossef L\xF3pez de los Santos"
+  - Nicolas Doucet
+  - Shunmoogum A. Patten
+  - J. Thomas Sanderson
+  - Annie Castonguay
+  publisher: European Journal of Medicinal Chemistry
+  date: '2020-02-01'
+  link: https://doi.org/hbds4q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-019-51940-0
+  title: Dissecting the evolvability landscape of the CalB active site toward aromatic
+    substrates
+  authors:
+  - "Yossef L\xF3pez de los Santos"
+  - Ying Lian Chew-Fajardo
+  - Guillaume Brault
+  - Nicolas Doucet
+  publisher: Scientific Reports
+  date: '2019-10-30'
+  link: https://doi.org/hbds4r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/febs.14954
+  title: "Semi\u2010rational evolution of the 3\u2010(3\u2010hydroxyalkanoyloxy)alkanoate\
+    \ (<scp>HAA</scp>) synthase RhlA to improve rhamnolipid production in <i>Pseudomonas\
+    \ aeruginosa</i> and <i>Burkholderia glumae</i>"
+  authors:
+  - Carlos Eduardo Dulcey
+  - "Yossef L\xF3pez de los Santos"
+  - "Myriam L\xE9tourneau"
+  - "Eric D\xE9ziel"
+  - Nicolas Doucet
+  publisher: The FEBS Journal
+  date: '2019-06-21'
+  link: https://doi.org/hbds4s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jsbmb.2019.105470
+  title: Serotonin and serotonin reuptake inhibitors alter placental aromatase
+  authors:
+  - "Andr\xE9e-Anne Hudon Thibeault"
+  - "Yossef L\xF3pez de los Santos"
+  - Nicolas Doucet
+  - J. Thomas Sanderson
+  - Cathy Vaillancourt
+  publisher: The Journal of Steroid Biochemistry and Molecular Biology
+  date: '2019-12-01'
+  link: https://doi.org/hbds4t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.biochem.9b00365
+  title: "Importance of the \u03B25\u2212\u03B26 Loop for the Structure, Catalytic\
+    \ Efficiency, and Stability of Carbapenem-Hydrolyzing Class D \u03B2-Lactamase\
+    \ Subfamily OXA-143"
+  authors:
+  - "V\xEDctor U. Antunes"
+  - Edgar E. Llontop
+  - Fernanda N. da Costa Vasconcelos
+  - "Yossef L\xF3pez de los Santos"
+  - Ronaldo J. Oliveira
+  - Nilton Lincopan
+  - Chuck S. Farah
+  - Nicolas Doucet
+  - Anthony Mittermaier
+  - Denize C. Favaro
+  publisher: Biochemistry
+  date: '2019-07-29'
+  link: https://doi.org/hbds4v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41929-019-0326-3
+  title: Enzyme catalysis under pressure
+  authors:
+  - Nicolas Doucet
+  publisher: Nature Catalysis
+  date: '2019-07-15'
+  link: https://doi.org/hbds4w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0220037
+  title: Nucleotide substrate binding characterization in human pancreatic-type ribonucleases
+  authors:
+  - Khushboo Bafna
+  - Chitra Narayanan
+  - S. Chakra Chennubhotla
+  - Nicolas Doucet
+  - Pratul K. Agarwal
+  publisher: PLOS ONE
+  date: '2019-08-08'
+  link: https://doi.org/hbds4x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-019-42866-8
+  title: "The Structural Dynamics of Engineered \u03B2-Lactamases Vary Broadly on\
+    \ Three Timescales yet Sustain Native Function"
+  authors:
+  - Sophie M. C. Gobeil
+  - Maximillian C. C. J. C. Ebert
+  - Jaeok Park
+  - "Donald Gagn\xE9"
+  - Nicolas Doucet
+  - Albert M. Berghuis
+  - "J\xFCrgen Pleiss"
+  - Joelle N. Pelletier
+  publisher: Scientific Reports
+  date: '2019-04-30'
+  link: https://doi.org/hbds4z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.organomet.8b00897
+  title: 'Organoruthenium(II) Complexes Bearing an Aromatase Inhibitor: Synthesis,
+    Characterization, <i>in Vitro</i> Biological Activity and <i>in Vivo</i> Toxicity
+    in Zebrafish Embryos'
+  authors:
+  - Golara Golbaghi
+  - Mohammad Mehdi Haghdoost
+  - Debbie Yancu
+  - "Yossef L\xF3pez de los Santos"
+  - Nicolas Doucet
+  - Shunmoogum A. Patten
+  - J. Thomas Sanderson
+  - Annie Castonguay
+  publisher: Organometallics
+  date: '2019-01-31'
+  link: https://doi.org/hbds42
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0207366
+  title: 'Antibacterial properties of the pituitary adenylate cyclase-activating polypeptide:
+    A new human antimicrobial peptide'
+  authors:
+  - Somia Debbabi
+  - Marie-Christine Groleau
+  - "Myriam L\xE9tourneau"
+  - Chitra Narayanan
+  - Laura-Lee Gosselin
+  - Mustapha Iddir
+  - Jacinthe Gagnon
+  - Nicolas Doucet
+  - "Eric D\xE9ziel"
+  - David Chatenet
+  publisher: PLOS ONE
+  date: '2018-11-21'
+  link: https://doi.org/hbds43
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12104-018-9833-4
+  title: 'Correction to: Sequence-specific backbone resonance assignments and microsecond
+    timescale molecular dynamics simulation of human eosinophil-derived neurotoxin'
+  authors:
+  - "Donald Gagn\xE9"
+  - Chitra Narayanan
+  - Khushboo Bafna
+  - Laurie-Anne Charest
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Biomolecular NMR Assignments
+  date: '2018-08-06'
+  link: https://doi.org/hbds44
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.molcel.2018.05.013
+  title: Direct Phosphorylation of SRC Homology 3 Domains by Tyrosine Kinase Receptors
+    Disassembles Ligand-Induced Signaling Networks
+  authors:
+  - Ugo Dionne
+  - "Fran\xE7ois J.M. Chartier"
+  - "Yossef L\xF3pez de los Santos"
+  - "No\xE9mie Lavoie"
+  - David N. Bernard
+  - Sara L. Banerjee
+  - "Fran\xE7ois Otis"
+  - "K\xE9vin Jacquet"
+  - Michel G. Tremblay
+  - Mani Jain
+  - Sylvie Bourassa
+  - Gerald D. Gish
+  - "Jean-Philippe Gagn\xE9"
+  - Guy G. Poirier
+  - Patrick Laprise
+  - Normand Voyer
+  - Christian R. Landry
+  - Nicolas Doucet
+  - Nicolas Bisson
+  publisher: Molecular Cell
+  date: '2018-06-01'
+  link: https://doi.org/gdtz8h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmolb.2018.00054
+  title: Ligand-Induced Variations in Structural and Dynamical Properties Within an
+    Enzyme Superfamily
+  authors:
+  - Chitra Narayanan
+  - David N. Bernard
+  - Khushboo Bafna
+  - "Donald Gagn\xE9"
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Frontiers in Molecular Biosciences
+  date: '2018-06-12'
+  link: https://doi.org/gdrms2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4052/tigg.1730.1SE
+  title: A New Approach to Inhibit Prototypic Galectins
+  authors:
+  - Yves St-Pierre
+  - Nicolas Doucet
+  - David Chatenet
+  publisher: Trends in Glycoscience and Glycotechnology
+  date: '2018-05-25'
+  link: https://doi.org/gs7rp3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.str.2018.01.015
+  title: Conservation of Dynamics Associated with Biological Function in an Enzyme
+    Superfamily
+  authors:
+  - Chitra Narayanan
+  - David N. Bernard
+  - Khushboo Bafna
+  - "Donald Gagn\xE9"
+  - Chakra S. Chennubhotla
+  - Nicolas Doucet
+  - Pratul K. Agarwal
+  publisher: Structure
   date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  link: https://doi.org/gc3hpp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12104-017-9736-9
+  title: Sequence-specific backbone resonance assignments and microsecond timescale
+    molecular dynamics simulation of human eosinophil-derived neurotoxin
+  authors:
+  - "Donald Gagn\xE9"
+  - Chitra Narayanan
+  - Khushboo Bafna
+  - Laurie-Anne Charest
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Biomolecular NMR Assignments
+  date: '2017-03-07'
+  link: https://doi.org/hbds45
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.abb.2017.05.002
+  title: Applications of NMR and computational methodologies to study protein dynamics
+  authors:
+  - Chitra Narayanan
+  - Khushboo Bafna
+  - Louise D. Roux
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Archives of Biochemistry and Biophysics
+  date: '2017-08-01'
+  link: https://doi.org/gbtfcg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41598-017-03298-4
+  title: Conserved amino acid networks modulate discrete functional properties in
+    an enzyme superfamily
+  authors:
+  - Chitra Narayanan
+  - "Donald Gagn\xE9"
+  - Kimberly A. Reynolds
+  - Nicolas Doucet
+  publisher: Scientific Reports
+  date: '2017-06-09'
+  link: https://doi.org/gbh7zn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/catal6120202
+  title: Photoassisted Oxidation of Sulfides Catalyzed by Artificial Metalloenzymes
+    Using Water as an Oxygen Source
+  authors:
+  - Christian Herrero
+  - Nhung Nguyen-Thi
+  - Fabien Hammerer
+  - "Fr\xE9d\xE9ric Banse"
+  - "Donald Gagn\xE9"
+  - Nicolas Doucet
+  - Jean-Pierre Mahy
+  - "R\xE9my Ricoux"
+  publisher: Catalysts
+  date: '2016-12-12'
+  link: https://doi.org/hbds46
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/bs.mie.2016.05.023
+  title: Conformational Sub-states and Populations in Enzyme Catalysis
+  authors:
+  - P.K. Agarwal
+  - N. Doucet
+  - C. Chennubhotla
+  - A. Ramanathan
+  - C. Narayanan
+  publisher: Methods in Enzymology
+  date: '2016-01-01'
+  link: https://doi.org/hbds47
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acs.biochem.6b00130
+  title: Ligand Binding Enhances Millisecond Conformational Exchange in Xylanase B2
+    from <i>Streptomyces lividans</i>
+  authors:
+  - "Donald Gagn\xE9"
+  - Chitra Narayanan
+  - Nhung Nguyen-Thi
+  - Louise D. Roux
+  - David N. Bernard
+  - Joseph S. Brunzelle
+  - "Jean-Fran\xE7ois Couture"
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Biochemistry
+  date: '2016-07-21'
+  link: https://doi.org/f8zfdx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/catal6060081
+  title: 'Role of Conformational Motions in Enzyme Function: Selected Methodologies
+    and Case Studies'
+  authors:
+  - Chitra Narayanan
+  - David Bernard
+  - Nicolas Doucet
+  publisher: Catalysts
+  date: '2016-05-27'
+  link: https://doi.org/f8s5pd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12104-015-9645-8
+  title: "15N, 13C and 1H backbone resonance assignments of an artificially engineered\
+    \ TEM-1/PSE-4 class A \u03B2-lactamase chimera and its deconvoluted mutant"
+  authors:
+  - Sophie M. C. Gobeil
+  - "Donald Gagn\xE9"
+  - Nicolas Doucet
+  - Joelle N. Pelletier
+  publisher: Biomolecular NMR Assignments
+  date: '2015-09-19'
+  link: https://doi.org/hbds48
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jbiotec.2015.12.038
+  title: Combining chitinase C and N-acetylhexosaminidase from Streptomyces coelicolor
+    A3(2) provides an efficient way to synthesize N-acetylglucosamine from crystalline
+    chitin
+  authors:
+  - Nhung Nguyen-Thi
+  - Nicolas Doucet
+  publisher: Journal of Biotechnology
+  date: '2016-02-01'
+  link: https://doi.org/f78mcm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.str.2015.10.011
+  title: Perturbation of the Conformational Dynamics of an Active-Site Loop Alters
+    Enzyme Activity
+  authors:
+  - "Donald Gagn\xE9"
+  - Rachel L. French
+  - Chitra Narayanan
+  - "Miljan Simonovi\u0107"
+  - Pratul K. Agarwal
+  - Nicolas Doucet
+  publisher: Structure
+  date: '2015-12-01'
+  link: https://doi.org/f73vj8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.18632/oncotarget.5403
+  title: Design of a peptidic inhibitor that targets the dimer interface of a prototypic
+    galectin
+  authors:
+  - Maria Claudia Vladoiu
+  - Marilyne Labrie
+  - "Myriam L\xE9tourneau"
+  - Philippe Egesborg
+  - "Donald Gagn\xE9"
+  - "\xC9tienne Billard"
+  - "Andr\xE9e-Anne Grosset"
+  - Nicolas Doucet
+  - David Chatenet
+  - Yves St-Pierre
+  publisher: Oncotarget
+  date: '2015-10-01'
+  link: https://doi.org/hbds49
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1750-3841.12918
+  title: "Antimicrobial Effects of Nisin, Essential Oil, and \u03B3\u2010Irradiation\
+    \ Treatments against High Load of\n                    <i>Salmonella</i>\n   \
+    \                 typhimurium on Mini\u2010carrots"
+  authors:
+  - "Aude Ndoti\u2010Nembe"
+  - Khanh Dang Vu
+  - Jaejoon Han
+  - Nicolas Doucet
+  - Monique Lacroix
+  publisher: Journal of Food Science
+  date: '2015-06-03'
+  link: https://doi.org/f7j3zn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/pro.2617
+  title: "Combinatorial active\u2010site variants confer sustained clavulanate resistance\
+    \ in <scp>B</scp>laC \u03B2\u2010lactamase from <scp><i>M</i></scp><i>ycobacterium\
+    \ tuberculosis</i>"
+  authors:
+  - Philippe Egesborg
+  - "H\xE9l\xE8ne Carlettini"
+  - Jordan P. Volpato
+  - Nicolas Doucet
+  publisher: Protein Science
+  date: '2014-12-30'
+  link: https://doi.org/f664k7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/pro.2613
+  title: "Network of long\u2010range concerted chemical shift displacements upon ligand\
+    \ binding to human angiogenin"
+  authors:
+  - "Donald Gagn\xE9"
+  - Chitra Narayanan
+  - Nicolas Doucet
+  publisher: Protein Science
+  date: '2014-12-26'
+  link: https://doi.org/f66ntw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/1750-3841.12832
+  title: "Antimicrobial Effects of Essential Oils, Nisin, and Irradiation Treatments\
+    \ against\n                    <i>Listeria monocytogenes</i>\n               \
+    \     on Ready\u2010to\u2010Eat Carrots"
+  authors:
+  - "Aude Ndoti\u2010Nembe"
+  - Khanh Dang Vu
+  - Nicolas Doucet
+  - Monique Lacroix
+  publisher: Journal of Food Science
+  date: '2015-03-25'
+  link: https://doi.org/f685nt
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s12104-014-9570-2
+  title: Sequence-specific backbone 1H, 13C, and 15N resonance assignments of human
+    ribonuclease 4
+  authors:
+  - "Donald Gagn\xE9"
+  - Nicolas Doucet
+  publisher: Biomolecular NMR Assignments
+  date: '2014-07-17'
+  link: https://doi.org/f69vxs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1113/jphysiol.2014.279109
+  title: Photoreleasable ligands to study intracrine angiotensin II signalling
+  authors:
+  - Artavazd Tadevosyan
+  - "Myriam L\xE9tourneau"
+  - Benjamin Folch
+  - Nicolas Doucet
+  - Louis R. Villeneuve
+  - Aida M. Mamarbachi
+  - "Darlaine P\xE9trin"
+  - "Terence E. H\xE9bert"
+  - Alain Fournier
+  - David Chatenet
+  - Bruce G. Allen
+  - Stanley Nattel
+  publisher: The Journal of Physiology
+  date: '2015-01-07'
+  link: https://doi.org/f6x6h4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2407-14-801
+  title: Cytosolic galectin-7 impairs p53 functions and induces chemoresistance in
+    breast cancer cells
+  authors:
+  - "Andr\xE9e-Anne Grosset"
+  - Marilyne Labrie
+  - "Donald Gagn\xE9"
+  - Maria-Claudia Vladoiu
+  - Louis Gaboury
+  - Nicolas Doucet
+  - Yves St-Pierre
+  publisher: BMC Cancer
+  date: '2014-11-03'
+  link: https://doi.org/f6nxbx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2014.07.016
+  title: Maintenance of Native-like Protein Dynamics May Not Be Required for Engineering
+    Functional Proteins
+  authors:
+  - "Sophie\_M.C. Gobeil"
+  - "Christopher\_M. Clouthier"
+  - Jaeok Park
+  - "Donald Gagn\xE9"
+  - "Albert\_M. Berghuis"
+  - Nicolas Doucet
+  - "Joelle\_N. Pelletier"
+  publisher: Chemistry &amp; Biology
+  date: '2014-10-01'
+  link: https://doi.org/f6pqv8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2014.10.003
+  title: 'Enzyme Dynamics and Engineering: One Step at a Time'
+  authors:
+  - Nobuhiko Tokuriki
+  - "Colin\_J. Jackson"
+  publisher: Chemistry &amp; Biology
+  date: '2014-10-01'
+  link: https://doi.org/hbds5b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/jm401904q
+  title: Design of a Truncated Cardiotoxin-I Analogue with Potent Insulinotropic Activity
+  authors:
+  - Thi Tuyet Nhung Nguyen
+  - Benjamin Folch
+  - "Myriam L\xE9tourneau"
+  - Nam Hai Truong
+  - Nicolas Doucet
+  - Alain Fournier
+  - David Chatenet
+  publisher: Journal of Medicinal Chemistry
+  date: '2014-03-04'
+  link: https://doi.org/f5wdz7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0091872
+  title: Short-Chain Flavor Ester Synthesis in Organic Media by an E. coli Whole-Cell
+    Biocatalyst Expressing a Newly Characterized Heterologous Lipase
+  authors:
+  - Guillaume Brault
+  - "Fran\xE7ois Shareck"
+  - Yves Hurtubise
+  - "Fran\xE7ois L\xE9pine"
+  - Nicolas Doucet
+  publisher: PLoS ONE
+  date: '2014-03-26'
+  link: https://doi.org/hbds5c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/bi401697j
+  title: "Structure and Activity of the <i>Streptomyces coelicolor</i> A3(2) \u03B2\
+    -<i>N</i>-Acetylhexosaminidase Provides Further Insight into GH20 Family Catalysis\
+    \ and Inhibition"
+  authors:
+  - Nhung Nguyen Thi
+  - Wendy A. Offen
+  - "Fran\xE7ois Shareck"
+  - Gideon J. Davies
+  - Nicolas Doucet
+  publisher: Biochemistry
+  date: '2014-03-11'
+  link: https://doi.org/f5wk5c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/jm401153j
+  title: Development and Pharmacological Characterization of Conformationally Constrained
+    Urotensin II-Related Peptide Agonists
+  authors:
+  - David Chatenet
+  - Benjamin Folch
+  - Debby Feytens
+  - "Myriam L\xE9tourneau"
+  - "Dirk Tourw\xE9"
+  - Nicolas Doucet
+  - Alain Fournier
+  publisher: Journal of Medicinal Chemistry
+  date: '2013-11-26'
+  link: https://doi.org/hbds5d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chembiol.2013.09.021
+  title: 'The End of an Old Hypothesis: The Pseudomonas Signaling Molecules 4-Hydroxy-2-Alkylquinolines
+    Derive from Fatty Acids, Not 3-Ketofatty Acids'
+  authors:
+  - "Carlos\_Eduardo Dulcey"
+  - "Val\xE9rie Dekimpe"
+  - David-Alexandre Fauvelle
+  - Sylvain Milot
+  - Marie-Christine Groleau
+  - Nicolas Doucet
+  - "Laurence\_G. Rahme"
+  - "Fran\xE7ois L\xE9pine"
+  - "Eric D\xE9ziel"
+  publisher: Chemistry &amp; Biology
+  date: '2013-12-01'
+  link: https://doi.org/f5m8qd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/febs.12371
+  title: "Structural and functional importance of local and global conformational\
+    \ fluctuations in the <scp>RN</scp>ase\_<scp>A</scp> superfamily"
+  authors:
+  - "Donald Gagn\xE9"
+  - Nicolas Doucet
+  publisher: The FEBS Journal
+  date: '2013-06-24'
+  link: https://doi.org/f5g9pv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3109/09553002.2013.797621
+  title: Effect of combination of essential oils and bacteriocins on the efficacy
+    of gamma radiation against<i>Salmonella</i>Typhimurium and Listeria monocytogenes
+  authors:
+  - Aude Ndoti-Nembe
+  - Khanh Dang Vu
+  - Nicolas Doucet
+  - Monique Lacroix
+  publisher: International Journal of Radiation Biology
+  date: '2013-05-14'
+  link: https://doi.org/hbds5f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0073727
+  title: 'Systematic Mutational Analysis of the Putative Hydrolase PqsE: Toward a
+    Deeper Molecular Understanding of Virulence Acquisition in Pseudomonas aeruginosa'
+  authors:
+  - Benjamin Folch
+  - "Eric D\xE9ziel"
+  - Nicolas Doucet
+  publisher: PLoS ONE
+  date: '2013-09-10'
+  link: https://doi.org/hbds5g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.vetimm.2012.09.018
+  title: Avian lipocalin expression in chickens following Escherichia coli infection
+    and inhibition of avian pathogenic Escherichia coli growth by Ex-FABP
+  authors:
+  - "Am\xE9lie Gar\xE9naux"
+  - "S\xE9bastien Houle"
+  - Benjamin Folch
+  - "Genevi\xE8ve Dallaire"
+  - "M\xE9lanie Truesdell"
+  - "Fran\xE7ois L\xE9pine"
+  - Nicolas Doucet
+  - Charles M. Dozois
+  publisher: Veterinary Immunology and Immunopathology
+  date: '2013-03-01'
+  link: https://doi.org/hbds5h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M112.394866
+  title: Conservation of Flexible Residue Clusters among Structural and Functional
+    Enzyme Homologues
+  authors:
+  - "Donald Gagn\xE9"
+  - Laurie-Anne Charest
+  - "S\xE9bastien Morin"
+  - Evgenii L. Kovrigin
+  - Nicolas Doucet
+  publisher: Journal of Biological Chemistry
+  date: '2012-12-01'
+  link: https://doi.org/f4gzdc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0052283
+  title: "Chimeric \u03B2-Lactamases: Global Conservation of Parental Function and\
+    \ Fast Time-Scale Dynamics with Increased Slow Motions"
+  authors:
+  - Christopher M. Clouthier
+  - "S\xE9bastien Morin"
+  - Sophie M. C. Gobeil
+  - Nicolas Doucet
+  - Jonathan Blanchet
+  - Elisabeth Nguyen
+  - "St\xE9phane M. Gagn\xE9"
+  - Joelle N. Pelletier
+  publisher: PLoS ONE
+  date: '2012-12-21'
+  link: https://doi.org/hbds5j
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jconrel.2012.08.021
+  title: Design and characterization of novel cell-penetrating peptides from pituitary
+    adenylate cyclase-activating polypeptide
+  authors:
+  - Ngoc-Duc Doan
+  - "Myriam L\xE9tourneau"
+  - David Vaudry
+  - Nicolas Doucet
+  - Benjamin Folch
+  - Hubert Vaudry
+  - Alain Fournier
+  - David Chatenet
+  publisher: Journal of Controlled Release
+  date: '2012-10-01'
+  link: https://doi.org/f4fjhs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cbic.201200081
+  title: "Cardiotoxin\u2010I: An Unexpectedly Potent Insulinotropic Agent"
+  authors:
+  - Thi Tuyet Nhung Nguyen
+  - Benjamin Folch
+  - "Myriam L\xE9tourneau"
+  - David Vaudry
+  - Nam Hai Truong
+  - Nicolas Doucet
+  - David Chatenet
+  - Alain Fournier
+  publisher: ChemBioChem
+  date: '2012-07-16'
+  link: https://doi.org/fz5h5c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0032041
+  title: Isolation and Characterization of EstC, a New Cold-Active Esterase from Streptomyces
+    coelicolor A3(2)
+  authors:
+  - Guillaume Brault
+  - "Fran\xE7ois Shareck"
+  - Yves Hurtubise
+  - "Fran\xE7ois L\xE9pine"
+  - Nicolas Doucet
+  publisher: PLoS ONE
+  date: '2012-03-02'
+  link: https://doi.org/gnnpvh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cbic.201100659
+  title: 'Incorporation of Manganese Complexes into Xylanase: New Artificial Metalloenzymes
+    for Enantioselective Epoxidation'
+  authors:
+  - Mathieu Allard
+  - Claude Dupont
+  - "Victor Mu\xF1oz Robles"
+  - Nicolas Doucet
+  - "Agust\xED Lled\xF3s"
+  - "Jean\u2010Didier Mar\xE9chal"
+  - Agathe Urvoas
+  - "Jean\u2010Pierre Mahy"
+  - "R\xE9my Ricoux"
+  publisher: ChemBioChem
+  date: '2011-12-21'
+  link: https://doi.org/c5f96m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2174/092986611794653950
+  title: Can Enzyme Engineering Benefit from the Modulation of Protein Motions? Lessons
+    Learned from NMR Relaxation Dispersion Experiments
+  authors:
+  - Nicolas Doucet
+  publisher: Protein &amp; Peptide Letters
+  date: '2011-04-01'
+  link: https://doi.org/brf2vr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/bi1018539
+  title: Alteration of Hydrogen Bonding in the Vicinity of Histidine 48 Disrupts Millisecond
+    Motions in RNase A
+  authors:
+  - Nicolas Doucet
+  - Gennady Khirich
+  - Evgenii L. Kovrigin
+  - J. Patrick Loria
+  publisher: Biochemistry
+  date: '2011-02-10'
+  link: https://doi.org/dsddt6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3233/978-1-60750-695-9-185
+  title: Relaxation Dispersion Studies of Enzyme Motions
+  authors:
+  - ' Doucet Nicolas'
+  - ' Loria J. Patrick'
+  publisher: Advances in Biomedical Spectroscopy
+  date: '2011-01-01'
+  link: https://doi.org/hbds5k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/prot.22754
+  title: "The crystal structure of ribonuclease A in complex with thymidine\u2010\
+    3\u2032\u2010monophosphate provides further insight into ligand binding"
+  authors:
+  - Nicolas Doucet
+  - Thusitha B. Jayasundera
+  - "Miljan Simonovi\u0107"
+  - J. Patrick Loria
+  publisher: 'Proteins: Structure, Function, and Bioinformatics'
+  date: '2010-07-02'
+  link: https://doi.org/cr9f9w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/bi900830g
+  title: The Flexibility of a Distant Loop Modulates Active Site Motion and Product
+    Release in Ribonuclease A
+  authors:
+  - Nicolas Doucet
+  - Eric D. Watt
+  - J. Patrick Loria
+  publisher: Biochemistry
+  date: '2009-07-09'
+  link: https://doi.org/frs5jv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/pro.25
+  title: "High tolerance to simultaneous active\u2010site mutations in TEM\u20101\
+    \ \u03B2\u2010lactamase: Distinct mutational paths provide more generalized \u03B2\
+    \u2010lactam recognition"
+  authors:
+  - "Pierre\u2010Yves De Wals"
+  - Nicolas Doucet
+  - Joelle N. Pelletier
+  publisher: Protein Science
+  date: '2008-12-05'
+  link: https://doi.org/ffxtss
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/9783527634026.ch7
+  title: Gaining Insight into Enzyme Function through Correlation with Protein Motions
+  authors:
+  - Nicolas Doucet
+  - Joelle N. Pelletier
+  publisher: Protein Engineering Handbook
+  date: '2008-11-12'
+  link: https://doi.org/ctqq9s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M609777200
+  title: "NMR Investigation of Tyr105 Mutants in TEM-1 \u03B2-Lactamase"
+  authors:
+  - Nicolas Doucet
+  - Pierre-Yves Savard
+  - Joelle N. Pelletier
+  - "St\xE9;phane M. Gagn\xE9;"
+  publisher: Journal of Biological Chemistry
+  date: '2007-07-01'
+  link: https://doi.org/ccspvk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/prot.21485
+  title: "Simulated annealing exploration of an active\u2010site tyrosine in TEM\u2010\
+    1\u03B2\u2010lactamase suggests the existence of alternate conformations"
+  authors:
+  - Nicolas Doucet
+  - Joelle N. Pelletier
+  publisher: 'Proteins: Structure, Function, and Bioinformatics'
+  date: '2007-06-28'
+  link: https://doi.org/b83k7w
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.71781/25789
+  title: "Mutagen\xE8se semi-al\xE9atoire et analyse dynamique de la [b\xEAta]-lactamase\
+    \ TEM-1 de Escherichia coli"
+  authors:
+  - Nicolas Doucet
+  publisher: "Universit\xE9 de Montr\xE9al"
+  date: '2006-01-01'
+  link: https://doi.org/hbds5m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.copbio.2005.06.004
+  title: 'Semi-rational approaches to engineering enzyme activity: combining the benefits
+    of directed evolution and rational design'
+  authors:
+  - Roberto A Chica
+  - Nicolas Doucet
+  - Joelle N Pelletier
+  publisher: Current Opinion in Biotechnology
+  date: '2005-08-01'
+  link: https://doi.org/bd4w7m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M407606200
+  title: "Site-saturation Mutagenesis of Tyr-105 Reveals Its Importance in Substrate\
+    \ Stabilization and Discrimination in TEM-1 \u03B2-Lactamase"
+  authors:
+  - Nicolas Doucet
+  - Pierre-Yves De Wals
+  - Joelle N. Pelletier
+  publisher: Journal of Biological Chemistry
+  date: '2004-10-01'
+  link: https://doi.org/bxpsp7
   plugin: sources.py
   file: sources.yaml
