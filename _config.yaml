@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: The Doucet Lab — Structural Biology & Protein Engineering
-subtitle: Centre Armand-Frappier Santé Biotechnologie (AFSB) - Institut national de la recherche scientifique (INRS) - Université du Québec (Montréal, QC, Canada)
-description: We explore how proteins work at the molecular level and use this knowledge to design new biomolecules with therapeutic and industrial potential. Our research combines structural biology, NMR spectroscopy, nanobody engineering, and AI-powered protein design to reveal mechanisms of disease and create innovative solutions in biotechnology.
+title: "The Doucet Lab — Structural Biology & Protein Engineering"
+subtitle: "Centre Armand-Frappier Santé Biotechnologie (AFSB) - Institut national de la recherche scientifique (INRS) - Université du Québec (Montréal, QC, Canada)"
+description: "We explore how proteins work at the molecular level and use this knowledge to design new biomolecules with therapeutic and industrial potential. Our research combines structural biology, NMR spectroscopy, nanobody engineering, and AI-powered protein design to reveal mechanisms of disease and create innovative solutions in biotechnology."
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
