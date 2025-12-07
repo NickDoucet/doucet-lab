@@ -12,10 +12,6 @@ Entries are numbered globally from the earliest to the most recent publication.
 
 {% include section.html %}
 
-# Publications
-
-{% include section.html %}
-
 ## 2025
 
 Nehmé, R.; Fortier, M.; Létourneau, M.; Fuselier, C.; Granger Joly De Boissel, P.; Dumoulin, A.; Guérin, B.; Dumulon-Perreault, V.; Ait-Mohand, S.; Sarrhini, O.; Larda, S. T.; Castellanos Villamizar, Y.; Bernier, M.; Porębska, N.; Opaliński, Ł.; Chatenet, D.; Doucet, N.; St-Pierre, Y. Development of Galectin-7-Specific Nanobodies: Implications for Immunotherapy and Molecular Imaging in Cancer. J. Med. Chem. 2025, 68 (8), 8484–8496. <https://doi.org/10.1021/acs.jmedchem.5c00071>.
