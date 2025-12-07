@@ -17,8 +17,8 @@ We combine **structural biology**, **AI-guided protein engineering**, **biophysi
 {%
   include feature.html
   image="images/structural.jpg"
-  link="#structural-biochemistry"
-  title="Structural biochemistry & enzyme engineering"
+  link="#structural-biology"
+  title="Structural biology & enzyme engineering"
   text="We study how conformational dynamics, molecular flexibility and active-site architecture shape enzyme function, using NMR, X-ray crystallography, mutagenesis and computational modeling."
 %}
 
@@ -35,23 +35,23 @@ We combine **structural biology**, **AI-guided protein engineering**, **biophysi
   image="images/food.jpg"
   link="#food-systems"
   title="Nanobodies, therapeutics & food systems"
-  text="We engineer nanobodies and molecular inhibitors against key protein targets and apply spectroscopy and chemometrics to complex food matrices such as Québec maple syrup."
+  text="We engineer nanobodies and molecular inhibitors against key protein targets, and apply spectroscopy and chemometrics to complex food matrices such as Québec maple syrup."
 %}
 
 {% include section.html %}
 
 ---
 
-## <a id="structural-biochemistry"></a>Structural biochemistry & enzyme engineering
+## <a id="structural-biology"></a>Structural biology & enzyme engineering
 
 We study how conformational dynamics, molecular flexibility, and active-site architecture shape enzyme function.  
 Our work integrates:
 
-- **NMR spectroscopy** (¹H–¹⁵N HSQC, relaxation dynamics, titration mapping)  
+- **NMR spectroscopy** (multidimensional NMR, relaxation dynamics, titration mapping)  
 - **X-ray crystallography** for high-resolution structural snapshots  
 - **Molecular modeling and mutagenesis** to probe catalytic determinants  
 
-We apply these approaches to biologically important enzymes, including ribonucleases, angiogenin, and carbohydrate-binding proteins such as galectins.
+We apply these approaches to biologically important enzymes, including ribonucleases and carbohydrate-binding proteins such as galectins.
 
 {% include section.html %}
 
@@ -60,11 +60,11 @@ We apply these approaches to biologically important enzymes, including ribonucle
 **SPASE (Soluble Protein Analog Selection Engine)** is our in-house AI-assisted protein design platform. It integrates:
 
 - **ProteinMPNN** for sequence redesign  
-- **Stability and solubility predictions** (e.g. protein-Sol, Aggrescan3D)  
+- **Stability and solubility predictions** (e.g. Protein-Sol, Aggrescan3D)  
 - **Structure prediction** using models such as ESMFold or AlphaFold  
 - Automated ranking and filtering to identify **experimentally tractable** variants  
 
-We use SPASE to design improved enzyme variants, stabilize difficult proteins, explore evolutionary trajectories, and engineer novel molecular functions.
+We use SPASE to design improved protein variants, stabilize difficult scaffolds, explore evolutionary trajectories, and engineer novel molecular functions.
 
 {% include section.html %}
 
@@ -72,10 +72,10 @@ We use SPASE to design improved enzyme variants, stabilize difficult proteins, e
 
 We develop and characterize nanobodies targeting:
 
-- **Human angiogenin (hANG)** – with applications in cancer biology and ribonuclease regulation  
-- **Galectin-7 (GAL-7)** – involved in epithelial homeostasis, cancer progression and immune signaling  
+- **Human RNases** – with applications in cancer biology and ribonuclease regulation  
+- **Human Galectins** – involved in epithelial homeostasis, cancer progression and immune signaling  
 
-Our pipeline includes phage-display nanobody discovery, NMR epitope mapping, biophysical affinity measurements, and structure-guided redesign.  
+Our pipeline includes phage-display nanobody discovery with partners, NMR epitope mapping, biophysical affinity measurements, and structure-guided redesign.  
 These nanobodies act as inhibitors, conformational traps, and crystallization or NMR chaperones for challenging targets.
 
 {% include section.html %}
@@ -85,11 +85,11 @@ These nanobodies act as inhibitors, conformational traps, and crystallization or
 We apply high-resolution spectroscopy and chemometrics to complex biological matrices.  
 In collaboration with academic, industrial and municipal partners, we focus on:
 
-- **Maple syrup molecular fingerprinting** using NMR, Fast-GC and IR spectroscopy  
+- **Maple syrup molecular fingerprinting** using NMR  
 - Identification of **terroir signatures**, **quality defects** and **chemical markers**  
 - Machine-learning models for classification and authenticity assessment  
 
-This interdisciplinary program bridges environmental microbiology, analytical chemistry and biomolecular modeling to understand how ecosystems shape food chemistry.
+This interdisciplinary program bridges environmental microbiology, analytical chemistry, and biomolecular modeling to understand how ecosystems shape food chemistry.
 
 {% include section.html %}
 
