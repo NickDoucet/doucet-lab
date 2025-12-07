@@ -40,13 +40,25 @@ Fuselier, C.; Dumoulin, A.; Paré, A.; Nehmé, R.; Ajarrag, S.; Granger Joly De 
 
 Bernard, D. N.; Narayanan, C.; Hempel, T.; Bafna, K.; Bhojane, P. P.; Létourneau, M.; Howell, E. E.; Agarwal, P. K.; Doucet, N. Conformational Exchange Divergence along the Evolutionary Pathway of Eosinophil-Associated Ribonucleases. Structure 2023, 31 (3), 329–342.e4. <https://doi.org/10.1016/j.str.2022.12.011>.
 
+{% include section.html %}
+
+## 2022
+
 Lemay-St-Denis, C.; Doucet, N.; Pelletier, J. N. Integrating Dynamics into Enzyme Engineering. Protein Engineering, Design and Selection 2022, 35, gzac015. <https://doi.org/10.1093/protein/gzac015>.
 
 Bui, D. T.; Li, Z; Kitov, P. I.; Han, L.; Kitova, E. N.; Fortier, M.; Fuselier, C.; Granger Joly De Boissel, P.; Chatenet, D.; Doucet, N.; Tompkins, S. M.; St-Pierre, Y.; Mahal, L. K.; Klassen, J. S. Quantifying Biomolecular Interactions Using Slow Mixing Mode (SLOMO) Nanoflow ESI-MS. ACS Cent. Sci. 2022, 8 (7), 963–974. <https://doi.org/10.1021/acscentsci.2c00215>.
 
+{% include section.html %}
+
+## 2021
+
 Pham, N. T. H.; Létourneau, M.; Fortier, M.; Bégin, G.; Al-Abdul-Wahid, M. S.; Pucci, F.; Folch, B.; Rooman, M.; Chatenet, D.; St-Pierre, Y.; Lagüe, P.; Calmettes, C.; Doucet, N. Perturbing Dimer Interactions and Allosteric Communication Modulates the Immunosuppressive Activity of Human Galectin-7. Journal of Biological Chemistry 2021, 297 (5), 101308. <https://doi.org/10.1016/j.jbc.2021.101308>.
 
 Dionne, U.; Bourgault, É.; Dubé, A. K.; Bradley, D.; Chartier, F. J. M.; Dandage, R.; Dibyachintan, S.; Després, P. C.; Gish, G. D.; Pham, N. T. H.; Létourneau, M.; Lambert, J.-P.; Doucet, N.; Bisson, N.; Landry, C. R. Protein Context Shapes the Specificity of SH3 Domain-Mediated Interactions in Vivo. Nat Commun 2021, 12 (1), 1597. <https://doi.org/10.1038/s41467-021-21873-2>.
+
+{% include section.html %}
+
+## 2020
 
 Rueda, A. M.; López De Los Santos, Y.; Vincent, A. T.; Létourneau, M.; Hernández, I.; Sánchez, C. I.; Molina V., D.; Ospina, S. A.; Veyrier, F. J.; Doucet, N. Genome Sequencing and Functional Characterization of a Dictyopanus Pusillus Fungal Enzymatic Extract Offers a Promising Alternative for Lignocellulose Pretreatment of Oil Palm Residues. PLoS ONE 2020, 15 (7), e0227529. <https://doi.org/10.1371/journal.pone.0227529>.
 
@@ -66,6 +78,10 @@ Golbaghi, G.; Groleau, M.; López De Los Santos, Y.; Doucet, N.; Déziel, E.; Ca
 
 Agarwal, P. K.; Bernard, D. N.; Bafna, K.; Doucet, N. Enzyme Dynamics: Looking Beyond a Single Structure. ChemCatChem 2020, 12 (19), 4704–4720. <https://doi.org/10.1002/cctc.202000665>.
 
+{% include section.html %}
+
+## 2019
+
 Santos, Y. L. D. L.; Chew-Fajardo, Y. L.; Brault, G.; Doucet, N. Dissecting the Evolvability Landscape of the CalB Active Site toward Aromatic Substrates. Sci Rep 2019, 9 (1), 15588. <https://doi.org/10.1038/s41598-019-51940-0>.
 
 Hudon Thibeault, A.-A.; López De Los Santos, Y.; Doucet, N.; Sanderson, J. T.; Vaillancourt, C. Serotonin and Serotonin Reuptake Inhibitors Alter Placental Aromatase. The Journal of Steroid Biochemistry and Molecular Biology 2019, 195, 105470. <https://doi.org/10.1016/j.jsbmb.2019.105470>.
@@ -82,6 +98,10 @@ Bafna, K.; Narayanan, C.; Chennubhotla, S. C.; Doucet, N.; Agarwal, P. K. Nucleo
 
 Antunes, V. U.; Llontop, E. E.; Vasconcelos, F. N. D. C.; López De Los Santos, Y.; Oliveira, R. J.; Lincopan, N.; Farah, C. S.; Doucet, N.; Mittermaier, A.; Favaro, D. C. Importance of the Β5−β6 Loop for the Structure, Catalytic Efficiency, and Stability of Carbapenem-Hydrolyzing Class D β-Lactamase Subfamily OXA-143. Biochemistry 2019, 58 (34), 3604–3616. <https://doi.org/10.1021/acs.biochem.9b00365>.
 
+{% include section.html %}
+
+## 2018
+
 St-Pierre, Y.; Doucet, N.; Chatenet, D. A New Approach to Inhibit Prototypic Galectins. Trends in Glycoscience and Glycotechnology 2018, 30 (172), SE155–SE165. <https://doi.org/10.4052/tigg.1730.1SE>.
 
 Narayanan, C.; Bernard, D. N.; Bafna, K.; Gagné, D.; Agarwal, P. K.; Doucet, N. Ligand-Induced Variations in Structural and Dynamical Properties Within an Enzyme Superfamily. Front. Mol. Biosci. 2018, 5, 54. <https://doi.org/10.3389/fmolb.2018.00054>.
@@ -94,11 +114,19 @@ Dionne, U.; Chartier, F. J. M.; López De Los Santos, Y.; Lavoie, N.; Bernard, D
 
 Debbabi, S.; Groleau, M.-C.; Létourneau, M.; Narayanan, C.; Gosselin, L.-L.; Iddir, M.; Gagnon, J.; Doucet, N.; Déziel, E.; Chatenet, D. Antibacterial Properties of the Pituitary Adenylate Cyclase-Activating Polypeptide: A New Human Antimicrobial Peptide. PLoS ONE 2018, 13 (11), e0207366. <https://doi.org/10.1371/journal.pone.0207366>.
 
+{% include section.html %}
+
+## 2017
+
 Narayanan, C.; Gagné, D.; Reynolds, K. A.; Doucet, N. Conserved Amino Acid Networks Modulate Discrete Functional Properties in an Enzyme Superfamily. Sci Rep 2017, 7 (1), 3207. <https://doi.org/10.1038/s41598-017-03298-4>.
 
 Narayanan, C.; Bafna, K.; Roux, L. D.; Agarwal, P. K.; Doucet, N. Applications of NMR and Computational Methodologies to Study Protein Dynamics. Archives of Biochemistry and Biophysics 2017, 628, 71–80. <https://doi.org/10.1016/j.abb.2017.05.002>.
 
 Gagné, D.; Narayanan, C.; Bafna, K.; Charest, L.-A.; Agarwal, P. K.; Doucet, N. Sequence-Specific Backbone Resonance Assignments and Microsecond Timescale Molecular Dynamics Simulation of Human Eosinophil-Derived Neurotoxin. Biomol NMR Assign 2017, 11 (2), 143–149. <https://doi.org/10.1007/s12104-017-9736-9>.
+
+{% include section.html %}
+
+## 2016
 
 Nguyen-Thi, N.; Doucet, N. Combining Chitinase C and N-Acetylhexosaminidase from Streptomyces Coelicolor A3(2) Provides an Efficient Way to Synthesize N-Acetylglucosamine from Crystalline Chitin. Journal of Biotechnology 2016, 220, 25–32. <https://doi.org/10.1016/j.jbiotec.2015.12.038>.
 
@@ -111,6 +139,10 @@ Gobeil, S. M. C.; Gagné, D.; Doucet, N.; Pelletier, J. N. 15N, 13C and 1H Backb
 Gagné, D.; Narayanan, C.; Nguyen-Thi, N.; Roux, L. D.; Bernard, D. N.; Brunzelle, J. S.; Couture, J.-F.; Agarwal, P. K.; Doucet, N. Ligand Binding Enhances Millisecond Conformational Exchange in Xylanase B2 from Streptomyces Lividans. Biochemistry 2016, 55 (30), 4184–4196. <https://doi.org/10.1021/acs.biochem.6b00130>.
 
 Agarwal, P. K.; Doucet, N.; Chennubhotla, C.; Ramanathan, A.; Narayanan, C. Conformational Sub-States and Populations in Enzyme Catalysis. In Methods in Enzymology; Elsevier, 2016; Vol. 578, pp 273–297. <https://doi.org/10.1016/bs.mie.2016.05.023>.
+
+{% include section.html %}
+
+## 2015
 
 Vladoiu, M. C.; Labrie, M.; Létourneau, M.; Egesborg, P.; Gagné, D.; Billard, É.; Grosset, A.-A.; Doucet, N.; Chatenet, D.; St-Pierre, Y. Design of a Peptidic Inhibitor That Targets the Dimer Interface of a Prototypic Galectin. Oncotarget 2015, 6 (38), 40970–40980. <https://doi.org/10.18632/oncotarget.5403>.
 
@@ -128,6 +160,10 @@ Gagné, D.; Doucet, N. Sequence-Specific Backbone 1H, 13C, and 15N Resonance Ass
 
 Egesborg, P.; Carlettini, H.; Volpato, J. P.; Doucet, N. Combinatorial Active-site Variants Confer Sustained Clavulanate Resistance in B laC β-lactamase from Mycobacterium Tuberculosis. Protein Science 2015, 24 (4), 534–544. <https://doi.org/10.1002/pro.2617>.
 
+{% include section.html %}
+
+## 2014
+
 Thi, N. N.; Offen, W. A.; Shareck, F.; Davies, G. J.; Doucet, N. Structure and Activity of the Streptomyces Coelicolor A3(2) β-N-Acetylhexosaminidase Provides Further Insight into GH20 Family Catalysis and Inhibition. Biochemistry 2014, 53 (11), 1789–1800. <https://doi.org/10.1021/bi401697j>.
 
 Nguyen, T. T. N.; Folch, B.; Létourneau, M.; Truong, N. H.; Doucet, N.; Fournier, A.; Chatenet, D. Design of a Truncated Cardiotoxin-I Analogue with Potent Insulinotropic Activity. J. Med. Chem. 2014, 57 (6), 2623–2633. <https://doi.org/10.1021/jm401904q>.
@@ -137,6 +173,10 @@ Grosset, A.-A.; Labrie, M.; Gagné, D.; Vladoiu, M.-C.; Gaboury, L.; Doucet, N.;
 Gobeil, S. M. C.; Clouthier, C. M.; Park, J.; Gagné, D.; Berghuis, A. M.; Doucet, N.; Pelletier, J. N. Maintenance of Native-like Protein Dynamics May Not Be Required for Engineering Functional Proteins. Chemistry & Biology 2014, 21 (10), 1330–1340. <https://doi.org/10.1016/j.chembiol.2014.07.016>.
 
 Brault, G.; Shareck, F.; Hurtubise, Y.; Lépine, F.; Doucet, N. Short-Chain Flavor Ester Synthesis in Organic Media by an E. Coli Whole-Cell Biocatalyst Expressing a Newly Characterized Heterologous Lipase. PLoS ONE 2014, 9 (3), e91872. <https://doi.org/10.1371/journal.pone.0091872>.
+
+{% include section.html %}
+
+## 2013
 
 Ndoti-Nembe, A.; Vu, K. D.; Doucet, N.; Lacroix, M. Effect of Combination of Essential Oils and Bacteriocins on the Efficacy of Gamma Radiation against Salmonella Typhimurium and Listeria Monocytogenes. International Journal of Radiation Biology 2013, 89 (10), 794–800. <https://doi.org/10.3109/09553002.2013.797621>.
 
@@ -150,6 +190,10 @@ Dulcey, C. E.; Dekimpe, V.; Fauvelle, D.-A.; Milot, S.; Groleau, M.-C.; Doucet, 
 
 Chatenet, D.; Folch, B.; Feytens, D.; Létourneau, M.; Tourwé, D.; Doucet, N.; Fournier, A. Development and Pharmacological Characterization of Conformationally Constrained Urotensin II-Related Peptide Agonists. J. Med. Chem. 2013, 56 (23), 9612–9622. <https://doi.org/10.1021/jm401153j>.
 
+{% include section.html %}
+
+## 2012
+
 Nguyen, T. T. N.; Folch, B.; Létourneau, M.; Vaudry, D.; Truong, N. H.; Doucet, N.; Chatenet, D.; Fournier, A. Cardiotoxin-I: An Unexpectedly Potent Insulinotropic Agent. ChemBioChem 2012, 13 (12), 1805–1812. <https://doi.org/10.1002/cbic.201200081>.
 
 Gagné, D.; Charest, L.-A.; Morin, S.; Kovrigin, E. L.; Doucet, N. Conservation of Flexible Residue Clusters among Structural and Functional Enzyme Homologues. Journal of Biological Chemistry 2012, 287 (53), 44289–44300. <https://doi.org/10.1074/jbc.M112.394866>.
@@ -162,26 +206,58 @@ Brault, G.; Shareck, F.; Hurtubise, Y.; Lépine, F.; Doucet, N. Isolation and Ch
 
 Allard, M.; Dupont, C.; Muñoz Robles, V.; Doucet, N.; Lledós, A.; Maréchal, J.; Urvoas, A.; Mahy, J.; Ricoux, R. Incorporation of Manganese Complexes into Xylanase: New Artificial Metalloenzymes for Enantioselective Epoxidation. ChemBioChem 2012, 13 (2), 240–251. <https://doi.org/10.1002/cbic.201100659>.
 
+{% include section.html %}
+
+## 2011
+
 Doucet, N.; Khirich, G.; Kovrigin, E. L.; Loria, J. P. Alteration of Hydrogen Bonding in the Vicinity of Histidine 48 Disrupts Millisecond Motions in RNase A. Biochemistry 2011, 50 (10), 1723–1730. <https://doi.org/10.1021/bi1018539>.
 
 Doucet, N.; Loria, J. P. Relaxation Dispersion Studies of Enzyme Motions. In Advances in Biomedical Spectroscopy; IOS Press, 2011. <https://doi.org/10.3233/978-1-60750-695-9-185>.
 
 Doucet, N. Can Enzyme Engineering Benefit from the Modulation of Protein Motions? Lessons Learned from NMR Relaxation Dispersion Experiments. PPL 2011, 18 (4), 336–343. <https://doi.org/10.2174/092986611794653950>.
 
+{% include section.html %}
+
+## 2010
+
 Doucet, N.; Jayasundera, T. B.; Simonović, M.; Loria, J. P. The Crystal Structure of Ribonuclease A in Complex with Thymidine-3′-monophosphate Provides Further Insight into Ligand Binding. Proteins 2010, 78 (11), 2459–2468. <https://doi.org/10.1002/prot.22754>.
+
+{% include section.html %}
+
+## 2009
 
 Doucet, N.; Watt, E. D.; Loria, J. P. The Flexibility of a Distant Loop Modulates Active Site Motion and Product Release in Ribonuclease A. Biochemistry 2009, 48 (30), 7160–7168. <https://doi.org/10.1021/bi900830g>.
 
 De Wals, P.; Doucet, N.; Pelletier, J. N. High Tolerance to Simultaneous Active-site Mutations in TEM-1 β-lactamase: Distinct Mutational Paths Provide More Generalized β-lactam Recognition. Protein Science 2009, 18 (1), 147–160. <https://doi.org/10.1002/pro.25>.
 
+{% include section.html %}
+
+## 2008
+
 Doucet, N.; Pelletier, J. N. Gaining Insight into Enzyme Function through Correlation with Protein Motions. In Protein Engineering Handbook; Lutz, S., Bornscheuer, U. T., Eds.; Wiley, 2008; pp 187–211. <https://doi.org/10.1002/9783527634026.ch7>.
+
+{% include section.html %}
+
+## 2007
 
 Doucet, N.; Savard, P.-Y.; Pelletier, J. N.; Gagné, S. M. NMR Investigation of Tyr105 Mutants in TEM-1 β-Lactamase. Journal of Biological Chemistry 2007, 282 (29), 21448–21459. <https://doi.org/10.1074/jbc.M609777200>.
 
 Doucet, N.; Pelletier, J. N. Simulated Annealing Exploration of an Active-site Tyrosine in TEM-1 β-lactamase Suggests the Existence of Alternate Conformations. Proteins 2007, 69 (2), 340–348. <https://doi.org/10.1002/prot.21485>.
 
+{% include section.html %}
+
+## 2006
+
 Doucet, N. Mutagenèse semi-aléatoire et analyse dynamique de la [bêta]-lactamase TEM-1 de Escherichia coli, Université de Montréal, 2006. <https://doi.org/10.71781/25789>.
 
+{% include section.html %}
+
+## 2005
+
 Chica, R. A.; Doucet, N.; Pelletier, J. N. Semi-Rational Approaches to Engineering Enzyme Activity: Combining the Benefits of Directed Evolution and Rational Design. Current Opinion in Biotechnology 2005, 16 (4), 378–384. <https://doi.org/10.1016/j.copbio.2005.06.004>.
+
+{% include section.html %}
+
+## 2004
 
 Doucet, N.; De Wals, P.-Y.; Pelletier, J. N. Site-Saturation Mutagenesis of Tyr-105 Reveals Its Importance in Substrate Stabilization and Discrimination in TEM-1 β-Lactamase. Journal of Biological Chemistry 2004, 279 (44), 46295–46303. <https://doi.org/10.1074/jbc.M407606200>.
