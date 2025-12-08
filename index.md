@@ -49,7 +49,7 @@ We strongly support the participation of women, LGBTQ+ individuals, and other un
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/maple.jpg"
   link="projects"
   title="Biomolecular & food systems characterization"
   text="We develop NMR models to study maple syrup chemistry, terroir signatures, quality defects and other complex food and biomolecular systems."
