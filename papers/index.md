@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book-open" %} Publications
 
-Below is the list of peer-reviewed articles, preprints, and book chapters authored or co-authored by members of the Doucet Lab, grouped by year.  
-Entries are numbered globally from the earliest to the most recent publication.
+Below is the list of peer-reviewed articles, preprints, and book chapters authored or co-authored by members of the Doucet Lab, grouped by year.
 
 {% include section.html %}
 
@@ -244,7 +243,7 @@ Doucet, N.; Pelletier, J. N. Simulated Annealing Exploration of an Active-site T
 
 ## 2006
 
-Doucet, N. Mutagenèse semi-aléatoire et analyse dynamique de la [bêta]-lactamase TEM-1 de Escherichia coli, Université de Montréal, 2006. <https://doi.org/10.71781/25789>.
+Doucet, N. Mutagenèse semi-aléatoire et analyse dynamique de la β-lactamase TEM-1 de _Escherichia coli_, Université de Montréal, 2006. <https://doi.org/10.71781/25789>.
 
 {% include section.html %}
 
