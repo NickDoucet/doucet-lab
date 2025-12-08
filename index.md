@@ -35,13 +35,13 @@ We strongly support the participation of women, LGBTQ+ individuals, and other un
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Structural biochemistry & enzyme engineering"
+  title="Structural biology & enzyme engineering"
   text="We investigate protein structure, dynamics and catalysis using NMR, X-ray crystallography and mutagenesis to understand how motions shape enzymatic function and to redesign proteins with new activities."
 %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/space.jpg"
   link="projects"
   title="SPASE – AI-guided protein design"
   text="SPASE (Soluble Protein Analog Selection Engine) is our in-house AI-assisted design pipeline that combines sequence design, stability and solubility predictions and rapid structure prediction to generate experimentally tractable protein variants."
