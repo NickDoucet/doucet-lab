@@ -1,7 +1,7 @@
 ---
 ---
 
-# The Doucet Lab – Structural Biology, Protein Engineering & Biomolecular Characterization
+# Our Research Team in Structural Biology, Protein Engineering & Biomolecular Characterization
 
 <img src="{{ 'images/group_photo.jpg' | relative_url }}"
      alt="Doucet Lab group photo"
