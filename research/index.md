@@ -12,37 +12,28 @@ We combine **structural biology**, **AI-guided protein engineering**, **biophysi
 
 {% include section.html %}
 
+## IMCM / MIMC – Molecular Interactions and Materials Characterization platform
+
+We also manage and perform closely integrated research with the **IMCM / MIMC (Molecular Interactions and Materials Characterization) platform** at INRS.  
+This platform provides academic and industrial access to advanced structural biology, biophysics, and analytical tools for probing:
+
+- **Protein-ligand and protein–protein interactions**  
+- **Conformational dynamics and folding landscapes**  
+- **Biomolecular stability, aggregation and self-assembly**  
+
+We work with the platform to design and execute rigorous experimental pipelines, from biophysical screening to high-resolution structural analysis, in support of both fundamental and applied research in small-molecule, materials, protein, and food/biomolecular chemistry.
+
+[Learn more about the IMCM / MIMC platform](https://www.plateformesafsb.inrs.ca/MIMC/index.html)
+
+{% include section.html %}
+
 ## Research programs at a glance
-
-{%
-  include feature.html
-  image="images/structural.jpg"
-  link="#structural-biology"
-  title="Structural biology & enzyme engineering"
-  text="We study how conformational dynamics, molecular flexibility and active-site architecture shape enzyme function, using NMR, X-ray crystallography, mutagenesis and computational modeling."
-%}
-
-{%
-  include feature.html
-  image="images/spase.jpg"
-  link="#spase"
-  title="SPASE – AI-guided protein design"
-  text="SPASE (Soluble Protein Analog Selection Engine) is our in-house AI-assisted design framework that integrates sequence redesign, stability and solubility prediction, and structure prediction to generate experimentally tractable protein variants."
-%}
-
-{%
-  include feature.html
-  image="images/food.jpg"
-  link="#food-systems"
-  title="Nanobodies, therapeutics & food systems"
-  text="We engineer nanobodies and molecular inhibitors against key protein targets, and apply spectroscopy and chemometrics to complex food matrices such as Québec maple syrup."
-%}
 
 {% include section.html %}
 
 ---
 
-## <a id="structural-biology"></a>Structural biology & enzyme engineering
+## <a id="structural-biology"></a>Structural biology & protein engineering
 
 We study how conformational dynamics, molecular flexibility, and active-site architecture shape enzyme function.  
 Our work integrates:
@@ -97,5 +88,3 @@ This interdisciplinary program bridges environmental microbiology, analytical ch
 
 Our work is supported by state-of-the-art NMR facilities, crystallography and biophysics platforms, analytical chemistry infrastructure, and high-performance computing resources for AI-driven protein engineering.  
 We also maintain the **SPASE server**, which hosts internal pipelines for automated design and analysis.
-
-For specific examples, please visit our **[Projects](../projects/)** page.
