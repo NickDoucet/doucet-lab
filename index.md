@@ -1,10 +1,15 @@
 ---
 ---
+
 # The Doucet Lab – Structural Biology, Protein Engineering & Biomolecular Characterization
 
-<p align="center">
-  <img src="images/group_photo.jpg" alt="Doucet Lab Group Photo" style="max-width: 80%; border-radius: 8px;">
-</p>
+<img src="{{ 'images/group_photo.jpg' | relative_url }}"
+     alt="Doucet Lab group photo"
+     style="display:block; margin: 1.5rem auto 2rem auto; max-width:80%; border-radius:10px;">
+
+Welcome to the **Doucet Lab** at the Institut national de la recherche scientifique (INRS) – Université du Québec (Montréal, Canada).  
+We investigate **protein structure, dynamics, and function** and develop innovative biochemical, biophysical, and AI-driven tools to engineer enzymes and characterize complex biological systems.
+
 
 Welcome to the **Doucet Lab** at the Institut national de la recherche scientifique (INRS) – Université du Québec (Montréal, Canada).  
 We investigate **protein structure, dynamics, and function** and develop innovative biochemical, biophysical, and AI-driven tools to engineer enzymes and characterize complex biological systems.
