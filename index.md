@@ -33,7 +33,7 @@ We strongly support the participation of women, LGBTQ+ individuals, and other un
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/structure.jpg"
   link="research"
   title="Structural biology & enzyme engineering"
   text="We investigate protein structure, dynamics and catalysis using NMR, X-ray crystallography and mutagenesis to understand how motions shape enzymatic function and to redesign proteins with new activities."
