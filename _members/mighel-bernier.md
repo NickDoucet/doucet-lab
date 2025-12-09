@@ -1,6 +1,6 @@
 ---
 name: Mighel Bernier
-role: msc
+role: phd
 image: images/team/mighel-bernier.jpg
 
 description: MSc Student – Multivalent nanobody engineering & biophysical characterization
