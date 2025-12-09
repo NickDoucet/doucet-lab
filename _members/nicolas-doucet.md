@@ -1,19 +1,18 @@
 ---
 name: Nicolas Doucet
-role: pi
-order: 1
-
-position: Professor & Principal Investigator
-institution: INRS - Université du Québec
-department: Centre Armand-Frappier Santé Biotechnologie (AFSB)
-
+role: principal-investigator
 image: images/team/nicolas-doucet.jpg
+description: Principal Investigator
 
-email: nicolas.doucet@inrs.ca
-orcid: 0000-0002-1952-9380
-scholar: lLhyrEoAAAAJ
-github: ndoucet
-website: https://nickdoucet.github.io/doucet-lab/
+aliases:
+  - Nicolas Doucet
+  - N. Doucet
+
+links:
+  email: nicolas.doucet@inrs.ca
+  orcid: 0000-0002-1952-9380
+  google-scholar: lLhyrEoAAAAJ
+  github: ndoucet
 ---
 
 Nicolas Doucet obtained his B.S. in biochemistry from Laval University (B.S. Biochemistry, 2000) and successively completed a master's degree (M.S. Biochemistry, 2004) and a doctoral thesis in enzyme engineering with Joelle N. Pelletier at the University of Montreal (Ph.D. Biochemistry, 2007).
