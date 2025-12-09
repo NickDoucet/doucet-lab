@@ -10,10 +10,6 @@
 Welcome to the **Doucet Lab** at the Institut national de la recherche scientifique (INRS) – Université du Québec (Montréal, Canada).  
 We investigate **protein structure, dynamics, and function** and develop innovative biochemical, biophysical, and AI-driven tools to engineer enzymes and characterize complex biological systems.
 
-
-Welcome to the **Doucet Lab** at the Institut national de la recherche scientifique (INRS) – Université du Québec (Montréal, Canada).  
-We investigate **protein structure, dynamics, and function** and develop innovative biochemical, biophysical, and AI-driven tools to engineer enzymes and characterize complex biological systems.
-
 Our core expertise spans:
 
 - **NMR spectroscopy** and **X-ray crystallography** for high-resolution structural and dynamic analysis  
@@ -27,6 +23,7 @@ Our core expertise spans:
 ## Equity, Diversity & Inclusion
 
 Our group values and actively promotes diversity. We welcome trainees from all backgrounds and are committed to maintaining an inclusive and collaborative environment where every team member can thrive.  
+
 We strongly support the participation of women, LGBTQ+ individuals, and other underrepresented groups in science and encourage all motivated trainees to join our research programs.
 
 ## What we do
