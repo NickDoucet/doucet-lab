@@ -9,7 +9,7 @@ nav:
 
 <img src="{{ 'images/papers.jpg' | relative_url }}"
      alt="Publications"
-     style="display:block; margin: 1.5rem auto 2rem auto; max-width:80%; border-radius:10px;">
+     style="display:block; margin: 1.5rem auto 2rem auto; max-width:50%; border-radius:10px;">
 
 Below is the list of peer-reviewed articles, preprints, and book chapters authored or co-authored by members of the Doucet Lab, grouped by year.
 
