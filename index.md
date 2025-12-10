@@ -25,7 +25,7 @@ Our core expertise spans:
 
 <img src="{{ 'images/EDI.jpg' | relative_url }}"
      alt="EDI Principles"
-     style="display:block; margin: 1.5rem auto 2rem auto; max-width:80%; border-radius:10px;">
+     style="display:block; margin: 1.5rem auto 2rem auto; max-width:50%; border-radius:10px;">
 
 Our group values and actively promotes diversity. We welcome trainees from all backgrounds and are committed to maintaining an inclusive and collaborative environment where every team member can thrive.  
 
