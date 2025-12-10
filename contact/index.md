@@ -9,7 +9,9 @@ nav:
 
 If you are interested in our research, potential collaborations, or training opportunities (M.Sc., Ph.D., postdoc, internships), feel free to get in touch with us.  
 
-We are located at the **Centre Armand-Frappier Santé Biotechnologie (AFSB)** of **INRS** in Laval (a suburb of Montreal, QC). INRS is one of the institutions part of the **Université du Québec** network.
+We are located at the **Centre Armand-Frappier Santé Biotechnologie (AFSB)** of the **Institut National de la Recherche Scientifique (INRS)** in Laval, Québec (a suburb of Montreal). INRS is part of the **Université du Québec** network of institutions. 
+
+[Université du Québec Network](https://decouvrir.uquebec.ca)
 
 {% include section.html %}
 
@@ -25,7 +27,7 @@ Canada
 **Phone (office):** +1 (450) 687-5010, ext. 4212  
 **Email:** [nicolas.doucet@inrs.ca](mailto:nicolas.doucet@inrs.ca)
 
-[View the INRS–CAFSB on Google Maps](https://maps.google.com/?q=531+Boulevard+des+Prairies+Laval+QC+H7V+1B7)
+[View the INRS–AFSB on Google Maps](https://maps.google.com/?q=531+Boulevard+des+Prairies+Laval+QC+H7V+1B7)
 
 {% include section.html %}
 
@@ -48,7 +50,7 @@ Below are a few views of our institute and core research infrastructure.
 
 {% capture content %}
 
-{% include figure.html image="images/AFSB.jpg" caption="INRS – Centre Armand-Frappier Santé Biotechnologie (CAFSB) in Laval" %}
+{% include figure.html image="images/AFSB.jpg" caption="INRS – Centre Armand-Frappier Santé Biotechnologie (AFSB) in Laval" %}
 {% include figure.html image="images/NMR.jpg" caption="NMR spectroscopy facility and structural biology platform" %}
 {% include figure.html image="images/Instruments.jpg" caption="Selected biophysical and analytical instruments used in our research" %}
 
