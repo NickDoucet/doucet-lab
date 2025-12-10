@@ -59,6 +59,16 @@ We strongly support the participation of women, LGBTQ+ individuals, and other un
 
 {% include section.html %}
 
+{% capture content %}
+
+{% include figure.html image="images/AFSB.jpg" %}
+{% include figure.html image="images/NMR.jpg" %}
+{% include figure.html image="images/Instruments.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
 ## Training environment
 
 The Doucet Lab is part of a graduate-only research institute dedicated to high-impact science. Trainees benefit from access to advanced structural biology, analytical chemistry and biophysics platforms, as well as interdisciplinary collaborations and industrial partnerships.
