@@ -23,7 +23,7 @@ Our core expertise spans:
 
 ## Equity, Diversity & Inclusion
 
-<img src="{{ 'images/edi.jpg' | relative_url }}"
+<img src="{{ 'images/EDI.jpg' | relative_url }}"
      alt="EDI Principles"
      style="display:block; margin: 1.5rem auto 2rem auto; max-width:80%; border-radius:10px;">
 
