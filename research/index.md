@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-Our lab investigates how proteins work, evolve, and can be redesigned for new molecular functions.  
+Our lab investigates how proteins work, evolve, and can be redesigned for new molecular functions. 
+
 We combine **structural biology**, **AI-guided protein engineering**, **biophysical characterization**, and **food & biomolecular chemistry** to uncover mechanisms of action and create innovative biotechnological tools.
 
 {% include section.html %}
@@ -15,6 +16,7 @@ We combine **structural biology**, **AI-guided protein engineering**, **biophysi
 ## IMCM / MIMC – Molecular Interactions and Materials Characterization platform
 
 We also manage and perform closely integrated research with the **IMCM / MIMC (Molecular Interactions and Materials Characterization) platform** at INRS.  
+
 This platform provides academic and industrial access to advanced structural biology, biophysics, and analytical tools for probing:
 
 - **Protein-ligand and protein–protein interactions**  
@@ -28,8 +30,6 @@ We work with the platform to design and execute rigorous experimental pipelines,
 {% include section.html %}
 
 ## Research programs at a glance
-
-{% include section.html %}
 
 ---
 
@@ -87,4 +87,5 @@ This interdisciplinary program bridges environmental microbiology, analytical ch
 ## Tools & infrastructure
 
 Our work is supported by state-of-the-art NMR facilities, crystallography and biophysics platforms, analytical chemistry infrastructure, and high-performance computing resources for AI-driven protein engineering.  
+
 We also maintain the **SPASE server**, which hosts internal pipelines for automated design and analysis.
