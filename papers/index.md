@@ -25,35 +25,35 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2024
 
-78. Tran, T. T. Q.; Narayanan, C.; Loes, A. N.; Click, T. H.; Pham, N. T. H.; Létourneau, M.; Harms, M. J.; Calmettes, C.; Agarwal, P. K.; Doucet, N. Ancestral Sequence Reconstruction Dissects Structural and Functional Differences among Eosinophil Ribonucleases. Journal of Biological Chemistry 2024, 300 (5), 107280. <https://doi.org/10.1016/j.jbc.2024.107280>.
+- Tran, T. T. Q.; Narayanan, C.; Loes, A. N.; Click, T. H.; Pham, N. T. H.; Létourneau, M.; Harms, M. J.; Calmettes, C.; Agarwal, P. K.; Doucet, N. Ancestral Sequence Reconstruction Dissects Structural and Functional Differences among Eosinophil Ribonucleases. _**Journal of Biological Chemistry**_ 2024, 300 (5), 107280. <https://doi.org/10.1016/j.jbc.2024.107280>.
 
-77. De Oliveira Pereira, T.; Groleau, M.-C.; Doucet, N.; Déziel, E. Temperature-Responsive Control of Pseudomonas Aeruginosa Virulence Determinants through the Stabilization of Quorum Sensing Transcriptional Regulator RhlR. Microbiology May 13, 2024. <https://doi.org/10.1101/2024.05.13.593818>.
+- De Oliveira Pereira, T.; Groleau, M.-C.; Doucet, N.; Déziel, E. Temperature-Responsive Control of _Pseudomonas Aeruginosa_ Virulence Determinants through the Stabilization of Quorum Sensing Transcriptional Regulator RhlR. Microbiology May 13, 2024. **_Preprint._** <https://doi.org/10.1101/2024.05.13.593818>.
 
 {% include section.html %}
 
 ## 2023
 
-76. Lemay-St-Denis, C.; Alejaldre, L.; Jemouai, Z.; Lafontaine, K.; St-Aubin, M.; Hitache, K.; Valikhani, D.; Weerasinghe, N. W.; Létourneau, M.; Thibodeaux, C. J.; Doucet, N.; Baron, C.; Copp, J. N.; Pelletier, J. N. A Conserved SH3-like Fold in Diverse Putative Proteins Tetramerizes into an Oxidoreductase Providing an Antimicrobial Resistance Phenotype. Phil. Trans. R. Soc. B 2023, 378 (1871), 20220040. <https://doi.org/10.1098/rstb.2022.0040>.
+- Lemay-St-Denis, C.; Alejaldre, L.; Jemouai, Z.; Lafontaine, K.; St-Aubin, M.; Hitache, K.; Valikhani, D.; Weerasinghe, N. W.; Létourneau, M.; Thibodeaux, C. J.; **Doucet, N.**; Baron, C.; Copp, J. N.; Pelletier, J. N. A Conserved SH3-like Fold in Diverse Putative Proteins Tetramerizes into an Oxidoreductase Providing an Antimicrobial Resistance Phenotype. _**Philosophical Transactions of the Royal Society B: Biological Sciences**_ 2023, 378 (1871), 20220040. <https://doi.org/10.1098/rstb.2022.0040>.
 
-75. Fuselier, C.; Dumoulin, A.; Paré, A.; Nehmé, R.; Ajarrag, S.; Granger Joly De Boissel, P.; Chatenet, D.; Doucet, N.; St-Pierre, Y. Placental Galectins in Cancer: Why We Should Pay More Attention. Cells 2023, 12 (3), 437. <https://doi.org/10.3390/cells12030437>.
+- Fuselier, C.; Dumoulin, A.; Paré, A.; Nehmé, R.; Ajarrag, S.; Granger Joly De Boissel, P.; Chatenet, D.; **Doucet, N.**; St-Pierre, Y. Placental Galectins in Cancer: Why We Should Pay More Attention. _**Cells**_ 2023, 12 (3), 437. <https://doi.org/10.3390/cells12030437>.
 
-74. Bernard, D. N.; Narayanan, C.; Hempel, T.; Bafna, K.; Bhojane, P. P.; Létourneau, M.; Howell, E. E.; Agarwal, P. K.; Doucet, N. Conformational Exchange Divergence along the Evolutionary Pathway of Eosinophil-Associated Ribonucleases. Structure 2023, 31 (3), 329–342.e4. <https://doi.org/10.1016/j.str.2022.12.011>.
+- Bernard, D. N.; Narayanan, C.; Hempel, T.; Bafna, K.; Bhojane, P. P.; Létourneau, M.; Howell, E. E.; Agarwal, P. K.; **Doucet, N.** Conformational Exchange Divergence along the Evolutionary Pathway of Eosinophil-Associated Ribonucleases. _**Structure**_ 2023, 31 (3), 329–342.e4. <https://doi.org/10.1016/j.str.2022.12.011>.
 
 {% include section.html %}
 
 ## 2022
 
-73. Lemay-St-Denis, C.; Doucet, N.; Pelletier, J. N. Integrating Dynamics into Enzyme Engineering. Protein Engineering, Design and Selection 2022, 35, gzac015. <https://doi.org/10.1093/protein/gzac015>.
+- Lemay-St-Denis, C.; **Doucet, N.**; Pelletier, J. N. Integrating Dynamics into Enzyme Engineering. _**Protein Engineering, Design and Selection**_ 2022, 35, gzac015. <https://doi.org/10.1093/protein/gzac015>.
 
-72. Bui, D. T.; Li, Z; Kitov, P. I.; Han, L.; Kitova, E. N.; Fortier, M.; Fuselier, C.; Granger Joly De Boissel, P.; Chatenet, D.; Doucet, N.; Tompkins, S. M.; St-Pierre, Y.; Mahal, L. K.; Klassen, J. S. Quantifying Biomolecular Interactions Using Slow Mixing Mode (SLOMO) Nanoflow ESI-MS. ACS Cent. Sci. 2022, 8 (7), 963–974. <https://doi.org/10.1021/acscentsci.2c00215>.
+- Bui, D. T.; Li, Z; Kitov, P. I.; Han, L.; Kitova, E. N.; Fortier, M.; Fuselier, C.; Granger Joly De Boissel, P.; Chatenet, D.; **Doucet, N.**; Tompkins, S. M.; St-Pierre, Y.; Mahal, L. K.; Klassen, J. S. Quantifying Biomolecular Interactions Using Slow Mixing Mode (SLOMO) Nanoflow ESI-MS. _**ACS Central Science**_ 2022, 8 (7), 963–974. <https://doi.org/10.1021/acscentsci.2c00215>.
 
 {% include section.html %}
 
 ## 2021
 
-71. Pham, N. T. H.; Létourneau, M.; Fortier, M.; Bégin, G.; Al-Abdul-Wahid, M. S.; Pucci, F.; Folch, B.; Rooman, M.; Chatenet, D.; St-Pierre, Y.; Lagüe, P.; Calmettes, C.; Doucet, N. Perturbing Dimer Interactions and Allosteric Communication Modulates the Immunosuppressive Activity of Human Galectin-7. Journal of Biological Chemistry 2021, 297 (5), 101308. <https://doi.org/10.1016/j.jbc.2021.101308>.
+- Pham, N. T. H.; Létourneau, M.; Fortier, M.; Bégin, G.; Al-Abdul-Wahid, M. S.; Pucci, F.; Folch, B.; Rooman, M.; Chatenet, D.; St-Pierre, Y.; Lagüe, P.; Calmettes, C.; **Doucet, N.** Perturbing Dimer Interactions and Allosteric Communication Modulates the Immunosuppressive Activity of Human Galectin-7. _**Journal of Biological Chemistry**_ 2021, 297 (5), 101308. <https://doi.org/10.1016/j.jbc.2021.101308>.
 
-70. Dionne, U.; Bourgault, É.; Dubé, A. K.; Bradley, D.; Chartier, F. J. M.; Dandage, R.; Dibyachintan, S.; Després, P. C.; Gish, G. D.; Pham, N. T. H.; Létourneau, M.; Lambert, J.-P.; Doucet, N.; Bisson, N.; Landry, C. R. Protein Context Shapes the Specificity of SH3 Domain-Mediated Interactions in Vivo. Nat Commun 2021, 12 (1), 1597. <https://doi.org/10.1038/s41467-021-21873-2>.
+- Dionne, U.; Bourgault, É.; Dubé, A. K.; Bradley, D.; Chartier, F. J. M.; Dandage, R.; Dibyachintan, S.; Després, P. C.; Gish, G. D.; Pham, N. T. H.; Létourneau, M.; Lambert, J.-P.; **Doucet, N.**; Bisson, N.; Landry, C. R. Protein Context Shapes the Specificity of SH3 Domain-Mediated Interactions in Vivo. _**Nature Communications**_ 2021, 12 (1), 1597. <https://doi.org/10.1038/s41467-021-21873-2>.
 
 {% include section.html %}
 
