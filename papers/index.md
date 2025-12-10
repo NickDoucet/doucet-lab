@@ -25,9 +25,9 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2024
 
-- Tran, T. T. Q.; Narayanan, C.; Loes, A. N.; Click, T. H.; Pham, N. T. H.; Létourneau, M.; Harms, M. J.; Calmettes, C.; Agarwal, P. K.; Doucet, N. Ancestral Sequence Reconstruction Dissects Structural and Functional Differences among Eosinophil Ribonucleases. _**Journal of Biological Chemistry**_ 2024, 300 (5), 107280. <https://doi.org/10.1016/j.jbc.2024.107280>.
+- Tran, T. T. Q.; Narayanan, C.; Loes, A. N.; Click, T. H.; Pham, N. T. H.; Létourneau, M.; Harms, M. J.; Calmettes, C.; Agarwal, P. K.; **Doucet, N.** Ancestral Sequence Reconstruction Dissects Structural and Functional Differences among Eosinophil Ribonucleases. _**Journal of Biological Chemistry**_ 2024, 300 (5), 107280. <https://doi.org/10.1016/j.jbc.2024.107280>.
 
-- De Oliveira Pereira, T.; Groleau, M.-C.; Doucet, N.; Déziel, E. Temperature-Responsive Control of _Pseudomonas Aeruginosa_ Virulence Determinants through the Stabilization of Quorum Sensing Transcriptional Regulator RhlR. Microbiology May 13, 2024. **_Preprint._** <https://doi.org/10.1101/2024.05.13.593818>.
+- De Oliveira Pereira, T.; Groleau, M.-C.; **Doucet, N.**; Déziel, E. Temperature-Responsive Control of _Pseudomonas Aeruginosa_ Virulence Determinants through the Stabilization of Quorum Sensing Transcriptional Regulator RhlR. Microbiology May 13, 2024. **_Preprint._** <https://doi.org/10.1101/2024.05.13.593818>.
 
 {% include section.html %}
 
@@ -91,7 +91,7 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 - Dulcey, C. E.; López De Los Santos, Y.; Létourneau, M.; Déziel, E.; **Doucet, N.** Semi-rational Evolution of the 3-(3-hydroxyalkanoyloxy)Alkanoate (HAA) Synthase RhlA to Improve Rhamnolipid Production in _Pseudomonas aeruginosa_ and _Burkholderia glumae_. _**The FEBS Journal**_ 2019, 286 (20), 4036–4059. <https://doi.org/10.1111/febs.14954>.
 
-- **Doucet, N.** Enzyme Catalysis under Pressure. _Nature Catalysis_ 2019, 2 (8), 646–647. <https://doi.org/10.1038/s41929-019-0326-3>.
+- **Doucet, N.** Enzyme Catalysis under Pressure. **_Nature Catalysis_** 2019, 2 (8), 646–647. <https://doi.org/10.1038/s41929-019-0326-3>.
 
 - Bafna, K.; Narayanan, C.; Chennubhotla, S. C.; **Doucet, N.**; Agarwal, P. K. Nucleotide Substrate Binding Characterization in Human Pancreatic-Type Ribonucleases. _**PLoS ONE**_ 2019, 14 (8), e0220037. <https://doi.org/10.1371/journal.pone.0220037>.
 
@@ -117,61 +117,61 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2017
 
-46. Narayanan, C.; Gagné, D.; Reynolds, K. A.; Doucet, N. Conserved Amino Acid Networks Modulate Discrete Functional Properties in an Enzyme Superfamily. Sci Rep 2017, 7 (1), 3207. <https://doi.org/10.1038/s41598-017-03298-4>.
+- Narayanan, C.; Gagné, D.; Reynolds, K. A.; **Doucet, N.** Conserved Amino Acid Networks Modulate Discrete Functional Properties in an Enzyme Superfamily. _**Scientific Reports**_ 2017, 7 (1), 3207. <https://doi.org/10.1038/s41598-017-03298-4>.
 
-45. Narayanan, C.; Bafna, K.; Roux, L. D.; Agarwal, P. K.; Doucet, N. Applications of NMR and Computational Methodologies to Study Protein Dynamics. Archives of Biochemistry and Biophysics 2017, 628, 71–80. <https://doi.org/10.1016/j.abb.2017.05.002>.
+- Narayanan, C.; Bafna, K.; Roux, L. D.; Agarwal, P. K.; **Doucet, N.** Applications of NMR and Computational Methodologies to Study Protein Dynamics. _**Archives of Biochemistry and Biophysics**_ 2017, 628, 71–80. <https://doi.org/10.1016/j.abb.2017.05.002>.
 
-44. Gagné, D.; Narayanan, C.; Bafna, K.; Charest, L.-A.; Agarwal, P. K.; Doucet, N. Sequence-Specific Backbone Resonance Assignments and Microsecond Timescale Molecular Dynamics Simulation of Human Eosinophil-Derived Neurotoxin. Biomol NMR Assign 2017, 11 (2), 143–149. <https://doi.org/10.1007/s12104-017-9736-9>.
+- Gagné, D.; Narayanan, C.; Bafna, K.; Charest, L.-A.; Agarwal, P. K.; **Doucet, N.** Sequence-Specific Backbone Resonance Assignments and Microsecond Timescale Molecular Dynamics Simulation of Human Eosinophil-Derived Neurotoxin. **_Biomolecular NMR Assignments_** 2017, 11 (2), 143–149. <https://doi.org/10.1007/s12104-017-9736-9>.
 
 {% include section.html %}
 
 ## 2016
 
-43. Nguyen-Thi, N.; Doucet, N. Combining Chitinase C and N-Acetylhexosaminidase from Streptomyces Coelicolor A3(2) Provides an Efficient Way to Synthesize N-Acetylglucosamine from Crystalline Chitin. Journal of Biotechnology 2016, 220, 25–32. <https://doi.org/10.1016/j.jbiotec.2015.12.038>.
+- Nguyen-Thi, N.; **Doucet, N.** Combining Chitinase C and N-Acetylhexosaminidase from _Streptomyces coelicolor_ A3(2) Provides an Efficient Way to Synthesize N-Acetylglucosamine from Crystalline Chitin. _**Journal of Biotechnology**_ 2016, 220, 25–32. <https://doi.org/10.1016/j.jbiotec.2015.12.038>.
 
-42. Narayanan, C.; Bernard, D.; Doucet, N. Role of Conformational Motions in Enzyme Function: Selected Methodologies and Case Studies. Catalysts 2016, 6 (6), 81. <https://doi.org/10.3390/catal6060081>.
+- Narayanan, C.; Bernard, D.; **Doucet, N.** Role of Conformational Motions in Enzyme Function: Selected Methodologies and Case Studies. **_Catalysts_** 2016, 6 (6), 81. <https://doi.org/10.3390/catal6060081>.
 
-41. Herrero, C.; Nguyen-Thi, N.; Hammerer, F.; Banse, F.; Gagné, D.; Doucet, N.; Mahy, J.-P.; Ricoux, R. Photoassisted Oxidation of Sulfides Catalyzed by Artificial Metalloenzymes Using Water as an Oxygen Source. Catalysts 2016, 6 (12), 202. <https://doi.org/10.3390/catal6120202>.
+- Herrero, C.; Nguyen-Thi, N.; Hammerer, F.; Banse, F.; Gagné, D.; **Doucet, N.**; Mahy, J.-P.; Ricoux, R. Photoassisted Oxidation of Sulfides Catalyzed by Artificial Metalloenzymes Using Water as an Oxygen Source. _**Catalysts**_ 2016, 6 (12), 202. <https://doi.org/10.3390/catal6120202>.
 
-40. Gobeil, S. M. C.; Gagné, D.; Doucet, N.; Pelletier, J. N. 15N, 13C and 1H Backbone Resonance Assignments of an Artificially Engineered TEM-1/PSE-4 Class A β-Lactamase Chimera and Its Deconvoluted Mutant. Biomol NMR Assign 2016, 10 (1), 93–99. <https://doi.org/10.1007/s12104-015-9645-8>.
+- Gobeil, S. M. C.; Gagné, D.; **Doucet, N.**; Pelletier, J. N. 15N, 13C and 1H Backbone Resonance Assignments of an Artificially Engineered TEM-1/PSE-4 Class A β-Lactamase Chimera and Its Deconvoluted Mutant. **_Biomolecular NMR Assignments_** 2016, 10 (1), 93–99. <https://doi.org/10.1007/s12104-015-9645-8>.
 
-39. Gagné, D.; Narayanan, C.; Nguyen-Thi, N.; Roux, L. D.; Bernard, D. N.; Brunzelle, J. S.; Couture, J.-F.; Agarwal, P. K.; Doucet, N. Ligand Binding Enhances Millisecond Conformational Exchange in Xylanase B2 from Streptomyces Lividans. Biochemistry 2016, 55 (30), 4184–4196. <https://doi.org/10.1021/acs.biochem.6b00130>.
+- Gagné, D.; Narayanan, C.; Nguyen-Thi, N.; Roux, L. D.; Bernard, D. N.; Brunzelle, J. S.; Couture, J.-F.; Agarwal, P. K.; **Doucet, N.** Ligand Binding Enhances Millisecond Conformational Exchange in Xylanase B2 from _Streptomyces lividans_. _**Biochemistry**_ 2016, 55 (30), 4184–4196. <https://doi.org/10.1021/acs.biochem.6b00130>.
 
-38. Agarwal, P. K.; Doucet, N.; Chennubhotla, C.; Ramanathan, A.; Narayanan, C. Conformational Sub-States and Populations in Enzyme Catalysis. In Methods in Enzymology; Elsevier, 2016; Vol. 578, pp 273–297. <https://doi.org/10.1016/bs.mie.2016.05.023>.
+- Agarwal, P. K.; **Doucet, N.**; Chennubhotla, C.; Ramanathan, A.; Narayanan, C. Conformational Sub-States and Populations in Enzyme Catalysis. **_Methods in Enzymology_**; Elsevier, 2016; Vol. 578, pp 273–297. <https://doi.org/10.1016/bs.mie.2016.05.023>.
 
 {% include section.html %}
 
 ## 2015
 
-37. Vladoiu, M. C.; Labrie, M.; Létourneau, M.; Egesborg, P.; Gagné, D.; Billard, É.; Grosset, A.-A.; Doucet, N.; Chatenet, D.; St-Pierre, Y. Design of a Peptidic Inhibitor That Targets the Dimer Interface of a Prototypic Galectin. Oncotarget 2015, 6 (38), 40970–40980. <https://doi.org/10.18632/oncotarget.5403>.
+- Vladoiu, M. C.; Labrie, M.; Létourneau, M.; Egesborg, P.; Gagné, D.; Billard, É.; Grosset, A.-A.; **Doucet, N.**; Chatenet, D.; St-Pierre, Y. Design of a Peptidic Inhibitor That Targets the Dimer Interface of a Prototypic Galectin. _**Oncotarget**_ 2015, 6 (38), 40970–40980. <https://doi.org/10.18632/oncotarget.5403>.
 
-36. Tadevosyan, A.; Létourneau, M.; Folch, B.; Doucet, N.; Villeneuve, L. R.; Mamarbachi, A. M.; Pétrin, D.; Hébert, T. E.; Fournier, A.; Chatenet, D.; Allen, B. G.; Nattel, S. Photoreleasable Ligands to Study Intracrine Angiotensin II Signalling. The Journal of Physiology 2015, 593 (3), 521–539. <https://doi.org/10.1113/jphysiol.2014.279109>.
+- Tadevosyan, A.; Létourneau, M.; Folch, B.; **Doucet, N.**; Villeneuve, L. R.; Mamarbachi, A. M.; Pétrin, D.; Hébert, T. E.; Fournier, A.; Chatenet, D.; Allen, B. G.; Nattel, S. Photoreleasable Ligands to Study Intracrine Angiotensin II Signalling. _**The Journal of Physiology**_ 2015, 593 (3), 521–539. <https://doi.org/10.1113/jphysiol.2014.279109>.
 
-35. Ndoti-Nembe, A.; Vu, K. D.; Han, J.; Doucet, N.; Lacroix, M. Antimicrobial Effects of Nisin, Essential Oil, and γ-Irradiation Treatments against High Load of Salmonella Typhimurium on Mini-carrots. Journal of Food Science 2015, 80 (7). <https://doi.org/10.1111/1750-3841.12918>.
+- Ndoti-Nembe, A.; Vu, K. D.; Han, J.; **Doucet, N.**; Lacroix, M. Antimicrobial Effects of Nisin, Essential Oil, and γ-Irradiation Treatments against High Load of _Salmonella typhimurium_ on Mini-carrots. _**Journal of Food Science**_ 2015, 80 (7). <https://doi.org/10.1111/1750-3841.12918>.
 
-34. Ndoti-Nembe, A.; Vu, K. D.; Doucet, N.; Lacroix, M. Antimicrobial Effects of Essential Oils, Nisin, and Irradiation Treatments against Listeria Monocytogenes on Ready-to-Eat Carrots. Journal of Food Science 2015, 80 (4). <https://doi.org/10.1111/1750-3841.12832>.
+- Ndoti-Nembe, A.; Vu, K. D.; **Doucet, N.**; Lacroix, M. Antimicrobial Effects of Essential Oils, Nisin, and Irradiation Treatments against _Listeria monocytogenes_ on Ready-to-Eat Carrots. **_Journal of Food Science_** 2015, 80 (4). <https://doi.org/10.1111/1750-3841.12832>.
 
-33. Gagné, D.; Narayanan, C.; Doucet, N. Network of Long-range Concerted Chemical Shift Displacements upon Ligand Binding to Human Angiogenin. Protein Science 2015, 24 (4), 525–533. <https://doi.org/10.1002/pro.2613>.
+- Gagné, D.; Narayanan, C.; **Doucet, N.** Network of Long-range Concerted Chemical Shift Displacements upon Ligand Binding to Human Angiogenin. _**Protein Science**_ 2015, 24 (4), 525–533. <https://doi.org/10.1002/pro.2613>.
 
-32. Gagné, D.; French, R. L.; Narayanan, C.; Simonović, M.; Agarwal, P. K.; Doucet, N. Perturbation of the Conformational Dynamics of an Active-Site Loop Alters Enzyme Activity. Structure 2015, 23 (12), 2256–2266. <https://doi.org/10.1016/j.str.2015.10.011>.
+- Gagné, D.; French, R. L.; Narayanan, C.; Simonović, M.; Agarwal, P. K.; **Doucet, N.** Perturbation of the Conformational Dynamics of an Active-Site Loop Alters Enzyme Activity. _**Structure**_ 2015, 23 (12), 2256–2266. <https://doi.org/10.1016/j.str.2015.10.011>.
 
-31. Gagné, D.; Doucet, N. Sequence-Specific Backbone 1H, 13C, and 15N Resonance Assignments of Human Ribonuclease 4. Biomol NMR Assign 2015, 9 (1), 181–185. <https://doi.org/10.1007/s12104-014-9570-2>.
+- Gagné, D.; **Doucet, N.** Sequence-Specific Backbone 1H, 13C, and 15N Resonance Assignments of Human Ribonuclease 4. **_Biomolecular NMR Assignments_** 2015, 9 (1), 181–185. <https://doi.org/10.1007/s12104-014-9570-2>.
 
-30. Egesborg, P.; Carlettini, H.; Volpato, J. P.; Doucet, N. Combinatorial Active-site Variants Confer Sustained Clavulanate Resistance in B laC β-lactamase from Mycobacterium Tuberculosis. Protein Science 2015, 24 (4), 534–544. <https://doi.org/10.1002/pro.2617>.
+- Egesborg, P.; Carlettini, H.; Volpato, J. P.; **Doucet, N.** Combinatorial Active-site Variants Confer Sustained Clavulanate Resistance in BlaC β-lactamase from _Mycobacterium tuberculosis_. _**Protein Science**_ 2015, 24 (4), 534–544. <https://doi.org/10.1002/pro.2617>.
 
 {% include section.html %}
 
 ## 2014
 
-29. Thi, N. N.; Offen, W. A.; Shareck, F.; Davies, G. J.; Doucet, N. Structure and Activity of the Streptomyces Coelicolor A3(2) β-N-Acetylhexosaminidase Provides Further Insight into GH20 Family Catalysis and Inhibition. Biochemistry 2014, 53 (11), 1789–1800. <https://doi.org/10.1021/bi401697j>.
+- Thi, N. N.; Offen, W. A.; Shareck, F.; Davies, G. J.; **Doucet, N.** Structure and Activity of the _Streptomyces coelicolor_ A3(2) β-N-Acetylhexosaminidase Provides Further Insight into GH20 Family Catalysis and Inhibition. _**Biochemistry**_ 2014, 53 (11), 1789–1800. <https://doi.org/10.1021/bi401697j>.
 
-28. Nguyen, T. T. N.; Folch, B.; Létourneau, M.; Truong, N. H.; Doucet, N.; Fournier, A.; Chatenet, D. Design of a Truncated Cardiotoxin-I Analogue with Potent Insulinotropic Activity. J. Med. Chem. 2014, 57 (6), 2623–2633. <https://doi.org/10.1021/jm401904q>.
+- Nguyen, T. T. N.; Folch, B.; Létourneau, M.; Truong, N. H.; **Doucet, N.**; Fournier, A.; Chatenet, D. Design of a Truncated Cardiotoxin-I Analogue with Potent Insulinotropic Activity. **_Journal of Medicinal Chemistry_** 2014, 57 (6), 2623–2633. <https://doi.org/10.1021/jm401904q>.
 
-27. Grosset, A.-A.; Labrie, M.; Gagné, D.; Vladoiu, M.-C.; Gaboury, L.; Doucet, N.; St-Pierre, Y. Cytosolic Galectin-7 Impairs P53 Functions and Induces Chemoresistance in Breast Cancer Cells. BMC Cancer 2014, 14 (1), 801. <https://doi.org/10.1186/1471-2407-14-801>.
+- Grosset, A.-A.; Labrie, M.; Gagné, D.; Vladoiu, M.-C.; Gaboury, L.; **Doucet, N.**; St-Pierre, Y. Cytosolic Galectin-7 Impairs P53 Functions and Induces Chemoresistance in Breast Cancer Cells. _**BMC Cancer**_ 2014, 14 (1), 801. <https://doi.org/10.1186/1471-2407-14-801>.
 
-26. Gobeil, S. M. C.; Clouthier, C. M.; Park, J.; Gagné, D.; Berghuis, A. M.; Doucet, N.; Pelletier, J. N. Maintenance of Native-like Protein Dynamics May Not Be Required for Engineering Functional Proteins. Chemistry & Biology 2014, 21 (10), 1330–1340. <https://doi.org/10.1016/j.chembiol.2014.07.016>.
+- Gobeil, S. M. C.; Clouthier, C. M.; Park, J.; Gagné, D.; Berghuis, A. M.; **Doucet, N.**; Pelletier, J. N. Maintenance of Native-like Protein Dynamics May Not Be Required for Engineering Functional Proteins. _**Chemistry & Biology**_ 2014, 21 (10), 1330–1340. <https://doi.org/10.1016/j.chembiol.2014.07.016>.
 
-25. Brault, G.; Shareck, F.; Hurtubise, Y.; Lépine, F.; Doucet, N. Short-Chain Flavor Ester Synthesis in Organic Media by an E. Coli Whole-Cell Biocatalyst Expressing a Newly Characterized Heterologous Lipase. PLoS ONE 2014, 9 (3), e91872. <https://doi.org/10.1371/journal.pone.0091872>.
+- Brault, G.; Shareck, F.; Hurtubise, Y.; Lépine, F.; **Doucet, N.** Short-Chain Flavor Ester Synthesis in Organic Media by an _E. Coli_ Whole-Cell Biocatalyst Expressing a Newly Characterized Heterologous Lipase. _**PLoS ONE**_ 2014, 9 (3), e91872. <https://doi.org/10.1371/journal.pone.0091872>.
 
 {% include section.html %}
 
