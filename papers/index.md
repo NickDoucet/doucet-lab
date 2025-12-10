@@ -59,59 +59,59 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2020
 
-69. Rueda, A. M.; López De Los Santos, Y.; Vincent, A. T.; Létourneau, M.; Hernández, I.; Sánchez, C. I.; Molina V., D.; Ospina, S. A.; Veyrier, F. J.; Doucet, N. Genome Sequencing and Functional Characterization of a Dictyopanus Pusillus Fungal Enzymatic Extract Offers a Promising Alternative for Lignocellulose Pretreatment of Oil Palm Residues. PLoS ONE 2020, 15 (7), e0227529. <https://doi.org/10.1371/journal.pone.0227529>.
+- Rueda, A. M.; López De Los Santos, Y.; Vincent, A. T.; Létourneau, M.; Hernández, I.; Sánchez, C. I.; Molina V., D.; Ospina, S. A.; Veyrier, F. J.; **Doucet, N.** Genome Sequencing and Functional Characterization of a Dictyopanus Pusillus Fungal Enzymatic Extract Offers a Promising Alternative for Lignocellulose Pretreatment of Oil Palm Residues. _**PLoS ONE**_ 2020, 15 (7), e0227529. <https://doi.org/10.1371/journal.pone.0227529>.
 
-68. Robitaille, S.; De Los Santos, Y. L.; Groleau, M.-C.; Jean-Pierre, F.; Doucet, N.; Perreault, J.; Déziel, E. An Experimentally Evolved Variant of RsmA Confirms Its Central Role in the Control of Pseudomonas Aeruginosa Social Motility. Microbiology July 15, 2020. <https://doi.org/10.1101/2020.07.15.203992>.
+- Robitaille, S.; De Los Santos, Y. L.; Groleau, M.-C.; Jean-Pierre, F.; **Doucet, N.**; Perreault, J.; Déziel, E. An Experimentally Evolved Variant of RsmA Confirms Its Central Role in the Control of Pseudomonas Aeruginosa Social Motility. Microbiology July 15, 2020. **_Preprint._** <https://doi.org/10.1101/2020.07.15.203992>.
 
-67. Parent-Michaud, M.; Dufresne, P. J.; Fournier, E.; Folch, B.; Martineau, C.; Moreira, S.; Doucet, N.; De Repentigny, L.; Dufresne, S. F. Prevalence and Mechanisms of Azole Resistance in Clinical Isolates of Aspergillus Section Fumigati Species in a Canadian Tertiary Care Centre, 2000 to 2013. Journal of Antimicrobial Chemotherapy 2020, 75 (4), 849–858. <https://doi.org/10.1093/jac/dkz534>.
+- Parent-Michaud, M.; Dufresne, P. J.; Fournier, E.; Folch, B.; Martineau, C.; Moreira, S.; **Doucet, N.**; De Repentigny, L.; Dufresne, S. F. Prevalence and Mechanisms of Azole Resistance in Clinical Isolates of Aspergillus Section Fumigati Species in a Canadian Tertiary Care Centre, 2000 to 2013. _**Journal of Antimicrobial Chemotherapy**_ 2020, 75 (4), 849–858. <https://doi.org/10.1093/jac/dkz534>.
 
-66. Narayanan, C.; Bernard, D. N.; Létourneau, M.; Gagnon, J.; Gagné, D.; Bafna, K.; Calmettes, C.; Couture, J.-F.; Agarwal, P. K.; Doucet, N. Insights into Structural and Dynamical Changes Experienced by Human RNase 6 upon Ligand Binding. Biochemistry 2020, 59 (6), 755–765. <https://doi.org/10.1021/acs.biochem.9b00888>.
+- Narayanan, C.; Bernard, D. N.; Létourneau, M.; Gagnon, J.; Gagné, D.; Bafna, K.; Calmettes, C.; Couture, J.-F.; Agarwal, P. K.; **Doucet, N.** Insights into Structural and Dynamical Changes Experienced by Human RNase 6 upon Ligand Binding. _**Biochemistry**_ 2020, 59 (6), 755–765. <https://doi.org/10.1021/acs.biochem.9b00888>.
 
-65. López De Los Santos, Y.; Bernard, D. N.; Egesborg, P.; Létourneau, M.; Lafortune, C.; Cuneo, M. J.; Urvoas, A.; Chatenet, D.; Mahy, J.-P.; St-Pierre, Y.; Ricoux, R.; Doucet, N. Binding of a Soluble Meso-Tetraarylporphyrin to Human Galectin-7 Induces Oligomerization and Modulates Its Pro-Apoptotic Activity. Biochemistry 2020, 59 (48), 4591–4600. <https://doi.org/10.1021/acs.biochem.0c00736>.
+- López De Los Santos, Y.; Bernard, D. N.; Egesborg, P.; Létourneau, M.; Lafortune, C.; Cuneo, M. J.; Urvoas, A.; Chatenet, D.; Mahy, J.-P.; St-Pierre, Y.; Ricoux, R.; **Doucet, N.** Binding of a Soluble Meso-Tetraarylporphyrin to Human Galectin-7 Induces Oligomerization and Modulates Its Pro-Apoptotic Activity. _**Biochemistry**_ 2020, 59 (48), 4591–4600. <https://doi.org/10.1021/acs.biochem.0c00736>.
 
-64. Kariyawasam, K.; Ghattas, W.; De Los Santos, Y. L.; Doucet, N.; Gaillard, S.; Renaud, J.; Avenier, F.; Mahy, J.; Ricoux, R. Artificial Iron Hydrogenase Made by Covalent Grafting of Knölker’s Complex into Xylanase: Application in Asymmetric Hydrogenation of an Aryl Ketone in Water. Biotech and App Biochem 2020, 67 (4), 563–573. <https://doi.org/10.1002/bab.1906>.
+- Kariyawasam, K.; Ghattas, W.; De Los Santos, Y. L.; Doucet, N.; Gaillard, S.; Renaud, J.; Avenier, F.; Mahy, J.; Ricoux, R. Artificial Iron Hydrogenase Made by Covalent Grafting of Knölker’s Complex into Xylanase: Application in Asymmetric Hydrogenation of an Aryl Ketone in Water. _**Biotechnology and Applied Biochemistry**_ 2020, 67 (4), 563–573. <https://doi.org/10.1002/bab.1906>.
 
-63. Golbaghi, G.; Pitard, I.; Lucas, M.; Haghdoost, M. M.; De Los Santos, Y. L.; Doucet, N.; Patten, S. A.; Sanderson, J. T.; Castonguay, A. Synthesis and Biological Assessment of a Ruthenium(II) Cyclopentadienyl Complex in Breast Cancer Cells and on the Development of Zebrafish Embryos. European Journal of Medicinal Chemistry 2020, 188, 112030. <https://doi.org/10.1016/j.ejmech.2019.112030>.
+- Golbaghi, G.; Pitard, I.; Lucas, M.; Haghdoost, M. M.; De Los Santos, Y. L.; **Doucet, N.**; Patten, S. A.; Sanderson, J. T.; Castonguay, A. Synthesis and Biological Assessment of a Ruthenium(II) Cyclopentadienyl Complex in Breast Cancer Cells and on the Development of Zebrafish Embryos. _**European Journal of Medicinal Chemistry**_ 2020, 188, 112030. <https://doi.org/10.1016/j.ejmech.2019.112030>.
 
-62. Golbaghi, G.; Groleau, M.; López De Los Santos, Y.; Doucet, N.; Déziel, E.; Castonguay, A. Cationic RuII Cyclopentadienyl Complexes with Antifungal Activity against Several Candida Species. ChemBioChem 2020, 21 (21), 3112–3119. <https://doi.org/10.1002/cbic.202000254>.
+- Golbaghi, G.; Groleau, M.; López De Los Santos, Y.; **Doucet, N.**; Déziel, E.; Castonguay, A. Cationic RuII Cyclopentadienyl Complexes with Antifungal Activity against Several Candida Species. _**ChemBioChem**_ 2020, 21 (21), 3112–3119. <https://doi.org/10.1002/cbic.202000254>.
 
-61. Agarwal, P. K.; Bernard, D. N.; Bafna, K.; Doucet, N. Enzyme Dynamics: Looking Beyond a Single Structure. ChemCatChem 2020, 12 (19), 4704–4720. <https://doi.org/10.1002/cctc.202000665>.
+- Agarwal, P. K.; Bernard, D. N.; Bafna, K.; **Doucet, N.** Enzyme Dynamics: Looking Beyond a Single Structure. _**ChemCatChem**_ 2020, 12 (19), 4704–4720. <https://doi.org/10.1002/cctc.202000665>.
 
 {% include section.html %}
 
 ## 2019
 
-60. Santos, Y. L. D. L.; Chew-Fajardo, Y. L.; Brault, G.; Doucet, N. Dissecting the Evolvability Landscape of the CalB Active Site toward Aromatic Substrates. Sci Rep 2019, 9 (1), 15588. <https://doi.org/10.1038/s41598-019-51940-0>.
+- Santos, Y. L. D. L.; Chew-Fajardo, Y. L.; Brault, G.; **Doucet, N.** Dissecting the Evolvability Landscape of the CalB Active Site toward Aromatic Substrates. _**Scientific Reports**_ 2019, 9 (1), 15588. <https://doi.org/10.1038/s41598-019-51940-0>.
 
-59. Hudon Thibeault, A.-A.; López De Los Santos, Y.; Doucet, N.; Sanderson, J. T.; Vaillancourt, C. Serotonin and Serotonin Reuptake Inhibitors Alter Placental Aromatase. The Journal of Steroid Biochemistry and Molecular Biology 2019, 195, 105470. <https://doi.org/10.1016/j.jsbmb.2019.105470>.
+- Hudon Thibeault, A.-A.; López De Los Santos, Y.; **Doucet, N.**; Sanderson, J. T.; Vaillancourt, C. Serotonin and Serotonin Reuptake Inhibitors Alter Placental Aromatase. _**The Journal of Steroid Biochemistry and Molecular Biology**_ 2019, 195, 105470. <https://doi.org/10.1016/j.jsbmb.2019.105470>.
 
-58. Golbaghi, G.; Haghdoost, M. M.; Yancu, D.; López De Los Santos, Y.; Doucet, N.; Patten, S. A.; Sanderson, J. T.; Castonguay, A. Organoruthenium(II) Complexes Bearing an Aromatase Inhibitor: Synthesis, Characterization, in Vitro Biological Activity and in Vivo Toxicity in Zebrafish Embryos. Organometallics 2019, 38 (3), 702–711. <https://doi.org/10.1021/acs.organomet.8b00897>.
+- Golbaghi, G.; Haghdoost, M. M.; Yancu, D.; López De Los Santos, Y.; **Doucet, N.**; Patten, S. A.; Sanderson, J. T.; Castonguay, A. Organoruthenium(II) Complexes Bearing an Aromatase Inhibitor: Synthesis, Characterization, _in Vitro_ Biological Activity and _in Vivo_ Toxicity in Zebrafish Embryos. _**Organometallics**_ 2019, 38 (3), 702–711. <https://doi.org/10.1021/acs.organomet.8b00897>.
 
-57. Gobeil, S. M. C.; Ebert, M. C. C. J. C.; Park, J.; Gagné, D.; Doucet, N.; Berghuis, A. M.; Pleiss, J.; Pelletier, J. N. The Structural Dynamics of Engineered β-Lactamases Vary Broadly on Three Timescales yet Sustain Native Function. Sci Rep 2019, 9 (1), 6656. <https://doi.org/10.1038/s41598-019-42866-8>.
+- Gobeil, S. M. C.; Ebert, M. C. C. J. C.; Park, J.; Gagné, D.; **Doucet, N.**; Berghuis, A. M.; Pleiss, J.; Pelletier, J. N. The Structural Dynamics of Engineered β-Lactamases Vary Broadly on Three Timescales yet Sustain Native Function. _**Scientific Reports**_ 2019, 9 (1), 6656. <https://doi.org/10.1038/s41598-019-42866-8>.
 
-56. Dulcey, C. E.; López De Los Santos, Y.; Létourneau, M.; Déziel, E.; Doucet, N. Semi-rational Evolution of the 3-(3-hydroxyalkanoyloxy)Alkanoate (HAA) Synthase RhlA to Improve Rhamnolipid Production in Pseudomonas Aeruginosa and Burkholderia Glumae. The FEBS Journal 2019, 286 (20), 4036–4059. <https://doi.org/10.1111/febs.14954>.
+- Dulcey, C. E.; López De Los Santos, Y.; Létourneau, M.; Déziel, E.; **Doucet, N.** Semi-rational Evolution of the 3-(3-hydroxyalkanoyloxy)Alkanoate (HAA) Synthase RhlA to Improve Rhamnolipid Production in _Pseudomonas aeruginosa_ and _Burkholderia glumae_. _**The FEBS Journal**_ 2019, 286 (20), 4036–4059. <https://doi.org/10.1111/febs.14954>.
 
-55. Doucet, N. Enzyme Catalysis under Pressure. Nat Catal 2019, 2 (8), 646–647. <https://doi.org/10.1038/s41929-019-0326-3>.
+- **Doucet, N.** Enzyme Catalysis under Pressure. _Nature Catalysis_ 2019, 2 (8), 646–647. <https://doi.org/10.1038/s41929-019-0326-3>.
 
-54. Bafna, K.; Narayanan, C.; Chennubhotla, S. C.; Doucet, N.; Agarwal, P. K. Nucleotide Substrate Binding Characterization in Human Pancreatic-Type Ribonucleases. PLoS ONE 2019, 14 (8), e0220037. <https://doi.org/10.1371/journal.pone.0220037>.
+- Bafna, K.; Narayanan, C.; Chennubhotla, S. C.; **Doucet, N.**; Agarwal, P. K. Nucleotide Substrate Binding Characterization in Human Pancreatic-Type Ribonucleases. _**PLoS ONE**_ 2019, 14 (8), e0220037. <https://doi.org/10.1371/journal.pone.0220037>.
 
-53. Antunes, V. U.; Llontop, E. E.; Vasconcelos, F. N. D. C.; López De Los Santos, Y.; Oliveira, R. J.; Lincopan, N.; Farah, C. S.; Doucet, N.; Mittermaier, A.; Favaro, D. C. Importance of the Β5−β6 Loop for the Structure, Catalytic Efficiency, and Stability of Carbapenem-Hydrolyzing Class D β-Lactamase Subfamily OXA-143. Biochemistry 2019, 58 (34), 3604–3616. <https://doi.org/10.1021/acs.biochem.9b00365>.
+- Antunes, V. U.; Llontop, E. E.; Vasconcelos, F. N. D. C.; López De Los Santos, Y.; Oliveira, R. J.; Lincopan, N.; Farah, C. S.; **Doucet, N.**; Mittermaier, A.; Favaro, D. C. Importance of the Β5−β6 Loop for the Structure, Catalytic Efficiency, and Stability of Carbapenem-Hydrolyzing Class D β-Lactamase Subfamily OXA-143. _**Biochemistry**_ 2019, 58 (34), 3604–3616. <https://doi.org/10.1021/acs.biochem.9b00365>.
 
 {% include section.html %}
 
 ## 2018
 
-52. St-Pierre, Y.; Doucet, N.; Chatenet, D. A New Approach to Inhibit Prototypic Galectins. Trends in Glycoscience and Glycotechnology 2018, 30 (172), SE155–SE165. <https://doi.org/10.4052/tigg.1730.1SE>.
+- St-Pierre, Y.; **Doucet, N.**; Chatenet, D. A New Approach to Inhibit Prototypic Galectins. _**Trends in Glycoscience and Glycotechnology**_ 2018, 30 (172), SE155–SE165. <https://doi.org/10.4052/tigg.1730.1SE>.
 
-51. Narayanan, C.; Bernard, D. N.; Bafna, K.; Gagné, D.; Agarwal, P. K.; Doucet, N. Ligand-Induced Variations in Structural and Dynamical Properties Within an Enzyme Superfamily. Front. Mol. Biosci. 2018, 5, 54. <https://doi.org/10.3389/fmolb.2018.00054>.
+- Narayanan, C.; Bernard, D. N.; Bafna, K.; Gagné, D.; Agarwal, P. K.; **Doucet, N.** Ligand-Induced Variations in Structural and Dynamical Properties Within an Enzyme Superfamily. _**Frontiers in Molecular Biosciences**_ 2018, 5, 54. <https://doi.org/10.3389/fmolb.2018.00054>.
 
-50. Narayanan, C.; Bernard, D. N.; Bafna, K.; Gagné, D.; Chennubhotla, C. S.; Doucet, N.; Agarwal, P. K. Conservation of Dynamics Associated with Biological Function in an Enzyme Superfamily. Structure 2018, 26 (3), 426–436.e3. <https://doi.org/10.1016/j.str.2018.01.015>.
+- Narayanan, C.; Bernard, D. N.; Bafna, K.; Gagné, D.; Chennubhotla, C. S.; **Doucet, N.**; Agarwal, P. K. Conservation of Dynamics Associated with Biological Function in an Enzyme Superfamily. _**Structure**_ 2018, 26 (3), 426–436.e3. <https://doi.org/10.1016/j.str.2018.01.015>.
 
-49. Gagné, D.; Narayanan, C.; Bafna, K.; Charest, L.-A.; Agarwal, P. K.; Doucet, N. Correction to: Sequence-Specific Backbone Resonance Assignments and Microsecond Timescale Molecular Dynamics Simulation of Human Eosinophil-Derived Neurotoxin. Biomol NMR Assign 2018, 12 (2), 365–367. <https://doi.org/10.1007/s12104-018-9833-4>.
+- Gagné, D.; Narayanan, C.; Bafna, K.; Charest, L.-A.; Agarwal, P. K.; **Doucet, N.** Correction to: Sequence-Specific Backbone Resonance Assignments and Microsecond Timescale Molecular Dynamics Simulation of Human Eosinophil-Derived Neurotoxin. **_Biomolecular NMR Assignments_** 2018, 12 (2), 365–367. <https://doi.org/10.1007/s12104-018-9833-4>.
 
-48. Dionne, U.; Chartier, F. J. M.; López De Los Santos, Y.; Lavoie, N.; Bernard, D. N.; Banerjee, S. L.; Otis, F.; Jacquet, K.; Tremblay, M. G.; Jain, M.; Bourassa, S.; Gish, G. D.; Gagné, J.-P.; Poirier, G. G.; Laprise, P.; Voyer, N.; Landry, C. R.; Doucet, N.; Bisson, N. Direct Phosphorylation of SRC Homology 3 Domains by Tyrosine Kinase Receptors Disassembles Ligand-Induced Signaling Networks. Molecular Cell 2018, 70 (6), 995–1007.e11. <https://doi.org/10.1016/j.molcel.2018.05.013>.
+- Dionne, U.; Chartier, F. J. M.; López De Los Santos, Y.; Lavoie, N.; Bernard, D. N.; Banerjee, S. L.; Otis, F.; Jacquet, K.; Tremblay, M. G.; Jain, M.; Bourassa, S.; Gish, G. D.; Gagné, J.-P.; Poirier, G. G.; Laprise, P.; Voyer, N.; Landry, C. R.; **Doucet, N.**; Bisson, N. Direct Phosphorylation of SRC Homology 3 Domains by Tyrosine Kinase Receptors Disassembles Ligand-Induced Signaling Networks. _**Molecular Cell**_ 2018, 70 (6), 995–1007.e11. <https://doi.org/10.1016/j.molcel.2018.05.013>.
 
-47. Debbabi, S.; Groleau, M.-C.; Létourneau, M.; Narayanan, C.; Gosselin, L.-L.; Iddir, M.; Gagnon, J.; Doucet, N.; Déziel, E.; Chatenet, D. Antibacterial Properties of the Pituitary Adenylate Cyclase-Activating Polypeptide: A New Human Antimicrobial Peptide. PLoS ONE 2018, 13 (11), e0207366. <https://doi.org/10.1371/journal.pone.0207366>.
+- Debbabi, S.; Groleau, M.-C.; Létourneau, M.; Narayanan, C.; Gosselin, L.-L.; Iddir, M.; Gagnon, J.; **Doucet, N**.; Déziel, E.; Chatenet, D. Antibacterial Properties of the Pituitary Adenylate Cyclase-Activating Polypeptide: A New Human Antimicrobial Peptide. _**PLoS ONE**_ 2018, 13 (11), e0207366. <https://doi.org/10.1371/journal.pone.0207366>.
 
 {% include section.html %}
 
