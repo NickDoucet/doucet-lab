@@ -31,8 +31,6 @@ We work with the platform to design and execute rigorous experimental pipelines,
 
 ## Research programs at a glance
 
----
-
 ## <a id="structural-biology"></a>Structural biology & protein engineering
 
 We study how conformational dynamics, molecular flexibility, and active-site architecture shape enzyme function.  
