@@ -17,9 +17,9 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2025
 
-80. Nehmé, R.; Fortier, M.; Létourneau, M.; Fuselier, C.; Granger Joly De Boissel, P.; Dumoulin, A.; Guérin, B.; Dumulon-Perreault, V.; Ait-Mohand, S.; Sarrhini, O.; Larda, S. T.; Castellanos Villamizar, Y.; Bernier, M.; Porębska, N.; Opaliński, Ł.; Chatenet, D.; Doucet, N.; St-Pierre, Y. Development of Galectin-7-Specific Nanobodies: Implications for Immunotherapy and Molecular Imaging in Cancer. J. Med. Chem. 2025, 68 (8), 8484–8496. <https://doi.org/10.1021/acs.jmedchem.5c00071>.
+- Nehmé, R.; Fortier, M.; Létourneau, M.; Fuselier, C.; Granger Joly De Boissel, P.; Dumoulin, A.; Guérin, B.; Dumulon-Perreault, V.; Ait-Mohand, S.; Sarrhini, O.; Larda, S. T.; Castellanos Villamizar, Y.; Bernier, M.; Porębska, N.; Opaliński, Ł.; Chatenet, D.; **Doucet, N.**; St-Pierre, Y. Development of Galectin-7-Specific Nanobodies: Implications for Immunotherapy and Molecular Imaging in Cancer. **_Journal of Medicinal Chemistry_** 2025, 68 (8), 8484–8496. <https://doi.org/10.1021/acs.jmedchem.5c00071>.
 
-79. Granger Joly De Boissel, P.; Nehmé, R.; Fortier, M.; Létourneau, M.; Guérin, B.; Dumulon-Perreault, V.; Ait-Mohand, S.; Sarrhini, O.; Fuselier, C.; Dumoulin, A.; Chatenet, D.; Doucet, N.; St-Pierre, Y. Development and Use of a Galectin-1-Specific Nanobody for Tumor Imaging and Elucidating the Role of Galectin-1 in Cancer. ACS Pharmacol. Transl. Sci. 2025, 8 (8), 2564–2574. <https://doi.org/10.1021/acsptsci.5c00178>.
+- Granger Joly De Boissel, P.; Nehmé, R.; Fortier, M.; Létourneau, M.; Guérin, B.; Dumulon-Perreault, V.; Ait-Mohand, S.; Sarrhini, O.; Fuselier, C.; Dumoulin, A.; Chatenet, D.; **Doucet, N.**; St-Pierre, Y. Development and Use of a Galectin-1-Specific Nanobody for Tumor Imaging and Elucidating the Role of Galectin-1 in Cancer. _**ACS Pharmacology & Translational Science**_ 2025, 8 (8), 2564–2574. <https://doi.org/10.1021/acsptsci.5c00178>.
 
 {% include section.html %}
 
