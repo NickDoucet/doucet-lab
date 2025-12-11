@@ -137,7 +137,7 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 - Gagné, D.; Narayanan, C.; Nguyen-Thi, N.; Roux, L. D.; Bernard, D. N.; Brunzelle, J. S.; Couture, J.-F.; Agarwal, P. K.; **Doucet, N.** Ligand Binding Enhances Millisecond Conformational Exchange in Xylanase B2 from _Streptomyces lividans_. _**Biochemistry**_ 2016, 55 (30), 4184–4196. <https://doi.org/10.1021/acs.biochem.6b00130>.
 
-- Agarwal, P. K.; **Doucet, N.**; Chennubhotla, C.; Ramanathan, A.; Narayanan, C. Conformational Sub-States and Populations in Enzyme Catalysis. **_Methods in Enzymology_**; Elsevier, 2016; Vol. 578, pp 273–297. <https://doi.org/10.1016/bs.mie.2016.05.023>.
+- Agarwal, P. K.; **Doucet, N.**; Chennubhotla, C.; Ramanathan, A.; Narayanan, C. Conformational Sub-States and Populations in Enzyme Catalysis. In **_Methods in Enzymology_**; Elsevier, 2016; Vol. 578, pp 273–297. <https://doi.org/10.1016/bs.mie.2016.05.023>.
 
 {% include section.html %}
 
