@@ -177,86 +177,86 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2013
 
-24. Ndoti-Nembe, A.; Vu, K. D.; Doucet, N.; Lacroix, M. Effect of Combination of Essential Oils and Bacteriocins on the Efficacy of Gamma Radiation against Salmonella Typhimurium and Listeria Monocytogenes. International Journal of Radiation Biology 2013, 89 (10), 794–800. <https://doi.org/10.3109/09553002.2013.797621>.
+- Ndoti-Nembe, A.; Vu, K. D.; **Doucet, N.**; Lacroix, M. Effect of Combination of Essential Oils and Bacteriocins on the Efficacy of Gamma Radiation against _Salmonella typhimurium_ and _Listeria monocytogenes_. **_International Journal of Radiation Biology_** 2013, 89 (10), 794–800. <https://doi.org/10.3109/09553002.2013.797621>.
 
-23. Garénaux, A.; Houle, S.; Folch, B.; Dallaire, G.; Truesdell, M.; Lépine, F.; Doucet, N.; Dozois, C. M. Avian Lipocalin Expression in Chickens Following Escherichia Coli Infection and Inhibition of Avian Pathogenic Escherichia Coli Growth by Ex-FABP. Veterinary Immunology and Immunopathology 2013, 152 (1–2), 156–167. <https://doi.org/10.1016/j.vetimm.2012.09.018>.
+- Garénaux, A.; Houle, S.; Folch, B.; Dallaire, G.; Truesdell, M.; Lépine, F.; **Doucet, N.**; Dozois, C. M. Avian Lipocalin Expression in Chickens Following _Escherichia coli_ Infection and Inhibition of Avian Pathogenic _Escherichia coli_ Growth by Ex-FABP. **_Veterinary Immunology and Immunopathology_** 2013, 152 (1–2), 156–167. <https://doi.org/10.1016/j.vetimm.2012.09.018>.
 
-22. Gagné, D.; Doucet, N. Structural and Functional Importance of Local and Global Conformational Fluctuations in the RNase A Superfamily. The FEBS Journal 2013, 280 (22), 5596–5607. <https://doi.org/10.1111/febs.12371>.
+- Gagné, D.; **Doucet, N.** Structural and Functional Importance of Local and Global Conformational Fluctuations in the RNase A Superfamily. **_The FEBS Journal_** 2013, 280 (22), 5596–5607. <https://doi.org/10.1111/febs.12371>.
 
-21. Folch, B.; Déziel, E.; Doucet, N. Systematic Mutational Analysis of the Putative Hydrolase PqsE: Toward a Deeper Molecular Understanding of Virulence Acquisition in Pseudomonas Aeruginosa. PLoS ONE 2013, 8 (9), e73727. <https://doi.org/10.1371/journal.pone.0073727>.
+- Folch, B.; Déziel, E.; **Doucet, N.** Systematic Mutational Analysis of the Putative Hydrolase PqsE: Toward a Deeper Molecular Understanding of Virulence Acquisition in _Pseudomonas aeruginosa_. **_PLoS ONE_** 2013, 8 (9), e73727. <https://doi.org/10.1371/journal.pone.0073727>.
 
-20. Dulcey, C. E.; Dekimpe, V.; Fauvelle, D.-A.; Milot, S.; Groleau, M.-C.; Doucet, N.; Rahme, L. G.; Lépine, F.; Déziel, E. The End of an Old Hypothesis: The Pseudomonas Signaling Molecules 4-Hydroxy-2-Alkylquinolines Derive from Fatty Acids, Not 3-Ketofatty Acids. Chemistry & Biology 2013, 20 (12), 1481–1491. <https://doi.org/10.1016/j.chembiol.2013.09.021>.
+- Dulcey, C. E.; Dekimpe, V.; Fauvelle, D.-A.; Milot, S.; Groleau, M.-C.; **Doucet, N.**; Rahme, L. G.; Lépine, F.; Déziel, E. The End of an Old Hypothesis: The _Pseudomonas_ Signaling Molecules 4-Hydroxy-2-Alkylquinolines Derive from Fatty Acids, Not 3-Ketofatty Acids. _**Chemistry & Biology**_ 2013, 20 (12), 1481–1491. <https://doi.org/10.1016/j.chembiol.2013.09.021>.
 
-19. Chatenet, D.; Folch, B.; Feytens, D.; Létourneau, M.; Tourwé, D.; Doucet, N.; Fournier, A. Development and Pharmacological Characterization of Conformationally Constrained Urotensin II-Related Peptide Agonists. J. Med. Chem. 2013, 56 (23), 9612–9622. <https://doi.org/10.1021/jm401153j>.
+- Chatenet, D.; Folch, B.; Feytens, D.; Létourneau, M.; Tourwé, D.; **Doucet, N.**; Fournier, A. Development and Pharmacological Characterization of Conformationally Constrained Urotensin II-Related Peptide Agonists. _**Journal of Medicinal Chemistry**_ 2013, 56 (23), 9612–9622. <https://doi.org/10.1021/jm401153j>.
 
 {% include section.html %}
 
 ## 2012
 
-18. Nguyen, T. T. N.; Folch, B.; Létourneau, M.; Vaudry, D.; Truong, N. H.; Doucet, N.; Chatenet, D.; Fournier, A. Cardiotoxin-I: An Unexpectedly Potent Insulinotropic Agent. ChemBioChem 2012, 13 (12), 1805–1812. <https://doi.org/10.1002/cbic.201200081>.
+- Nguyen, T. T. N.; Folch, B.; Létourneau, M.; Vaudry, D.; Truong, N. H.; **Doucet, N.**; Chatenet, D.; Fournier, A. Cardiotoxin-I: An Unexpectedly Potent Insulinotropic Agent. _**ChemBioChem**_ 2012, 13 (12), 1805–1812. <https://doi.org/10.1002/cbic.201200081>.
 
-17. Gagné, D.; Charest, L.-A.; Morin, S.; Kovrigin, E. L.; Doucet, N. Conservation of Flexible Residue Clusters among Structural and Functional Enzyme Homologues. Journal of Biological Chemistry 2012, 287 (53), 44289–44300. <https://doi.org/10.1074/jbc.M112.394866>.
+- Gagné, D.; Charest, L.-A.; Morin, S.; Kovrigin, E. L.; **Doucet, N.** Conservation of Flexible Residue Clusters among Structural and Functional Enzyme Homologues. _**Journal of Biological Chemistry**_ 2012, 287 (53), 44289–44300. <https://doi.org/10.1074/jbc.M112.394866>.
 
-16. Doan, N.-D.; Létourneau, M.; Vaudry, D.; Doucet, N.; Folch, B.; Vaudry, H.; Fournier, A.; Chatenet, D. Design and Characterization of Novel Cell-Penetrating Peptides from Pituitary Adenylate Cyclase-Activating Polypeptide. Journal of Controlled Release 2012, 163 (2), 256–265. <https://doi.org/10.1016/j.jconrel.2012.08.021>.
+- Doan, N.-D.; Létourneau, M.; Vaudry, D.; **Doucet, N.**; Folch, B.; Vaudry, H.; Fournier, A.; Chatenet, D. Design and Characterization of Novel Cell-Penetrating Peptides from Pituitary Adenylate Cyclase-Activating Polypeptide. **_Journal of Controlled Release_** 2012, 163 (2), 256–265. <https://doi.org/10.1016/j.jconrel.2012.08.021>.
 
-15. Clouthier, C. M.; Morin, S.; Gobeil, S. M. C.; Doucet, N.; Blanchet, J.; Nguyen, E.; Gagné, S. M.; Pelletier, J. N. Chimeric β-Lactamases: Global Conservation of Parental Function and Fast Time-Scale Dynamics with Increased Slow Motions. PLoS ONE 2012, 7 (12), e52283. <https://doi.org/10.1371/journal.pone.0052283>.
+- Clouthier, C. M.; Morin, S.; Gobeil, S. M. C.; **Doucet, N.**; Blanchet, J.; Nguyen, E.; Gagné, S. M.; Pelletier, J. N. Chimeric β-Lactamases: Global Conservation of Parental Function and Fast Time-Scale Dynamics with Increased Slow Motions. _**PLoS ONE**_ 2012, 7 (12), e52283. <https://doi.org/10.1371/journal.pone.0052283>.
 
-14. Brault, G.; Shareck, F.; Hurtubise, Y.; Lépine, F.; Doucet, N. Isolation and Characterization of EstC, a New Cold-Active Esterase from Streptomyces Coelicolor A3(2). PLoS ONE 2012, 7 (3), e32041. <https://doi.org/10.1371/journal.pone.0032041>.
+- Brault, G.; Shareck, F.; Hurtubise, Y.; Lépine, F.; **Doucet, N.** Isolation and Characterization of EstC, a New Cold-Active Esterase from _Streptomyces coelicolor_ A3(2). _**PLoS ONE**_ 2012, 7 (3), e32041. <https://doi.org/10.1371/journal.pone.0032041>.
 
-13. Allard, M.; Dupont, C.; Muñoz Robles, V.; Doucet, N.; Lledós, A.; Maréchal, J.; Urvoas, A.; Mahy, J.; Ricoux, R. Incorporation of Manganese Complexes into Xylanase: New Artificial Metalloenzymes for Enantioselective Epoxidation. ChemBioChem 2012, 13 (2), 240–251. <https://doi.org/10.1002/cbic.201100659>.
+- Allard, M.; Dupont, C.; Muñoz Robles, V.; **Doucet, N.**; Lledós, A.; Maréchal, J.; Urvoas, A.; Mahy, J.; Ricoux, R. Incorporation of Manganese Complexes into Xylanase: New Artificial Metalloenzymes for Enantioselective Epoxidation. _**ChemBioChem**_ 2012, 13 (2), 240–251. <https://doi.org/10.1002/cbic.201100659>.
 
 {% include section.html %}
 
 ## 2011
 
-12. Doucet, N.; Khirich, G.; Kovrigin, E. L.; Loria, J. P. Alteration of Hydrogen Bonding in the Vicinity of Histidine 48 Disrupts Millisecond Motions in RNase A. Biochemistry 2011, 50 (10), 1723–1730. <https://doi.org/10.1021/bi1018539>.
+- **Doucet, N.**; Khirich, G.; Kovrigin, E. L.; Loria, J. P. Alteration of Hydrogen Bonding in the Vicinity of Histidine 48 Disrupts Millisecond Motions in RNase A. _**Biochemistry**_ 2011, 50 (10), 1723–1730. <https://doi.org/10.1021/bi1018539>.
 
-11. Doucet, N.; Loria, J. P. Relaxation Dispersion Studies of Enzyme Motions. In Advances in Biomedical Spectroscopy; IOS Press, 2011. <https://doi.org/10.3233/978-1-60750-695-9-185>.
+- **Doucet, N.**; Loria, J. P. Relaxation Dispersion Studies of Enzyme Motions. In **_Advances in Biomedical Spectroscopy_**; IOS Press, 2011. <https://doi.org/10.3233/978-1-60750-695-9-185>.
 
-10. Doucet, N. Can Enzyme Engineering Benefit from the Modulation of Protein Motions? Lessons Learned from NMR Relaxation Dispersion Experiments. PPL 2011, 18 (4), 336–343. <https://doi.org/10.2174/092986611794653950>.
+- **Doucet, N.** Can Enzyme Engineering Benefit from the Modulation of Protein Motions? Lessons Learned from NMR Relaxation Dispersion Experiments. _**Protein and Peptide Letters**_ 2011, 18 (4), 336–343. <https://doi.org/10.2174/092986611794653950>.
 
 {% include section.html %}
 
 ## 2010
 
-9. Doucet, N.; Jayasundera, T. B.; Simonović, M.; Loria, J. P. The Crystal Structure of Ribonuclease A in Complex with Thymidine-3′-monophosphate Provides Further Insight into Ligand Binding. Proteins 2010, 78 (11), 2459–2468. <https://doi.org/10.1002/prot.22754>.
+- **Doucet, N.**; Jayasundera, T. B.; Simonović, M.; Loria, J. P. The Crystal Structure of Ribonuclease A in Complex with Thymidine-3′-monophosphate Provides Further Insight into Ligand Binding. _**Proteins: Structure, Function, and Bioinformatics**_ 2010, 78 (11), 2459–2468. <https://doi.org/10.1002/prot.22754>.
 
 {% include section.html %}
 
 ## 2009
 
-8. Doucet, N.; Watt, E. D.; Loria, J. P. The Flexibility of a Distant Loop Modulates Active Site Motion and Product Release in Ribonuclease A. Biochemistry 2009, 48 (30), 7160–7168. <https://doi.org/10.1021/bi900830g>.
+- **Doucet, N.**; Watt, E. D.; Loria, J. P. The Flexibility of a Distant Loop Modulates Active Site Motion and Product Release in Ribonuclease A. _**Biochemistry**_ 2009, 48 (30), 7160–7168. <https://doi.org/10.1021/bi900830g>.
 
-7. De Wals, P.; Doucet, N.; Pelletier, J. N. High Tolerance to Simultaneous Active-site Mutations in TEM-1 β-lactamase: Distinct Mutational Paths Provide More Generalized β-lactam Recognition. Protein Science 2009, 18 (1), 147–160. <https://doi.org/10.1002/pro.25>.
+- De Wals, P.; **Doucet, N.**; Pelletier, J. N. High Tolerance to Simultaneous Active-site Mutations in TEM-1 β-lactamase: Distinct Mutational Paths Provide More Generalized β-lactam Recognition. _**Protein Science**_ 2009, 18 (1), 147–160. <https://doi.org/10.1002/pro.25>.
 
 {% include section.html %}
 
 ## 2008
 
-6. Doucet, N.; Pelletier, J. N. Gaining Insight into Enzyme Function through Correlation with Protein Motions. In Protein Engineering Handbook; Lutz, S., Bornscheuer, U. T., Eds.; Wiley, 2008; pp 187–211. <https://doi.org/10.1002/9783527634026.ch7>.
+- **Doucet, N.**; Pelletier, J. N. Gaining Insight into Enzyme Function through Correlation with Protein Motions. In **_Protein Engineering Handbook_**; Lutz, S., Bornscheuer, U. T., Eds.; Wiley, 2008; pp 187–211. <https://doi.org/10.1002/9783527634026.ch7>.
 
 {% include section.html %}
 
 ## 2007
 
-5. Doucet, N.; Savard, P.-Y.; Pelletier, J. N.; Gagné, S. M. NMR Investigation of Tyr105 Mutants in TEM-1 β-Lactamase. Journal of Biological Chemistry 2007, 282 (29), 21448–21459. <https://doi.org/10.1074/jbc.M609777200>.
+- **Doucet, N.**; Savard, P.-Y.; Pelletier, J. N.; Gagné, S. M. NMR Investigation of Tyr105 Mutants in TEM-1 β-Lactamase. _**Journal of Biological Chemistry**_ 2007, 282 (29), 21448–21459. <https://doi.org/10.1074/jbc.M609777200>.
 
-4. Doucet, N.; Pelletier, J. N. Simulated Annealing Exploration of an Active-site Tyrosine in TEM-1 β-lactamase Suggests the Existence of Alternate Conformations. Proteins 2007, 69 (2), 340–348. <https://doi.org/10.1002/prot.21485>.
+- **Doucet, N.**; Pelletier, J. N. Simulated Annealing Exploration of an Active-site Tyrosine in TEM-1 β-lactamase Suggests the Existence of Alternate Conformations. _**Proteins: Structure, Function, and Bioinformatics**_ 2007, 69 (2), 340–348. <https://doi.org/10.1002/prot.21485>.
 
 {% include section.html %}
 
 ## 2006
 
-3. Doucet, N. Mutagenèse semi-aléatoire et analyse dynamique de la β-lactamase TEM-1 de _Escherichia coli_, Université de Montréal, 2006. <https://doi.org/10.71781/25789>.
+- Doucet, N. Mutagenèse semi-aléatoire et analyse dynamique de la β-lactamase TEM-1 de _Escherichia coli_, Université de Montréal, 2006. _**Thesis.**_ <https://doi.org/10.71781/25789>.
 
 {% include section.html %}
 
 ## 2005
 
-2. Chica, R. A.; Doucet, N.; Pelletier, J. N. Semi-Rational Approaches to Engineering Enzyme Activity: Combining the Benefits of Directed Evolution and Rational Design. Current Opinion in Biotechnology 2005, 16 (4), 378–384. <https://doi.org/10.1016/j.copbio.2005.06.004>.
+- Chica, R. A.; **Doucet, N.**; Pelletier, J. N. Semi-Rational Approaches to Engineering Enzyme Activity: Combining the Benefits of Directed Evolution and Rational Design. _**Current Opinion in Biotechnology**_ 2005, 16 (4), 378–384. <https://doi.org/10.1016/j.copbio.2005.06.004>.
 
 {% include section.html %}
 
 ## 2004
 
-1. Doucet, N.; De Wals, P.-Y.; Pelletier, J. N. Site-Saturation Mutagenesis of Tyr-105 Reveals Its Importance in Substrate Stabilization and Discrimination in TEM-1 β-Lactamase. Journal of Biological Chemistry 2004, 279 (44), 46295–46303. <https://doi.org/10.1074/jbc.M407606200>.
+- Doucet, N.; De Wals, P.-Y.; Pelletier, J. N. Site-Saturation Mutagenesis of Tyr-105 Reveals Its Importance in Substrate Stabilization and Discrimination in TEM-1 β-Lactamase. _**Journal of Biological Chemistry**_ 2004, 279 (44), 46295–46303. <https://doi.org/10.1074/jbc.M407606200>.
