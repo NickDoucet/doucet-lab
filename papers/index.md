@@ -247,7 +247,7 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2006
 
-- Doucet, N. Mutagenèse semi-aléatoire et analyse dynamique de la β-lactamase TEM-1 de _Escherichia coli_, Université de Montréal, 2006. _**Thesis.**_ <https://doi.org/10.71781/25789>.
+- **Doucet, N.** Mutagenèse semi-aléatoire et analyse dynamique de la β-lactamase TEM-1 de _Escherichia coli_, Université de Montréal, 2006. _**Thesis.**_ <https://doi.org/10.71781/25789>.
 
 {% include section.html %}
 
@@ -259,4 +259,4 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2004
 
-- Doucet, N.; De Wals, P.-Y.; Pelletier, J. N. Site-Saturation Mutagenesis of Tyr-105 Reveals Its Importance in Substrate Stabilization and Discrimination in TEM-1 β-Lactamase. _**Journal of Biological Chemistry**_ 2004, 279 (44), 46295–46303. <https://doi.org/10.1074/jbc.M407606200>.
+- **Doucet, N.**; De Wals, P.-Y.; Pelletier, J. N. Site-Saturation Mutagenesis of Tyr-105 Reveals Its Importance in Substrate Stabilization and Discrimination in TEM-1 β-Lactamase. _**Journal of Biological Chemistry**_ 2004, 279 (44), 46295–46303. <https://doi.org/10.1074/jbc.M407606200>.
