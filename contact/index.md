@@ -11,6 +11,15 @@ If you are interested in our research, potential collaborations, or training opp
 
 We are located at the **Centre Armand-Frappier Santé Biotechnologie (AFSB)** of the **Institut National de la Recherche Scientifique (INRS)** in Laval, Québec (a suburb of Montréal). INRS is part of the **Université du Québec** network of institutions. 
 
+{% capture content %}
+
+{% include figure.html image="images/inrs.jpg" %}
+{% include figure.html image="images/uq.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+
 [Université du Québec Network](https://decouvrir.uquebec.ca)
 
 {% include section.html %}
