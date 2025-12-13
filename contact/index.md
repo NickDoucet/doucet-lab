@@ -9,7 +9,7 @@ nav:
 
 <img src="{{ 'images/inrs.jpg' | relative_url }}"
      alt="INRS Logo"
-     style="display:block; margin: 1.5rem auto 2rem auto; max-width:80%; border-radius:0px;">
+     style="display:block; margin: 1.5rem auto 2rem auto; max-width:30%; border-radius:0px;">
 
 <img src="{{ 'images/uq.jpg' | relative_url }}"
      alt="UQ Logo"
