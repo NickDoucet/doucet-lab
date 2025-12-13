@@ -7,6 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+<img src="{{ 'images/inrs.jpg' | relative_url }}"
+     alt="INRS Logo"
+     style="display:block; margin: 1.5rem auto 2rem auto; max-width:80%; border-radius:0px;">
+
+<img src="{{ 'images/uq.jpg' | relative_url }}"
+     alt="UQ Logo"
+     style="display:block; margin: 1.5rem auto 2rem auto; max-width:80%; border-radius:0px;">
+
 If you are interested in our research, potential collaborations, or training opportunities (M.Sc., Ph.D., postdoc, internships), feel free to get in touch with us.  
 
 We are located at the **Centre Armand-Frappier Santé Biotechnologie (AFSB)** of the **Institut National de la Recherche Scientifique (INRS)** in Laval, Québec (a suburb of Montréal). INRS is part of the **Université du Québec** network of institutions.
