@@ -15,6 +15,12 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 {% include section.html %}
 
+## 2026
+
+- Pham, N. T. H.; Paré, A.; Létourneau, M.; Fortier, M.; Chatenet, D.; St-Pierre, Y.; Lagüe, P.; Calmettes, C.; **Doucet, N.** Network-Based Allosteric Analysis of Galectin-7: Key Residues Dictate Functional Communication and Stability. **_Protein Science_** 2026, In Press.
+
+{% include section.html %}
+
 ## 2025
 
 - Nehmé, R.; Fortier, M.; Létourneau, M.; Fuselier, C.; Granger Joly De Boissel, P.; Dumoulin, A.; Guérin, B.; Dumulon-Perreault, V.; Ait-Mohand, S.; Sarrhini, O.; Larda, S. T.; Castellanos Villamizar, Y.; Bernier, M.; Porębska, N.; Opaliński, Ł.; Chatenet, D.; **Doucet, N.**; St-Pierre, Y. Development of Galectin-7-Specific Nanobodies: Implications for Immunotherapy and Molecular Imaging in Cancer. **_Journal of Medicinal Chemistry_** 2025, 68 (8), 8484–8496. <https://doi.org/10.1021/acs.jmedchem.5c00071>.
