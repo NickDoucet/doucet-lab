@@ -69,19 +69,6 @@ These nanobodies act as inhibitors, conformational traps, and crystallization or
 
 {% include section.html %}
 
-## <a id="food-systems"></a>Biomolecular & food systems characterization
-
-We apply high-resolution spectroscopy and chemometrics to complex biological matrices.  
-In collaboration with academic, industrial and municipal partners, we focus on:
-
-- **Maple syrup molecular fingerprinting** using NMR  
-- Identification of **terroir signatures**, **quality defects** and **chemical markers**  
-- Machine-learning models for classification and authenticity assessment  
-
-This interdisciplinary program bridges environmental microbiology, analytical chemistry, and biomolecular modeling to understand how ecosystems shape food chemistry.
-
-{% include section.html %}
-
 ## Tools & infrastructure
 
 Our work is supported by state-of-the-art NMR facilities, crystallography and biophysics platforms, analytical chemistry infrastructure, and high-performance computing resources for AI-driven protein engineering.  
