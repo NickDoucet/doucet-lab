@@ -9,7 +9,7 @@ nav:
 
 Our lab investigates how proteins work, evolve, and can be redesigned for new molecular functions. 
 
-We combine **structural biology**, **AI-guided protein engineering**, **biophysical characterization**, and **food & biomolecular chemistry** to uncover mechanisms of action and create innovative biotechnological tools.
+We combine **structural biology**, **AI-guided protein engineering**, and **biophysical characterization** to uncover mechanisms of action and create innovative biotechnological tools.
 
 {% include section.html %}
 
@@ -23,7 +23,7 @@ This platform provides academic and industrial access to advanced structural bio
 - **Conformational dynamics and folding landscapes**  
 - **Biomolecular stability, aggregation and self-assembly**  
 
-We work with the platform to design and execute rigorous experimental pipelines, from biophysical screening to high-resolution structural analysis, in support of both fundamental and applied research in small-molecule, materials, protein, and food/biomolecular chemistry.
+We work with the platform to design and execute rigorous experimental pipelines, from biophysical screening to high-resolution structural analysis, in support of both fundamental and applied research in small-molecule, materials, protein, and biomolecular chemistry.
 
 [Learn more about the IMCM / MIMC platform](https://www.plateformesafsb.inrs.ca/MIMC/index.html)
 
