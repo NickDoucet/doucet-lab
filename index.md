@@ -15,8 +15,7 @@ Our core expertise spans:
 
 - **NMR spectroscopy** and **X-ray crystallography** for high-resolution structural and dynamic analysis  
 - **Protein & enzyme engineering**, **nanobody redesign**  
-- **Artificial intelligence–guided protein design**, including our in-house server platform SPASE (Soluble Protein Analog Selection Engine)
-- **Biomolecular fingerprinting of food matrices** using NMR and chemometrics  
+- **Artificial intelligence–guided protein design**, including our in-house server platform SPASE (Soluble Protein Analog Selection Engine) 
 
 [Learn more about our research](research)  
 [View our publications](papers)
@@ -47,14 +46,6 @@ We strongly support the participation of women, LGBTQ+ individuals, and other un
   link="projects"
   title="SPASE – AI-guided protein design"
   text="SPASE (Soluble Protein Analog Selection Engine) is our in-house AI-assisted design pipeline that combines sequence design, stability and solubility predictions and rapid structure prediction to generate experimentally tractable protein variants."
-%}
-
-{%
-  include feature.html
-  image="images/maple.jpg"
-  link="projects"
-  title="Biomolecular & food systems characterization"
-  text="We develop NMR models to study maple syrup chemistry, terroir signatures, quality defects and other complex food and biomolecular systems."
 %}
 
 {% include section.html %}
