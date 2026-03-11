@@ -17,7 +17,7 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2026
 
-- Pham, N. T. H.; Paré, A.; Létourneau, M.; Fortier, M.; Chatenet, D.; St-Pierre, Y.; Lagüe, P.; Calmettes, C.; **Doucet, N.** Network-Based Allosteric Analysis of Galectin-7: Key Residues Dictate Functional Communication and Stability. **_Protein Science_** 2026, In Press.
+- Pham, N. T. H.; Paré, A.; Létourneau, M.; Fortier, M.; Chatenet, D.; St-Pierre, Y.; Lagüe, P.; Calmettes, C.; **Doucet, N.** Network-Based Allosteric Analysis of Galectin-7: Key Residues Dictate Functional Communication and Stability. **_Protein Science_** 2026, 35 (3), e70502. <https://doi.org/10.1002/pro.70502>.
 
 {% include section.html %}
 
