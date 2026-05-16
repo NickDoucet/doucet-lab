@@ -9,7 +9,7 @@ nav:
 
 Our lab investigates how proteins work, evolve, and can be redesigned for new molecular functions. 
 
-We combine **structural biology**, **AI-guided protein engineering**, and **biophysical characterization** to uncover mechanisms of action and create innovative biotechnological tools.
+We combine **structural biology**, **AI-guided protein engineering**, **biophysical characterization**, and **food & biomolecular chemistry** to uncover mechanisms of action and create innovative biotechnological tools.
 
 {% include section.html %}
 
@@ -23,7 +23,7 @@ This platform provides academic and industrial access to advanced structural bio
 - **Conformational dynamics and folding landscapes**  
 - **Biomolecular stability, aggregation and self-assembly**  
 
-We work with the platform to design and execute rigorous experimental pipelines, from biophysical screening to high-resolution structural analysis, in support of both fundamental and applied research in small-molecule, materials, protein, and biomolecular chemistry.
+We work with the platform to design and execute rigorous experimental pipelines, from biophysical screening to high-resolution structural analysis, in support of both fundamental and applied research in small-molecule, materials, protein, and food/biomolecular chemistry.
 
 [Learn more about the IMCM / MIMC platform](https://www.plateformesafsb.inrs.ca/MIMC/index.html)
 
@@ -66,6 +66,19 @@ We develop and characterize nanobodies targeting:
 
 Our pipeline includes phage-display nanobody discovery with partners, NMR epitope mapping, biophysical affinity measurements, and structure-guided redesign.  
 These nanobodies act as inhibitors, conformational traps, and crystallization or NMR chaperones for challenging targets.
+
+{% include section.html %}
+
+## <a id="food-systems"></a>Biomolecular & food systems characterization
+
+We apply high-resolution spectroscopy and chemometrics to complex biological matrices.  
+In collaboration with academic, industrial and municipal partners, we focus on:
+
+- **Maple syrup molecular fingerprinting** using NMR  
+- Identification of **terroir signatures**, **quality defects** and **chemical markers**  
+- Machine-learning models for classification and authenticity assessment  
+
+This interdisciplinary program bridges environmental microbiology, analytical chemistry, and biomolecular modeling to understand how ecosystems shape food chemistry.
 
 {% include section.html %}
 
