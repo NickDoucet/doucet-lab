@@ -17,9 +17,9 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2026
 
-- Tran, T. T. Q.; Larda, S. T.; Nieves, C.; Veyrier, F. J.; Calmettes, C.; **Doucet, N.** Engineering human RNase 7 with an eosinophil RNase segment reveals determinants of cytotoxic and antimicrobial activity. _**Journal of Biological Chemistry**_ 2026, In Press.
+- Tran, T. T. Q.; Larda, S. T.; Nieves, C.; Veyrier, F. J.; Calmettes, C.; **Doucet, N.** Engineering Human RNase 7 with an Eosinophil RNase Segment Reveals Determinants of Cytotoxic and Antimicrobial Cctivity. _**Journal of Biological Chemistry**_ 2026, In Press.
 
-- Galarneau, J.; Cordella, C. B. Y.; Larda, S. T.; **Doucet, N.**; Brisson, G. From spectral signatures to binding behavior: an integrated FTIR chemometric and NMR study of protein-procyanidin interactions under multifactorial conditions. **_Food Research International_** 2026, 235, 119158. <https://doi.org/10.1016/j.foodres.2026.119158>.
+- Galarneau, J.; Cordella, C. B. Y.; Larda, S. T.; **Doucet, N.**; Brisson, G. From Spectral Signatures to Binding Behavior: an Integrated FTIR Chemometric and NMR Study of Protein-Procyanidin Interactions Under Multifactorial Conditions. **_Food Research International_** 2026, 235, 119158. <https://doi.org/10.1016/j.foodres.2026.119158>.
 
 - Pham, N. T. H.; Paré, A.; Létourneau, M.; Fortier, M.; Chatenet, D.; St-Pierre, Y.; Lagüe, P.; Calmettes, C.; **Doucet, N.** Network-Based Allosteric Analysis of Galectin-7: Key Residues Dictate Functional Communication and Stability. **_Protein Science_** 2026, 35 (3), e70502. <https://doi.org/10.1002/pro.70502>.
 
