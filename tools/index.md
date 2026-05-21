@@ -5,9 +5,9 @@ nav:
   tooltip: Software, servers, and resources
 ---
 
-# {% include icon.html icon="fa-solid fa-screwdriver-wrench" %} Tools
+# {% include icon.html icon="fa-solid fa-screwdriver-wrench" %} Protein Engineering Canada Portal
 
-The Doucet Lab develops and maintains computational tools, structural biology workflows, and analytical pipelines for protein engineering, biomolecular characterization, and food systems research.
+The Protein Engineering Community develops and maintains computational tools, structural biology workflows, and analytical pipelines for protein design, biomolecular characterization, and systems research.
 
 {% include section.html %}
 
@@ -92,15 +92,15 @@ The Doucet Lab develops and maintains computational tools, structural biology wo
 
 ## Protein engineering resources
 
-<a href="https://proteinengineering.ca">
-  <img src="{{ site.baseurl }}/images/tools/pec-banner.jpg" alt="Protein Engineering Canada banner">
+<a href="https://event.fourwaves.com/pec2026/pages">
+  <img src="{{ site.baseurl }}/images/tools/pec-banner.png" alt="Protein Engineering Canada banner">
 </a>
 
 </div>
 
 {% include section.html %}
 
-## Tools developed by our lab and community
+## Tools developed by our community
 
 <div class="tool-grid">
 
