@@ -13,11 +13,7 @@ The Protein Engineering Community brings together computational tools, structura
 
 <style>
 .tools-hero {
-  margin: 30px 0 60px 0;
-}
-
-.tools-hero h2 {
-  margin-bottom: 25px;
+  margin: 20px 0 60px 0;
 }
 
 .tools-hero img {
@@ -88,14 +84,12 @@ The Protein Engineering Community brings together computational tools, structura
 }
 </style>
 
-<div class="tools-hero">
-
 ## Protein engineering resources
 
-<a href="https://event.fourwaves.com/pec2026/pages">
-  <img src="{{ site.baseurl }}/images/pec-banner.png" alt="Protein Engineering Canada banner">
-</a>
-
+<div class="tools-hero">
+  <a href="https://event.fourwaves.com/pec2026/pages">
+    <img src="{{ site.baseurl }}/images/pec-banner.png" alt="Protein Engineering Canada conference banner">
+  </a>
 </div>
 
 {% include section.html %}
@@ -108,7 +102,7 @@ The Protein Engineering Community brings together computational tools, structura
     <img src="{{ site.baseurl }}/images/tools/spase.jpg" alt="SPASE protein design tool">
     <h3><a href="https://proteinengineering.ca">SPASE<br>Soluble Protein Analog Selection Engine</a></h3>
     <p>
-      SPASE is a protein engineering pipeline built around ProteinMPNN as its core generative engine, combined with complementary biophysical filters for solubility, aggregation propensity, and structural preservation.
+      SPASE is a protein engineering pipeline built around <strong>ProteinMPNN</strong> as its core generative engine, combined with complementary biophysical filters for solubility, aggregation propensity, and structural preservation.
     </p>
   </div>
 
@@ -116,7 +110,7 @@ The Protein Engineering Community brings together computational tools, structura
     <img src="{{ site.baseurl }}/images/tools/suns.jpg" alt="Suns structural search engine">
     <h3><a href="#">Suns<br>The Structural Search Engine</a></h3>
     <p>
-      Suns is a structural search engine for protein databases that integrates with PyMOL. It enables users to build all-atom motif queries, find and align similar structures, and validate designed proteins against experimentally determined structures.
+      Suns is a structural search engine for protein databases that integrates with PyMOL. It enables users to build all-atom motif queries, find and align similar structures, and validate designed or modeled proteins against experimentally determined structures.
     </p>
   </div>
 
