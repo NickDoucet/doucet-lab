@@ -112,7 +112,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://degradolab.org/suns/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/suns-logo-small-resized.png" alt="Suns structural search engine">
+      <img src="{{ site.baseurl }}/images/suns-logo-small-resized_orig.png" alt="Suns structural search engine">
     </a>
     <h3><a href="https://degradolab.org/suns/" target="_blank" rel="noopener">Suns<br>The Structural Search Engine</a></h3>
     <p>
@@ -122,7 +122,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://github.com/polizzilab/NISE" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/niselogo.png" alt="NISE protein design workflow">
+      <img src="{{ site.baseurl }}/images/niselogo_orig.png" alt="NISE protein design workflow">
     </a>
     <h3><a href="https://github.com/polizzilab/NISE" target="_blank" rel="noopener">Neural Iterative Selection Expansion<br>NISE</a></h3>
     <p>
@@ -132,7 +132,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/aggreprot/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/aggreprot.png" alt="AggreProt aggregation prediction server">
+      <img src="{{ site.baseurl }}/images/aggreprot_orig.png" alt="AggreProt aggregation prediction server">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/aggreprot/" target="_blank" rel="noopener">AggreProt</a></h3>
     <p>
@@ -142,7 +142,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/loopgrafter/#/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/loop-grafter-logo-28d69085.png" alt="LoopGrafter protein loop grafting tool">
+      <img src="{{ site.baseurl }}/images/loop-grafter-logo-28d69085_orig.png" alt="LoopGrafter protein loop grafting tool">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/loopgrafter/#/" target="_blank" rel="noopener">LoopGrafter</a></h3>
     <p>
@@ -152,7 +152,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/predictonco/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/predictonco.png" alt="PredictONCO cancer mutation analysis tool">
+      <img src="{{ site.baseurl }}/images/predictonco_orig.png" alt="PredictONCO cancer mutation analysis tool">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/predictonco/" target="_blank" rel="noopener">PredictONCO</a></h3>
     <p>
@@ -162,7 +162,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/soluprotmutdb/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/soluprotmutdb.png" alt="SoluProtMutDB protein solubility mutant database">
+      <img src="{{ site.baseurl }}/images/soluprotmutdb_orig.png" alt="SoluProtMutDB protein solubility mutant database">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/soluprotmutdb/" target="_blank" rel="noopener">SoluProtMutDB</a></h3>
     <p>
@@ -172,7 +172,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/fireprotasr/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/fireprotasr.png" alt="FireProtASR ancestral sequence reconstruction server">
+      <img src="{{ site.baseurl }}/images/fireprotasr_orig.png" alt="FireProtASR ancestral sequence reconstruction server">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/fireprotasr/" target="_blank" rel="noopener">FireProtASR</a></h3>
     <p>
@@ -182,7 +182,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/caverweb/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/caverweb.png" alt="CAVER Web tunnel and channel analysis server">
+      <img src="{{ site.baseurl }}/images/caverweb_orig.png" alt="CAVER Web tunnel and channel analysis server">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/caverweb/" target="_blank" rel="noopener">CAVER Web 1.0</a></h3>
     <p>
@@ -192,7 +192,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/soluprot/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/soluprot.png" alt="SoluProt protein solubility prediction server">
+      <img src="{{ site.baseurl }}/images/soluprot_orig.png" alt="SoluProt protein solubility prediction server">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/soluprot/" target="_blank" rel="noopener">SoluProt 1.0</a></h3>
     <p>
@@ -202,7 +202,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/enzymeminer/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/enzymeminer.png" alt="EnzymeMiner sequence mining web application">
+      <img src="{{ site.baseurl }}/images/enzymeminer_orig.png" alt="EnzymeMiner sequence mining web application">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/enzymeminer/" target="_blank" rel="noopener">EnzymeMiner 1.0</a></h3>
     <p>
@@ -212,7 +212,7 @@ The Protein Engineering Community brings together computational tools, structura
 
   <div class="tool-card">
     <a href="https://loschmidt.chemi.muni.cz/calfitter/" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/calfitter.png" alt="CalFitter differential scanning calorimetry fitting tool">
+      <img src="{{ site.baseurl }}/images/calfitter_orig.png" alt="CalFitter differential scanning calorimetry fitting tool">
     </a>
     <h3><a href="https://loschmidt.chemi.muni.cz/calfitter/" target="_blank" rel="noopener">CalFitter 2.0</a></h3>
     <p>
