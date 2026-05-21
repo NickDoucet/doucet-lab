@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-screwdriver-wrench" %} Protein Engineering Canada Portal
 
-The Protein Engineering Community develops and maintains computational tools, structural biology workflows, and analytical pipelines for protein design, biomolecular characterization, and systems research.
+The Protein Engineering Community brings together computational tools, structural biology workflows, and analytical pipelines that support protein design, biomolecular characterization, and systems research. Some of these resources are featured below. If you have developed a relevant tool or workflow and would like it linked here, we would be happy to hear from you.
 
 {% include section.html %}
 
@@ -93,7 +93,7 @@ The Protein Engineering Community develops and maintains computational tools, st
 ## Protein engineering resources
 
 <a href="https://event.fourwaves.com/pec2026/pages">
-  <img src="{{ site.baseurl }}/images/tools/pec-banner.png" alt="Protein Engineering Canada banner">
+  <img src="{{ site.baseurl }}/images/pec-banner.png" alt="Protein Engineering Canada banner">
 </a>
 
 </div>
