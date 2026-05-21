@@ -84,7 +84,7 @@ The Protein Engineering Community brings together computational tools, structura
 }
 </style>
 
-## Protein engineering resources
+## Click here to access the 6th PEC Conference website
 
 <div class="tools-hero">
   <a href="https://event.fourwaves.com/pec2026/pages">
