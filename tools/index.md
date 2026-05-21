@@ -96,7 +96,9 @@ The Protein Engineering Community brings together computational tools, structura
 
 {% include section.html %}
 
-## Tools developed by our community
+## Useful tools developed by the global protein engineering community
+
+The links below are provided as a curated list of useful community resources for protein engineering and related fields. Inclusion on this page does not imply endorsement, ownership, or responsibility for external content. If you are the developer of a listed tool and would prefer that we remove or modify the link, please contact us and we will be happy to do so.
 
 <div class="tool-grid">
 
