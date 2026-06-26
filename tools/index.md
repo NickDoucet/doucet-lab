@@ -86,16 +86,6 @@ The Protein Engineering Community brings together computational tools, structura
 }
 </style>
 
-## Click here to access the 6th PEC Conference website
-
-<div class="tools-hero">
-  <a href="https://event.fourwaves.com/pec2026/pages" target="_blank" rel="noopener">
-    <img src="{{ site.baseurl }}/images/pec-banner.png" alt="Protein Engineering Canada conference banner">
-  </a>
-</div>
-
-{% include section.html %}
-
 ## Useful tools developed by the global protein engineering community
 
 The links below are provided as a curated list of useful community resources for protein engineering and related fields. Inclusion on this page does not imply endorsement, ownership, or responsibility for external content. If you are the developer of a listed tool and would prefer that we remove or modify the link, please contact us and we will be happy to do so.
@@ -223,3 +213,13 @@ The links below are provided as a curated list of useful community resources for
   </div>
 
 </div>
+
+## Click here to access the 6th PEC Conference website
+
+<div class="tools-hero">
+  <a href="https://event.fourwaves.com/pec2026/pages" target="_blank" rel="noopener">
+    <img src="{{ site.baseurl }}/images/pec-banner.png" alt="Protein Engineering Canada conference banner">
+  </a>
+</div>
+
+{% include section.html %}
