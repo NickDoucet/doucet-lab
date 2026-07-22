@@ -17,7 +17,7 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 ## 2026
 
-- Larda, S. T.; Paré, A.; **Doucet, N.** SPASE: An automated AI-powered server to improve protein engineering workflows. **_Protein Science_** 2026, In Press. [Click here to access the SPASE server.](https://spaseproteindesign.share.zrok.io/home.html)
+- Larda, S. T.; Paré, A.; **Doucet, N.** Soluble Protein Analog Selection Engine (SPASE): An automated AI-powered server to improve protein engineering workflows. **_Protein Science_** 2026, In Press. [Click here to access the SPASE server.](https://spaseproteindesign.share.zrok.io/home.html)
 
 - Tran, T. T. Q.; Larda, S. T.; Nieves, C.; Veyrier, F. J.; Calmettes, C.; **Doucet, N.** Engineering Human RNase 7 with an Eosinophil RNase Segment Reveals Determinants of Cytotoxic and Antimicrobial Activity. _**Journal of Biological Chemistry**_ 2026, 302 (7), 113189. <https://doi.org/10.1016/j.jbc.2026.113189>.
 
