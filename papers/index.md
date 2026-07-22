@@ -19,7 +19,7 @@ Below is the list of peer-reviewed articles, preprints, and book chapters author
 
 - Larda, S. T.; Paré, A.; **Doucet, N.** SPASE: An automated AI-powered server to improve protein engineering workflows. **_Protein Science_** 2026, In Press. [Click here to access the SPASE server.](https://spaseproteindesign.share.zrok.io/home.html)
 
-- Tran, T. T. Q.; Larda, S. T.; Nieves, C.; Veyrier, F. J.; Calmettes, C.; **Doucet, N.** Engineering Human RNase 7 with an Eosinophil RNase Segment Reveals Determinants of Cytotoxic and Antimicrobial Activity. _**Journal of Biological Chemistry**_ 2026, 26, 113189. <https://doi.org/10.1016/j.jbc.2026.113189>.
+- Tran, T. T. Q.; Larda, S. T.; Nieves, C.; Veyrier, F. J.; Calmettes, C.; **Doucet, N.** Engineering Human RNase 7 with an Eosinophil RNase Segment Reveals Determinants of Cytotoxic and Antimicrobial Activity. _**Journal of Biological Chemistry**_ 2026, 302 (7), 113189. <https://doi.org/10.1016/j.jbc.2026.113189>.
 
 - Galarneau, J.; Cordella, C. B. Y.; Larda, S. T.; **Doucet, N.**; Brisson, G. From Spectral Signatures to Binding Behavior: an Integrated FTIR Chemometric and NMR Study of Protein-Procyanidin Interactions Under Multifactorial Conditions. **_Food Research International_** 2026, 235, 119158. <https://doi.org/10.1016/j.foodres.2026.119158>.
 
