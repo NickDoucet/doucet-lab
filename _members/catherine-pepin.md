@@ -1,6 +1,6 @@
 ---
 name: Catherine Pepin
-role: msc
+role: phd
 image: images/team/catherine-pepin.jpg
 
 description: MSc Student – RNase biology & nanobody engineering
